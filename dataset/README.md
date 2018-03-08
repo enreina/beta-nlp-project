@@ -22,8 +22,13 @@ The output will be either `metadata_pos.json` or `metadata_neg.json`
 ## Reviews Dataset
 
 1. Again put the `aclImdb` folder here, if you haven't done so.
-2. Run either `python aggregate_reviews.py pos` or `python aggregate_reviews.py neg`
-3. The output will be `reviews_pos.csv` or `reviews_neg.csv` with the following data in order
+2. Run the following command, replacing `[pos|neg]` and `[train|test]` appropriately
+
+```
+python aggregate_reviews.py [pos|neg] [train|test]
+```
+
+The output will be `reviews_[train|test]_[pos|neg]_.csv` with the following data in order
 
 ```
 review_id,review_text,rating,imdb_id

@@ -1,6 +1,6 @@
 import urllib, json, sys
 # replace [api_key] with your OMDB API Key
-omdb_url = "http://www.omdbapi.com/?i=[movie_id]&apikey=[api_key]"
+omdb_url = "http://www.omdbapi.com/?i=[movie_id]&apikey=461fcd21"
 # set positive or negative based on arguments
 review_type = "pos"
 if len(sys.argv) > 1 and sys.argv[1] in ["pos", "neg"]:
