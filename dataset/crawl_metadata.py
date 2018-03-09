@@ -7,7 +7,7 @@ if len(sys.argv) > 1 and sys.argv[1] in ["pos", "neg"]:
 	review_type = sys.argv[1]
 
 # output file
-metadata_output_filename = "metadata_"+review_type+".json";
+metadata_output_filename = "metadata_"+review_type+".json"
 
 # read urls.txt & urls.txt
 urls_file = open("aclImdb/train/urls_"+review_type+".txt")
@@ -26,14 +26,16 @@ limit = 500
 if len(sys.argv) > 3:
 	limit = int(sys.argv[3])
 
-imdb_ids = imdb_ids[offset_idx:]
 # keeping a list of already fetched ids
 fetched_ids = []
 # dictionary of metadata
 try:
 	metadata = json.load(open(metadata_output_filename))
+	offset_idx = max(sum([x[review_type+"_review_ids"] for x in metadata.values()],[])) + 1
 except:
 	metadata = {}
+
+imdb_ids = imdb_ids[offset_idx:]
 
 for idx,id in enumerate(imdb_ids):
 	print(str(offset_idx+idx+1) + " out of " + str(len(imdb_ids)))

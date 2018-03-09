@@ -33,3 +33,12 @@ The output will be `reviews_[train|test]_[pos|neg]_.csv` with the following data
 ```
 review_id,review_text,rating,imdb_id
 ```
+
+## About the Dataset
+
+* Training
+   * Positive: 1390 movies, 12500 reviews
+   * Negative: 2957 movies, 12500 reviews
+* Testing
+   * Positive: 1351 movies, 12500 reviews
+   * Negative: 3016 movies, 12500 reviews
