@@ -5,19 +5,13 @@
 1. Download the "Large Movie Review Dataset" from [here](http://ai.stanford.edu/~amaas/data/sentiment/)
 2. Extract the tar and put the `aclImdb` folder here.
 3. Replace the `[api-key]` with your OMDB API Key in the `crawl_metadata.py` script
-4. Run the following command (we use Python 2.7.14)
+4. Run the following command, replacing `[pos|neg]` and `[train|test]` appropriately
 
 ```
-python crawl_metadata.py pos
+python crawl_metadata.py [pos|neg] [train|test]
 ```
-for positive reviews
 
-```
-python crawl_metadata.py neg
-```
-for negative reviews
-
-The output will be either `metadata_pos.json` or `metadata_neg.json`
+The output will be `metadata_[pos|neg]_[train|test].json`
 
 ## Reviews Dataset
 
