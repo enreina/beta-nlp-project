@@ -1,4 +1,11 @@
 import os,csv,sys
+
+import re
+def sorted_alphanumeric(data):
+    convert = lambda text: int(text) if text.isdigit() else text.lower()
+    alphanum_key = lambda key: [ convert(c) for c in re.split('([0-9]+)', key) ] 
+    return sorted(data, key=alphanum_key)
+
 # set positive or negative based on arguments
 review_type = "pos"
 if len(sys.argv) > 1 and sys.argv[1] in ["pos", "neg"]:
@@ -9,7 +16,7 @@ if len(sys.argv) > 2 and sys.argv[2] in ["train", "test"]:
 	train_or_test = sys.argv[2]
 
 # get file name list
-filenames = os.listdir("aclImdb/"+train_or_test+"/" + review_type)
+filenames = sorted_alphanumeric(os.listdir("aclImdb/"+train_or_test+"/" + review_type))
 
 # read urls.txt & urls.txt
 urls_file = open("aclImdb/"+train_or_test+"/urls_"+review_type+".txt")
