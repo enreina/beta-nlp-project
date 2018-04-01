@@ -6,7 +6,7 @@ review_type = "pos"
 if len(sys.argv) > 1 and sys.argv[1] in ["pos", "neg"]:
 	review_type = sys.argv[1]
 
-input_files = ['../dataset/review_train_'+review_type+'.csv']
+input_files = ['../dataset/review_test_'+review_type+'.csv']
 items = [];
 csvwriter = csv.writer(open("fullsen_"+review_type+".csv",'w'), delimiter=",", quotechar='"', quoting=csv.QUOTE_ALL)
 
