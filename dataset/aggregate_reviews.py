@@ -8,7 +8,7 @@ def sorted_alphanumeric(data):
 
 # set positive or negative based on arguments
 review_type = "pos"
-if len(sys.argv) > 1 and sys.argv[1] in ["pos", "neg"]:
+if len(sys.argv) > 1 and sys.argv[1] in ["pos", "neg", "unsup"]:
 	review_type = sys.argv[1]
 
 train_or_test = "train"
