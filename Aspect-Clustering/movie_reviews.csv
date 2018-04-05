@@ -1,0 +1,747 @@
+text,label
+screenplay ,1
+cinema ,1
+feature,1
+film ,1
+flick ,1
+motion picture ,1
+picture ,1
+show ,1
+video tape ,1
+celluloid ,1
+talkie ,1
+cine ,1
+cinematics ,1
+cinematograph ,1
+movie picture ,1
+photoplay ,1
+silent ,1
+silver screen ,1
+talking picture ,1
+act,1
+appearance,1
+burlesque,1
+carnival,1
+cinema,1
+comedy,1
+drama,1
+entertainment,1
+film,1
+flick,1
+motion picture,1
+movie,1
+pageant,1
+picture,1
+play,1
+presentation,1
+production,1
+showing,1
+spectacle,1
+curiosity,1
+demonstration,1
+display,1
+event,1
+exposition,1
+extravaganza,1
+marvel,1
+parade,1
+performance,1
+phenomenon,1
+representation,1
+scene,1
+show,1
+sight,1
+spectacular,1
+tableau,1
+view,1
+wonder,1
+cartridge,1
+recording,1
+rental,1
+vid,1
+videotape,1
+music ,2
+sound effects ,2
+effect,2
+recordings,2
+sound,2
+special effects,2
+soundtrack,2
+background music,2
+dialogueUK,2
+dialogUS,2
+incidental music,2
+music,2
+score,2
+melodystar,2
+operastar,2
+piecestar,2
+rapstar,2
+rockstar,2
+singingstar,2
+soulstar,2
+tunestar,2
+acousticstar,2
+airstar,2
+bebopstar,2
+bopstar,2
+chamberstar,2
+classicalstar,2
+folkstar,2
+fusionstar,2
+harmonystar,2
+hymnstar,2
+jazzstar,2
+measurestar,2
+modernstar,2
+plainsongstar,2
+ragtimestar,2
+refrainstar,2
+songstar,2
+strainstar,2
+swingstar,2
+a cappellastar,2
+hard rockstar,2
+heavy metalstar,2
+instrumentalstar,2
+popularstar,2
+rock and roll,2
+art,2
+interpretation,2
+manifestation,2
+mark,2
+painting,2
+revelation,2
+sculpture,2
+echo,2
+noise,2
+sound properties,2
+sound transmission,2
+blast,2
+boom,2
+burst,2
+clang,2
+clap,2
+clash,2
+crack,2
+detonation,2
+discharge,2
+howl,2
+peal,2
+pop,2
+report,2
+roar,2
+roll,2
+rumble,2
+salvo,2
+shot,2
+slam,2
+smash,2
+thud,2
+thump,2
+thunder,2
+wham,2
+artiststar,3
+characterstar,3
+clownstar,3
+comedianstar,3
+entertainerstar,3
+performerstar,3
+playerstar,3
+starstar,3
+villainstar,3
+amateurstar,3
+barnstormerstar,3
+extrastar,3
+foilstar,3
+hamstar,3
+headlinerstar,3
+idolstar,3
+impersonatorstar,3
+leadstar,3
+mimestar,3
+mimicstar,3
+pantomimiststar,3
+play-actorstar,3
+soubrettestar,3
+stand-instar,3
+stoogestar,3
+thespianstar,3
+trouperstar,3
+understudystar,3
+ventriloquiststar,3
+walk-onstar,3
+bit playerstar,3
+hambonestar,3
+ingenuestar,3
+ingénuestar,3
+straight personstar,3
+thesp,3
+abettor,3
+actor,3
+advocate,3
+ambassador,3
+assignee,3
+assistant,3
+attorney,3
+broker,3
+commissioner,3
+delegate,3
+deputy,3
+doer,3
+emissary,3
+envoy,3
+executor,3
+factor,3
+factotum,3
+functionary,3
+go-between,3
+handler,3
+intermediary,3
+lawyer,3
+mediary,3
+middleperson,3
+minister,3
+mover,3
+negotiator,3
+officer,3
+operative,3
+operator,3
+principal,3
+proctor,3
+promoter,3
+proxy,3
+representative,3
+salesperson,3
+servant,3
+steward,3
+substitute,3
+surrogate,3
+ten percenter,3
+worker,3
+banana,3
+card,3
+clown,3
+comic,3
+cutup,3
+droll,3
+entertainer,3
+farceur,3
+humorist,3
+jester,3
+joker,3
+jokester,3
+laugh,3
+merry-andrew,3
+million laughs,3
+quipster,3
+stand-up comic,3
+stooge,3
+top banana,3
+wag,3
+wisecracker,3
+wit,3
+zany,3
+bogus,3
+bum,3
+copy,3
+deceit,3
+deception,3
+dummy,3
+facsimile,3
+fraud,3
+gyp,3
+hoax,3
+humbug,3
+imitation,3
+imposture,3
+junque,3
+phony,3
+pseudo,3
+put-on,3
+reproduction,3
+sell,3
+sham,3
+simulacrum,3
+attitudinizer,3
+backslider,3
+bigot,3
+bluffer,3
+casuist,3
+charlatan,3
+cheat,3
+con artist,3
+crook,3
+deceiver,3
+decoy,3
+dissembler,3
+dissimulator,3
+fake,3
+faker,3
+four-flusher,3
+hook,3
+impostor,3
+informer,3
+lip server,3
+malingerer,3
+masquerader,3
+mountebank,3
+pharisee,3
+playactor,3
+poser,3
+pretender,3
+quack,3
+smoothie,3
+sophist,3
+swindler,3
+trickster,3
+two-face,3
+two-timer,3
+wolf in sheep's clothing,3
+divastar,3
+leading ladystar,3
+starletstar,3
+prima donnastar,3
+acrobat,3
+actress,3
+aerosaltant,3
+artist,3
+artiste,3
+contortionist,3
+equilibrist,3
+funambulist,3
+impersonator,3
+mime,3
+musician,3
+player,3
+star,3
+thespian,3
+trouper,3
+tumbler,3
+ace,3
+celebrity,3
+champion,3
+conqueror,3
+demigoddess,3
+female,3
+idol,3
+leading lady,3
+legend,3
+martyr,3
+protagonist,3
+actors,3
+actresses,3
+artists,3
+characters,3
+company,3
+dramatis personae,3
+list,3
+parts,3
+players,3
+roles,3
+troupe,3
+alter,4
+ameliorate,4
+amplify,4
+angle,4
+annotate,4
+annoyance,4
+annoyed,4
+annoying,4
+another look,4
+arrange,4
+articulate,4
+assemble,4
+assembling shots,4
+assembly edit,4
+assign,4
+audit,4
+bad editing,4
+bad plan,4
+bad planning,4
+better,4
+bit,4
+blueprint,4
+boil down,4
+budget,4
+carving,4
+censor,4
+change,4
+check,4
+chipping,4
+choose,4
+clean up,4
+cleaner,4
+coherence,4
+cohesive,4
+compile,4
+compose,4
+condense,4
+consistent,4
+continuity editing,4
+correct,4
+correction,4
+creative,4
+creatively,4
+creativity,4
+cross-cutting,4
+cure,4
+cut,4
+cutting off,4
+dialectical,4
+dialogue scenes,4
+digital editing,4
+digital intermediate,4
+director's cut,4
+discard,4
+draft,4
+dubbing,4
+edit,4
+edit dialogue,4
+editing,4
+editing skill,4
+editor,4
+editor's budget,4
+editor's cut,4
+editor's work,4
+elevate,4
+enhance,4
+experimenting,4
+extend,4
+extended scene,4
+extra,4
+film editing,4
+film editor,4
+film slate,4
+filmmaking,4
+final cut,4
+fine-tune,4
+finish,4
+fit together,4
+fix,4
+footage,4
+fresh look,4
+go over,4
+good editing,4
+help,4
+identical,4
+inspection,4
+invisible art,4
+lack,4
+lack consistency,4
+layers of,4
+lift,4
+lighting,4
+logic,4
+logical,4
+look,4
+make up,4
+make up for,4
+makeshift,4
+march past,4
+meaning,4
+meaningful,4
+mend,4
+mock,4
+modify,4
+negative  cutting,4
+newspaer clipping,4
+no editing,4
+normalize,4
+offline edit,4
+on-screen,4
+organized,4
+over view,4
+overview,4
+photoshop,4
+physical cut,4
+picture lock,4
+pieces fit,4
+plot holes,4
+polish,4
+post production,4
+precise,4
+press clipping,4
+print,4
+proofread,4
+publish,4
+put together,4
+raise,4
+raw footage,4
+rearrange,4
+reassessment,4
+recalibrate,4
+reclaim,4
+reconsideration,4
+rectified,4
+rectify,4
+redeem,4
+refashion,4
+reflection,4
+reform,4
+regenerate,4
+regulate,4
+re-imagine,4
+reinforce,4
+remedy,4
+remodel,4
+repair,4
+rephrase,4
+replan,4
+rethink,4
+retrace,4
+retrospect,4
+reverse,4
+review,4
+revision,4
+revolution,4
+revolutionize,4
+reweigh,4
+rework,4
+rewrite,4
+right,4
+rough cut,4
+rough sketch,4
+run through,4
+scan,4
+scanned,4
+scruitiny,4
+second look,4
+second thought,4
+sequence,4
+set up,4
+shot reverse shot,4
+shows,4
+sleep on,4
+sound editing,4
+standardize,4
+strike out,4
+style,4
+technique,4
+technology,4
+temporary,4
+think better,4
+think over,4
+think twice,4
+thinning,4
+thought,4
+tighten,4
+trim,4
+uplift,4
+video editing,4
+visible,4
+visual effect,4
+voice editing,4
+work,4
+worst,4
+write over,4
+Broadway,5
+boards,5
+climax,5
+dramatic art,5
+dramatization,5
+dramaturgy,5
+farce,5
+footlights,5
+histrionic art,5
+melodrama,5
+show business,5
+showmanship,5
+stage show,5
+stagecraft,5
+tear-jerker,5
+theater,5
+theatricals,5
+thespian art,5
+tragedy,5
+vehicle,5
+constructionstar,5
+managementstar,5
+manufacturestar,5
+manufacturingstar,5
+assemblystar,5
+bearingstar,5
+blossomingstar,5
+creationstar,5
+directionstar,5
+elongationstar,5
+fabricationstar,5
+formulationstar,5
+fructificationstar,5
+generationstar,5
+givingstar,5
+lengtheningstar,5
+makingstar,5
+originationstar,5
+preparationstar,5
+presentationstar,5
+prolongationstar,5
+protractionstar,5
+provisionstar,5
+renderingstar,5
+reproductionstar,5
+returnstar,5
+stagingstar,5
+yieldingstar,5
+authoringstar,5
+engenderingstar,5
+extentionstar,5
+producing,5
+film maker ,5
+film producer ,5
+movie maker ,5
+architect,5
+author,5
+begetter,5
+brain,5
+deity,5
+designer,5
+founder,5
+framer,5
+generator,5
+initiator,5
+maker,5
+originator,5
+prime mover,5
+producer,5
+sire,5
+administrator,6
+advise,6
+age rating,6
+artistic eye,6
+attention,6
+attention to detail,6
+auteur,6
+bad director,6
+big person,6
+boss,6
+box office,6
+cameo,6
+chief,6
+communication,6
+control,6
+control aspect,6
+cooperation,6
+coordinator,6
+degree,6
+detail,6
+different approach,6
+directing,6
+direction,6
+direction to cast,6
+directional debut,6
+dominate,6
+every stage,6
+executive,6
+feature film,6
+film budget,6
+film criticism,6
+film director,6
+film school,6
+final product,6
+formal training,6
+frame shots,6
+full degree,6
+good director,6
+govern,6
+guide,6
+handle,6
+industrial,6
+instruction,6
+key player,6
+key role,6
+lead,6
+leadership,6
+main author,6
+making films,6
+mediate,6
+meeting,6
+operate,6
+organizer,6
+overall vision,6
+personal style,6
+progressive,6
+project,6
+revenue,6
+run the show,6
+run things,6
+screen play,6
+screenplay,6
+shooting timetable,6
+sound stage,6
+stage,6
+stressful,6
+studio control,6
+studio-system,6
+subject matter,6
+supervisor,6
+technical elements,6
+timetable,6
+top dog,6
+top person,6
+training,6
+cinemastar,7
+feature filmstar,7
+flickstar,7
+talkiestar,7
+cinestar,7
+cinematicsstar,7
+filmstar,7
+flickerstar,7
+moviestar,7
+moving picturestar,7
+photodramastar,7
+photoplaystar,7
+picturestar,7
+picture showstar,7
+silver screenstar,7
+talking picturestar,7
+cine,7
+cinematics,7
+cinematograph,7
+flicker,7
+moving picture,7
+photodrama,7
+photoplay,7
+picture show,7
+silver screen,7
+talkie,7
+talking picture,7
+celluloid,7
+silent,7
+drive-instar,7
+movie housestar,7
+movie theaterstar,7
+bijoustar,7
+flicksstar,7
+picturesstar,7
+playhousestar,7
+showstar,7
+big screenstar,7
+motion picturesstar,7
+moving picturesstar,7
+nabesstar,7
+dailies,7
+rushes,7
+cartoon,7
+amphitheater,7
+arena,7
+assembly hall,7
+auditorium,7
+barn,7
+coliseum,7
+concert hall,7
+deck,7
+drive-in,7
+hall,7
+hippodrome,7
+house,7
+locale,7
+movie house,7
+oak,7
+odeum,7
+opera house,7
+playhouse,7
+room,7
+show hall,7
+site,7
