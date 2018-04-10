@@ -16,4 +16,9 @@ NLP Project of Team Beta for the Information Retrieval (IN4325) course
 9. Evaluation on Test Dataset
 
 ## Output Files
-* `metadata-aspects/potential-aspects.csv`: contains a list of noun tokens processed from `pos-tagging/token.csv` (see Step 6 of [Methodology](#methodology))
+* `metadata-aspects/potential-aspects.csv`: contains a list of noun tokens from processed from `pos-tagging/token.csv`  on Step 6 (see [Methodology](#methodology)). Additionally it adds the `aspect_category` with this labels:
+	* `overall` (from movie title)
+	* `directing` (from director names)
+	* `cast`(from actor names)
+	* `story` (from writer names)
+	* `?` (none of the above, this would mean it needs to be clustered)
