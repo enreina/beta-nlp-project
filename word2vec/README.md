@@ -9,6 +9,14 @@ import word2vec_wrapper
 similarity = word2vec_wrapper.word_similarity("actor","actress")
 ```
 
+The default is to use the word2vec model trained on IMDB reviews, but if you want to use the google news model you can call the similarity function like:
+
+```
+similarity = word2vec_wrapper.word_similarity("actor","actress", "google-news")
+```
+
+
+
 Ping me (enreina@gmail.com or via WhatsApp) when you have a problem!
 
 ## Notes
