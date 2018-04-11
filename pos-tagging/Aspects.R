@@ -4,16 +4,14 @@ library("NLP")
 library("stringr")
 library(openNLP)
 library("dplyr")
-setwd("C:/Users/nehas/Desktop/Q3/IR")
-movies<-read.csv("movie.csv")
-tab<-table(movies$Column4)
+movies<-read.csv("review_train_neg.csv",header = FALSE)
+tab<-table(movies$V4)
 tab<-as.data.frame(tab)
 tab <- tab[order(-tab$Freq),] 
-tab<-tab[1:100,]
 tab<-factor(tab$Var1)
-ind<-which((movies$Column4)==as.character(tab[1]))
+ind<-which((movies$V4)==as.character(tab[1]))
 for(i in 2:100){
-  ind<-c(ind,which((movies$Column4)==as.character(tab[i])))
+  ind<-c(ind,which((movies$V4)==as.character(tab[i])))
 }
 movies<-movies[ind,]
 colnames(movies)<-c("Review_ID","Review","Score","Movie_ID")
