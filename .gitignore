@@ -1,2 +1,3 @@
 preprocess/word2vec/sentences.pkl
 word2vec/models/*
+word2vec/output
