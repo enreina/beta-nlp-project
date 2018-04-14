@@ -10,6 +10,9 @@ vectors = X.iloc[:,1:] # this is the vector representation, from column 1 till t
 words = X[X.columns[0]] # this is the first column, the real "words"
 centroids, labels, inertia = cluster.k_means (vectors, n_clusters = 4)
 
+# and then we can combine labels and words
+result = pd.DataFrame({"Word": words, "Label":labels})
+
 #kmeans = KMeans(n_clusters=2, random_state=0).fit(X)
 np.savetxt('C:\\Users\\chitra\\Desktop\\TU-Delft\\Information Retrival\\movie-reviews\\label.txt',labels,fmt='%d')
 np.savetxt('C:\\Users\\chitra\\Desktop\\TU-Delft\\Information Retrival\\movie-reviews\\centroids.txt',centroids,fmt='%d')
