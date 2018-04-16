@@ -1,6 +1,12 @@
 # beta-nlp-project
 NLP Project of Team Beta for the Information Retrieval (IN4325) course
 
+## Team
+- Chitra Balasubramanian ([@strawbeerry](https://github.com/strawbeerry))
+- Enreina Annisa Rizkiasri ([@enreina](https://github.com/enreina))
+- Neha Sree Thuraka ([@nehasreet](https://github.com/nehasreet))
+- Nivedita Prasad ([@Nivedita-256](https://github.com/Nivedita-256)) 
+
 ## Methodology
 1. Tokenize Reviews to Sentences ->  `pos-tagging/Aspects.R`
 2. Tokenize Sentences to Words ->  `pos-tagging/Aspects.R`
