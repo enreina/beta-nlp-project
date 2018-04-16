@@ -1,0 +1,3522 @@
+,Movie_ID,Rev_ID,Sen_ID,Word,POS,aspect.category
+1,tt0093142,10308,1,words,noun,no
+2,tt0093142,10308,1,movie,noun,general
+3,tt0093142,10308,2,pride,noun,no
+4,tt0093142,10308,2,movie,noun,general
+5,tt0093142,10308,2,matter,noun,no
+6,tt0093142,10308,3,movie,noun,general
+7,tt0093142,10308,3,torture device,noun,no
+8,tt0093142,10308,4,plot,noun,story
+9,tt0093142,10308,4,dialogue,noun,story
+10,tt0093142,10308,4,camera work,noun,general
+11,tt0093142,10308,4,effects,noun,general
+12,tt0093142,10308,4,movie,noun,general
+13,tt0093142,10308,4,horror,noun,no
+14,tt0093142,10308,5,your thinking,noun,no
+15,tt0093142,10308,5,Sandra Bullock fan,noun,cast
+16,tt0093142,10308,5,minutes,noun,no
+17,tt0093142,10308,5,screen time,noun,no
+18,tt0093142,10308,5,her acting,noun,cast
+19,tt0093142,10308,6,rest,noun,no
+20,tt0093142,10308,6,cast,noun,cast
+21,tt0093142,10308,6,baboons,noun,no
+22,tt0093142,10308,6,job,noun,no
+23,tt0093142,10308,6,dialogue,noun,general
+24,tt0093142,10309,1,cover,noun,no
+25,tt0093142,10309,1,DVD,noun,no
+26,tt0093142,10309,1,Sandra Bullock,noun,cast
+27,tt0093142,10309,1,minutes,noun,no
+28,tt0093142,10309,1,cult classic,noun,no
+29,tt0093142,10309,2,entertainment value,noun,general
+30,tt0093142,10309,3,highlights,noun,no
+31,tt0093142,10309,3,attention,noun,no
+32,tt0093142,10309,3,voices,noun,general
+33,tt0093142,10309,3,chief,noun,cast
+34,tt0093142,10309,3,guys,noun,no
+35,tt0093142,10309,3,gun cam,noun,no
+36,tt0093142,10309,3,masks,noun,no
+37,tt0093142,10309,3,outfits,noun,no
+38,tt0093142,10309,3,hit killers,noun,no
+39,tt0093142,10309,3,ways,noun,no
+40,tt0093142,10309,3,bullet,noun,no
+41,tt0093142,10309,3,ground,noun,no
+42,tt0093142,10309,3,abundance,noun,no
+43,tt0093142,10309,3,bottom,noun,no
+44,tt0093142,10309,3,shots,noun,no
+45,tt0093142,10309,3,spacey scene,noun,general
+46,tt0093142,10309,3,Bullock,noun,cast
+47,tt0093142,10309,3,street,noun,no
+48,tt0093142,10309,3,mob guy Moe LaMotta,noun,cast
+49,tt0093142,10309,3,synthesizer background music,noun,music
+50,tt0093142,10309,3,gun fetishismAnd,noun,no
+51,tt0093142,10309,3,corny fist fight scenes,noun,general
+52,tt0093142,10309,5,point,noun,no
+53,tt0093142,10309,5,attempt,noun,no
+54,tt0093142,10310,1,boy,noun,no
+55,tt0093142,10310,2,boy,noun,no
+56,tt0093142,10310,3,cover,noun,no
+57,tt0093142,10310,3,VHS,noun,no
+58,tt0093142,10310,3,picture,noun,no
+59,tt0093142,10310,3,Sandra Bullock,noun,cast
+60,tt0093142,10310,3,her name,noun,no
+61,tt0093142,10310,3,top,noun,no
+62,tt0093142,10310,4,reason,noun,no
+63,tt0093142,10310,4,chance,noun,no
+64,tt0093142,10310,4,movie,noun,general
+65,tt0093142,10310,4,nineties,noun,no
+66,tt0093142,10310,4,Sandra Bullock,noun,cast
+67,tt0093142,10310,4,name,noun,no
+68,tt0093142,10310,5,Bullock,noun,cast
+69,tt0093142,10310,5,fans,noun,no
+70,tt0093142,10310,6,Sandra,noun,cast
+71,tt0093142,10310,6,thing,noun,no
+72,tt0093142,10310,6,movie,noun,general
+73,tt0093142,10310,6,her performance,noun,cast
+74,tt0093142,10310,7,Rest,noun,no
+75,tt0093142,10310,7,movie,noun,general
+76,tt0093142,10310,7,fun,noun,no
+77,tt0093142,10310,7,minutes,noun,no
+78,tt0093142,10310,11,Script,noun,story
+79,tt0093142,10310,12,Dialog,noun,general
+80,tt0093142,10310,13,Action,noun,general
+81,tt0093142,10310,14,Music,noun,music
+82,tt0093142,10310,15,score,noun,music
+83,tt0093142,10310,15,action movies,noun,general
+84,tt0093142,10310,16,movie,noun,general
+85,tt0093142,10310,16,anything Andy Sidaris,noun,no
+86,tt0093142,10310,17,word,noun,no
+87,tt0093142,10310,17,attempt,noun,no
+88,tt0093142,10310,17,movie,noun,general
+89,tt0093142,10310,18,Sandra Bullock,noun,cast
+90,tt0093142,10310,19,sarcasm Jake LaMotta who,noun,cast
+91,tt0093142,10310,19,Marlon Brando,noun,cast
+92,tt0093142,10310,20,film,noun,general
+93,tt0093142,10310,20,DVD.,noun,no
+94,tt0093142,10310,22,cover,noun,no
+95,tt0093142,10310,22,ACADEMY AWARD WINNER SANDRA BULLOCk,noun,cast
+96,tt0093142,10310,22,HANGMEN1,noun,no
+97,tt0093142,10311,1,comments,noun,no
+98,tt0093142,10311,1,way,noun,no
+99,tt0093142,10311,2,movie,noun,general
+100,tt0093142,10311,2,waste,noun,no
+101,tt0093142,10311,2,electricity,noun,no
+102,tt0093142,10311,2,plastic,noun,no
+103,tt0093142,10311,3,hand,noun,no
+104,tt0093142,10311,3,deal,noun,no
+105,tt0093142,10311,3,fun,noun,no
+106,tt0093142,10311,3,friends,noun,no
+107,tt0093142,10311,3,"""beyond belief",noun,no
+108,tt0093142,10311,4,words,noun,no
+109,tt0093142,10311,4,movie,noun,general
+110,tt0093142,10311,4,friends,noun,no
+111,tt0093142,10311,4,comments,noun,no
+112,tt0093142,10311,4,endorsements,noun,no
+113,tt0093142,10311,6,pleasure,noun,no
+114,tt0093142,10311,6,people,noun,no
+115,tt0093142,10311,6,movie,noun,general
+116,tt0093142,10311,7,hand,noun,no
+117,tt0093142,10311,7,friend,noun,no
+118,tt0093142,10311,7,minutes,noun,no
+119,tt0093142,10311,7,his life,noun,no
+120,tt0093142,10311,8,"""gun",noun,no
+121,tt0093142,10311,8,eye view,noun,no
+122,tt0093142,10311,8,parts,noun,no
+123,tt0093142,10311,8,movie,noun,general
+124,tt0093142,10311,9,Truly,noun,no
+125,tt0093142,10311,9,absurdity,noun,no
+126,tt0093142,10312,1,Found,noun,no
+127,tt0093142,10312,1,film,noun,general
+128,tt0093142,10312,1,DVD discount rack,noun,no
+129,tt0093142,10312,3,camera work,noun,general
+130,tt0093142,10312,3,dialog look,noun,general
+131,tt0093142,10312,3,sound,noun,music
+132,tt0093142,10312,3,film student,noun,general
+133,tt0093142,10312,4,Sandra,noun,cast
+134,tt0093142,10312,4,performance,noun,no
+135,tt0093142,10312,4,film,noun,general
+136,tt0093142,10312,4,action,noun,general
+137,tt0093142,10312,5,thing,noun,no
+138,tt0093142,10312,6,action films,noun,general
+139,tt0093142,10312,6,people,noun,no
+140,tt0093142,10312,6,film,noun,general
+141,tt0093142,10312,6,ammo,noun,no
+142,tt0093142,10312,6,bodies,noun,no
+143,tt0093142,10312,6,weapons,noun,no
+144,tt0093142,10312,6,ammunition,noun,no
+145,tt0093142,10313,1,movie,noun,general
+146,tt0093142,10313,1,discount rack,noun,no
+147,tt0093142,10313,1,mistake,noun,no
+148,tt0093142,10313,1,Sandra Bullock,noun,cast
+149,tt0093142,10313,1,cover,noun,no
+150,tt0093142,10313,2,cinematography,noun,general
+151,tt0093142,10313,2,back,noun,no
+152,tt0093142,10313,2,DVD box,noun,no
+153,tt0093142,10313,2,plot,noun,story
+154,tt0093142,10313,2,movie,noun,general
+155,tt0093142,10313,3,Uzi cam,noun,no
+156,tt0093142,10314,1,DVD release,noun,no
+157,tt0093142,10314,1,movie,noun,general
+158,tt0093142,10314,1,movie,noun,general
+159,tt0093142,10314,1,name,noun,no
+160,tt0093142,10314,1,face,noun,no
+161,tt0093142,10314,1,Sandra Bullock,noun,cast
+162,tt0093142,10314,2,Her picture,noun,no
+163,tt0093142,10314,2,years,noun,no
+164,tt0093142,10314,2,film,noun,general
+165,tt0093142,10314,2,back cover art,noun,no
+166,tt0093142,10314,2,inside cover art,noun,no
+167,tt0093142,10314,2,picture,noun,no
+168,tt0093142,10314,3,Her name,noun,no
+169,tt0093142,10314,3,front cover,noun,no
+170,tt0093142,10314,3,edges,noun,no
+171,tt0093142,10314,3,disk,noun,no
+172,tt0093142,10314,4,name,noun,no
+173,tt0093142,10314,4,list,noun,no
+174,tt0093142,10314,4,stars,noun,no
+175,tt0093142,10314,5,Her biography,noun,no
+176,tt0093142,10314,5,case,noun,no
+177,tt0093142,10314,6,film,noun,general
+178,tt0093142,10314,6,her character,noun,no
+179,tt0093142,10314,7,WRONG,noun,no
+180,tt0093142,10314,8,movie,noun,general
+181,tt0093142,10314,8,role,noun,no
+182,tt0093142,10314,9,movie,noun,general
+183,tt0093142,10314,9,role,noun,no
+184,tt0093142,10314,9,role,noun,no
+185,tt0093142,10314,10,character Dog,noun,no
+186,tt0093142,10314,10,personality,noun,no
+187,tt0093142,10314,11,hour,noun,no
+188,tt0093142,10314,11,names,noun,no
+189,tt0093142,10314,11,characters,noun,no
+190,tt0093142,10314,12,times,noun,no
+191,tt0093142,10314,12,plot,noun,story
+192,tt0093142,10314,12,effort,noun,no
+193,tt0093142,10314,13,bit,noun,no
+194,tt0093142,10314,14,Shoot,noun,general
+195,tt0093142,10314,14,video game fans,noun,no
+196,tt0093142,10314,14,kick,noun,no
+197,tt0093142,10314,14,Doom,noun,no
+198,tt0093142,10314,15,person shooter game,noun,no
+199,tt0093142,10314,16,Hands,noun,no
+200,tt0093142,10314,16,gun,noun,no
+201,tt0093142,10314,16,front,noun,no
+202,tt0093142,10314,16,camera,noun,general
+203,tt0093142,10314,17,person,noun,no
+204,tt0093142,10314,17,movies,noun,general
+205,tt0093142,10314,17,movie,noun,general
+206,tt0093142,10314,18,silhouettes,noun,no
+207,tt0093142,10314,18,screen,noun,general
+208,tt0093142,10314,18,fun,noun,no
+209,tt0093142,10314,19,money,noun,no
+210,tt0093142,10314,19,charity,noun,no
+211,tt0093142,10315,1,film,noun,general
+212,tt0093142,10315,1,limburger cheese,noun,no
+213,tt0093142,10315,2,garage sale,noun,no
+214,tt0093142,10315,2,LEAVE IT THERE,noun,no
+215,tt0093142,10315,3,Sandra Bullock,noun,cast
+216,tt0093142,10315,3,HATE THIS,noun,no
+217,tt0093142,10315,4,copy,noun,no
+218,tt0093142,10315,4,studio,noun,no
+219,tt0093142,10315,4,cover,noun,no
+220,tt0093142,10315,4,fact,noun,no
+221,tt0093142,10315,4,Sandra Bullock,noun,cast
+222,tt0093142,10315,5,"Sandra Bullock Movie""",noun,cast
+223,tt0093142,10315,6,part,noun,no
+224,tt0093142,10315,6,movie,noun,general
+225,tt0093142,10315,6,her talent,noun,no
+226,tt0093142,10315,7,everyone,noun,no
+227,tt0093142,10316,1,rule,noun,no
+228,tt0093142,10316,1,movie,noun,general
+229,tt0093142,10316,1,bin,noun,no
+230,tt0093142,10316,1,Walmart,noun,no
+231,tt0093142,10316,2,movie,noun,general
+232,tt0093142,10316,2,star,noun,no
+233,tt0093142,10316,2,reason,noun,no
+234,tt0093142,10316,3,case,noun,no
+235,tt0093142,10316,3,movie,noun,general
+236,tt0093142,10316,3,reason,noun,no
+237,tt0093142,10316,4,They plaster Sandra Bullock,noun,general
+238,tt0093142,10316,4,photo,noun,no
+239,tt0093142,10316,4,name,noun,no
+240,tt0093142,10316,4,cover,noun,no
+241,tt0093142,10316,4,DVD,noun,no
+242,tt0093142,10316,4,bait,noun,no
+243,tt0093142,10316,4,fishie right,noun,no
+244,tt0093142,10316,5,disc,noun,no
+245,tt0093142,10316,5,charity,noun,no
+246,tt0093142,10316,5,library,noun,no
+247,tt0093142,10316,5,subject anyone,noun,no
+248,tt0093142,10316,5,world,noun,no
+249,tt0093142,10316,5,movie,noun,general
+250,tt0093142,10316,6,lines,noun,no
+251,tt0093142,10316,6,army buddies,noun,no
+252,tt0093142,10316,7,your dad,noun,no
+253,tt0093142,10317,1,warning,noun,no
+254,tt0093142,10317,1,dvd,noun,no
+255,tt0093142,10317,1,sale,noun,no
+256,tt0093142,10317,2,Sandra Bullock,noun,cast
+257,tt0093142,10317,3,My disappointment,noun,no
+258,tt0093142,10317,3,film,noun,general
+259,tt0093142,10317,4,dialogues,noun,general
+260,tt0093142,10317,5,color,noun,no
+261,tt0093142,10317,6,volume,noun,no
+262,tt0093142,10317,6,conversations,noun,no
+263,tt0093142,10317,7,acting,noun,cast
+264,tt0093142,10317,8,killing scenes,noun,general
+265,tt0093142,10317,8,failure,noun,no
+266,tt0093142,10317,9,people,noun,no
+267,tt0093142,10317,9,their legs,noun,no
+268,tt0093142,10317,10,my cash deficient daughter,noun,no
+269,tt0093142,10317,10,dollar,noun,no
+270,tt0093142,10317,10,movie,noun,general
+271,tt0093142,10317,11,movie,noun,general
+272,tt0093142,10317,12,Tomorrow,noun,no
+273,tt0093142,10317,12,dvd,noun,no
+274,tt0093142,10317,12,company,noun,no
+275,tt0093142,10317,12,elephant Christmas party,noun,no
+276,tt0093142,10318,1,DVD,noun,no
+277,tt0093142,10318,1,its way,noun,no
+278,tt0093142,10318,1,my collection my wife,noun,no
+279,tt0093142,10318,1,deals,noun,no
+280,tt0093142,10318,1,street store,noun,no
+281,tt0093142,10318,2,thing,noun,no
+282,tt0093142,10318,3,duty,noun,no
+283,tt0093142,10318,3,end,noun,no
+284,tt0093142,10318,3,way,noun,no
+285,tt0093142,10318,4,dialog,noun,general
+286,tt0093142,10318,4,story line,noun,general
+287,tt0093142,10318,4,hell,noun,no
+288,tt0093142,10318,4,synopsis,noun,no
+289,tt0093142,10318,4,camera work,noun,general
+290,tt0093142,10318,4,acting,noun,cast
+291,tt0093142,10318,4,dialogue,noun,general
+292,tt0093142,10318,5,fact,noun,no
+293,tt0093142,10318,5,redeeming,noun,no
+294,tt0093142,10318,5,Sandra Bullock,noun,cast
+295,tt0093142,10318,5,career,noun,no
+296,tt0093142,10318,5,pile,noun,no
+297,tt0093142,10318,5,dross,noun,no
+298,tt0093142,10318,6,her agent,noun,no
+299,tt0093142,10318,6,rights,noun,no
+300,tt0093142,10318,6,example,noun,no
+301,tt0093142,10318,6,director,noun,direction
+302,tt0093142,10318,6,ineptitude,noun,no
+303,tt0093142,10318,6,scene,noun,general
+304,tt0093142,10318,6,lead,noun,general
+305,tt0093142,10318,6,his father,noun,no
+306,tt0093142,10318,6,ex army sidekick,noun,no
+307,tt0093142,10318,7,clearest bit,noun,no
+308,tt0093142,10318,7,dialogue,noun,general
+309,tt0093142,10318,7,film,noun,general
+310,tt0093142,10318,7,engine noise,noun,no
+311,tt0093142,10318,8,engine,noun,no
+312,tt0093142,10318,8,technology,noun,general
+313,tt0093142,10318,8,its way,noun,no
+314,tt0093142,10318,8,pond,noun,no
+315,tt0093142,10318,8,cars,noun,no
+316,tt0093142,10319,1,%,noun,no
+317,tt0093142,10319,1,movie tonight,noun,general
+318,tt0093142,10319,1,movie tonight,noun,general
+319,tt0093142,10319,2,hell,noun,no
+320,tt0093142,10319,2,story,noun,story
+321,tt0093142,10319,2,movie,noun,general
+322,tt0093142,10319,3,lot,noun,no
+323,tt0093142,10319,3,people,noun,no
+324,tt0093142,10319,3,factory,noun,no
+325,tt0093142,10319,3,everything,noun,no
+326,tt0093142,10319,5,place,noun,no
+327,tt0093142,10319,5,Terminator,noun,no
+328,tt0093142,10319,5,something,noun,no
+329,tt0093142,10319,6,place,noun,no
+330,tt0093142,10319,6,metal,noun,no
+331,tt0093142,10319,6,bullet,noun,no
+332,tt0093142,10319,6,surfaces,noun,no
+333,tt0093142,10319,6,ricochet,noun,no
+334,tt0093142,10319,7,Metal,noun,no
+335,tt0093142,10319,7,metal,noun,no
+336,tt0093142,10319,7,ricochets,noun,no
+337,tt0093142,10319,7,one,noun,no
+338,tt0093142,10319,7,bullet.3 Magic bullets,noun,no
+339,tt0093142,10319,8,scene,noun,general
+340,tt0093142,10319,8,guy,noun,no
+341,tt0093142,10319,8,front,noun,no
+342,tt0093142,10319,8,guy,noun,no
+343,tt0093142,10319,8,guy,noun,no
+344,tt0093142,10319,8,guy,noun,no
+345,tt0093142,10319,8,pumps,noun,no
+346,tt0093142,10319,8,metal,noun,no
+347,tt0093142,10319,9,bullets,noun,no
+348,tt0093142,10319,9,his chest,noun,no
+349,tt0093142,10319,9,mist,noun,no
+350,tt0093142,10319,9,guy right,noun,no
+351,tt0093142,10319,9,front,noun,no
+352,tt0093142,10319,10,being,noun,no
+353,tt0093142,10319,10,wall,noun,no
+354,tt0093142,10319,10,guys,noun,no
+355,tt0093142,10319,10,jokes,noun,general
+356,tt0093142,10319,10,teenagers,noun,no
+357,tt0093142,10319,10,guns,noun,no
+358,tt0093142,10319,10,Sound,noun,music
+359,tt0093142,10319,11,point,noun,no
+360,tt0093142,10319,11,guys,noun,no
+361,tt0093142,10319,11,wire,noun,no
+362,tt0093142,10319,11,alarm,noun,no
+363,tt0093142,10319,11,hell,noun,no
+364,tt0093142,10319,11,wire,noun,no
+365,tt0093142,10319,11,alarm.,noun,no
+366,tt0093142,10319,12,lady screams,noun,no
+367,tt0093142,10319,12,Alarm,noun,no
+368,tt0093142,10319,12,sector blah blah,noun,no
+369,tt0093142,10319,12,guy boss,noun,no
+370,tt0093142,10319,12,not.,noun,no
+371,tt0093142,10319,12,kinda way,noun,no
+372,tt0093142,10319,13,terrorists,noun,no
+373,tt0093142,10319,13,drill,noun,no
+374,tt0093142,10319,13,sound,noun,music
+375,tt0093142,10319,13,Focus,noun,no
+376,tt0093142,10319,14,guys load,noun,no
+377,tt0093142,10319,14,weapons,noun,no
+378,tt0093142,10319,15,reason,noun,no
+379,tt0093142,10319,15,guy,noun,no
+380,tt0093142,10319,15,Uzi,noun,no
+381,tt0093142,10319,16,Deja vu,noun,no
+382,tt0093142,10319,16,loop,noun,no
+383,tt0093142,10319,16,scenes,noun,general
+384,tt0093142,10319,17,guy,noun,no
+385,tt0093142,10319,17,kind,noun,no
+386,tt0093142,10319,17,weapon,noun,no
+387,tt0093142,10319,17,load,noun,no
+388,tt0093142,10319,17,way,noun,no
+389,tt0093142,10319,18,weapons dealer pops,noun,no
+390,tt0093142,10319,18,clip,noun,no
+391,tt0093142,10319,18,guy,noun,no
+392,tt0093142,10319,18,no,noun,no
+393,tt0093142,10319,19,XX locks,noun,no
+394,tt0093142,10319,19,loads,noun,no
+395,tt0093142,10319,20,fire,noun,no
+396,tt0093142,10319,20,barrel flashes,noun,no
+397,tt0093142,10319,21,Boooring,noun,no
+398,tt0093142,10319,22,Actors,noun,cast
+399,tt0093142,10319,22,dummies,noun,no
+400,tt0093142,10319,23,guys,noun,no
+401,tt0093142,10319,23,smoke grenade,noun,no
+402,tt0093142,10319,23,reason,noun,no
+403,tt0093142,10319,23,course,noun,no
+404,tt0093142,10319,23,guys,noun,no
+405,tt0093142,10319,23,smoke,noun,no
+406,tt0093142,10319,23,smoke,noun,no
+407,tt0093142,10319,23,something,noun,no
+408,tt0093142,10319,24,They cough,noun,no
+409,tt0093142,10319,24,Anthrax,noun,no
+410,tt0093142,10319,24,grenade,noun,no
+411,tt0093142,10319,25,semi boss,noun,no
+412,tt0093142,10319,25,guy,noun,no
+413,tt0093142,10319,25,smoke,noun,no
+414,tt0093142,10319,25,guys,noun,no
+415,tt0093142,10319,25,smoke,noun,no
+416,tt0093142,10319,25,Anthrax,noun,no
+417,tt0093142,10319,25,B flick,noun,no
+418,tt0093142,10319,27,guy,noun,no
+419,tt0093142,10319,27,metal pipe,noun,no
+420,tt0093142,10319,27,Uzi,noun,no
+421,tt0093142,10319,27,hand,noun,no
+422,tt0093142,10319,27,someone,noun,no
+423,tt0093142,10319,27,his eye height,noun,no
+424,tt0093142,10319,28,guy fire,noun,no
+425,tt0093142,10319,28,Uzi,noun,no
+426,tt0093142,10319,28,hand,noun,no
+427,tt0093142,10319,28,his hand,noun,no
+428,tt0093142,10319,29,Extra,noun,no
+429,tt0093142,10319,29,gore mess,noun,no
+430,tt0093142,10319,29,B flick kinda way,noun,no
+431,tt0093142,10319,30,pops,noun,no
+432,tt0093142,10319,30,hole,noun,no
+433,tt0093142,10319,30,shirt,noun,no
+434,tt0093142,10319,30,guy,noun,no
+435,tt0093142,10319,31,bullet,noun,no
+436,tt0093142,10319,31,his heart,noun,no
+437,tt0093142,10319,31,guy,noun,no
+438,tt0093142,10319,31,super,noun,no
+439,tt0093142,10319,31,berets,noun,no
+440,tt0093142,10319,31,urge,noun,no
+441,tt0093142,10319,31,his clip,noun,no
+442,tt0093142,10319,31,guy,noun,no
+443,tt0093142,10319,31,soldiers,noun,no
+444,tt0093142,10319,31,his hide,noun,no
+445,tt0093142,10319,31,clip,noun,no
+446,tt0093142,10319,33,your clip,noun,no
+447,tt0093142,10319,33,amount,noun,no
+448,tt0093142,10319,33,enemies,noun,no
+449,tt0093142,10319,34,Boring scenes,noun,general
+450,tt0093142,10319,35,barrel flash scenes,noun,general
+451,tt0093142,10319,35,lock,noun,no
+452,tt0093142,10319,35,load scenes,noun,general
+453,tt0093142,10319,35,movie,noun,general
+454,tt0093142,10319,35,time,noun,no
+455,tt0093142,10319,35,scenes,noun,general
+456,tt0093142,10319,35,people,noun,no
+457,tt0093142,10319,35,building,noun,no
+458,tt0093142,10319,36,action,noun,general
+459,tt0093142,10319,36,B flick movie,noun,general
+460,tt0093142,10319,37,cents,noun,no
+461,tt0093142,10319,37,movie,noun,general
+462,tt0093142,10320,1,DVD.,noun,no
+463,tt0093142,10320,2,picture,noun,general
+464,tt0093142,10320,2,Sandra,noun,cast
+465,tt0093142,10320,2,Sandra...,noun,cast
+466,tt0093142,10320,2,part,noun,no
+467,tt0093142,10320,5,script,noun,story
+468,tt0093142,10320,6,sound,noun,music
+469,tt0093142,10320,7,things,noun,no
+470,tt0093142,10320,8,Shots,noun,no
+471,tt0093142,10320,8,number,noun,no
+472,tt0093142,10320,8,shots,noun,no
+473,tt0093142,10320,8,sound,noun,music
+474,tt0093142,10320,9,People,noun,no
+475,tt0093142,10320,9,car,noun,no
+476,tt0093142,10320,9,shot,noun,no
+477,tt0093142,10320,9,windshield,noun,no
+478,tt0093142,10320,9,motor noise,noun,no
+479,tt0093142,10320,9,road noise,noun,no
+480,tt0093142,10320,9,sound,noun,music
+481,tt0093142,10320,10,Kind,noun,no
+482,tt0093142,10320,11,Score,noun,music
+483,tt0093142,10320,12,notes,noun,no
+484,tt0093142,10320,13,Dialog,noun,general
+485,tt0093142,10320,15,Fight scenes,noun,general
+486,tt0093142,10320,15,Batman comic,noun,general
+487,tt0093142,10320,15,"BIFF""",noun,no
+488,tt0093142,10320,15,"""BAM""",noun,no
+489,tt0093142,10320,17,shooting scenes,noun,general
+490,tt0093142,10320,17,firearms,noun,no
+491,tt0093142,10320,18,lot,noun,no
+492,tt0093142,10320,18,movie,noun,general
+493,tt0093142,10321,1,library,noun,no
+494,tt0093142,10321,2,Sandra Bullock,noun,cast
+495,tt0093142,10321,2,scenes,noun,general
+496,tt0093142,10321,2,minutes,noun,no
+497,tt0093142,10321,3,rest,noun,no
+498,tt0093142,10321,3,movie,noun,general
+499,tt0093142,10321,3,time,noun,no
+500,tt0093142,10321,3,people,noun,no
+501,tt0093142,10321,3,movie,noun,general
+502,tt0093142,10321,4,Everyone,noun,no
+503,tt0093142,10321,5,anything,noun,no
+504,tt0093142,10321,6,Bullock,noun,cast
+505,tt0093142,10321,6,lines,noun,no
+506,tt0093142,10321,6,her name,noun,no
+507,tt0093142,10321,6,case,noun,no
+508,tt0093142,10321,6,parroting,noun,no
+509,tt0093142,10321,6,characters lines,noun,no
+510,tt0093142,10321,6,dialog:Lisa Bullock,noun,cast
+511,tt0093142,10321,6,Danny,noun,cast
+512,tt0093142,10321,7,Danny,noun,cast
+513,tt0093142,10321,8,Lisa,noun,cast
+514,tt0093142,10321,8,Whaddaya,noun,no
+515,tt0093142,10321,9,Danny,noun,cast
+516,tt0093142,10321,9,something,noun,no
+517,tt0093142,10321,9,my Dad,noun,no
+518,tt0093142,10321,10,Lisa,noun,cast
+519,tt0093142,10321,10,Whaddaya,noun,no
+520,tt0093142,10321,10,your Dad,noun,no
+521,tt0093142,10321,11,Danny,noun,cast
+522,tt0093142,10321,11,something,noun,no
+523,tt0093142,10321,12,Lisa,noun,cast
+524,tt0093142,10321,13,Danny,noun,cast
+525,tt0093142,10321,13,Lisa,noun,cast
+526,tt0093142,10321,14,moments,noun,no
+527,tt0093142,10321,14,Danny,noun,cast
+528,tt0093142,10321,14,army buddies,noun,no
+529,tt0093142,10321,14,my Dad,noun,no
+530,tt0093142,10321,15,Lisa,noun,cast
+531,tt0093142,10321,15,Whaddaya,noun,no
+532,tt0093142,10321,15,army buddies,noun,no
+533,tt0093142,10321,17,Bottom line,noun,no
+534,tt0093142,10322,1,DVD version we,noun,no
+535,tt0093142,10322,1,Sandra Bullock,noun,cast
+536,tt0093142,10322,1,cover,noun,no
+537,tt0093142,10322,1,picture,noun,general
+538,tt0093142,10322,1,movie,noun,general
+539,tt0093142,10322,2,movie,noun,general
+540,tt0093142,10322,4,spot,noun,no
+541,tt0093142,10322,4,movie,noun,general
+542,tt0093142,10322,4,part,noun,no
+543,tt0093142,10322,4,location scenes,noun,general
+544,tt0093142,10322,4,NYC,noun,no
+545,tt0093142,10322,4,New Jersey,noun,no
+546,tt0093142,10322,5,sound,noun,music
+547,tt0093142,10322,6,background noise,noun,no
+548,tt0093142,10322,6,dialog,noun,general
+549,tt0093142,10322,7,dialog,noun,general
+550,tt0093142,10322,7,background noises,noun,no
+551,tt0093142,10322,8,example,noun,no
+552,tt0093142,10322,8,car,noun,no
+553,tt0093142,10322,8,noises,noun,no
+554,tt0093142,10322,8,car,noun,no
+555,tt0093142,10322,8,noise,noun,no
+556,tt0093142,10322,9,director,noun,direction
+557,tt0093142,10322,9,ups,noun,no
+558,tt0093142,10322,9,faces,noun,no
+559,tt0093142,10322,9,movie,noun,general
+560,tt0093142,10322,9,words,noun,no
+561,tt0093142,10322,9,lip movements,noun,no
+562,tt0093142,10322,10,movie,noun,general
+563,tt0093142,10322,10,voices sound,noun,music
+564,tt0093142,10322,10,people,noun,no
+565,tt0093142,10322,10,tin can,noun,no
+566,tt0093142,10322,11,Background music,noun,music
+567,tt0093142,10322,11,music,noun,music
+568,tt0093142,10322,11,movie,noun,general
+569,tt0093142,10322,12,direction,noun,direction
+570,tt0093142,10322,12,laughable,noun,no
+571,tt0093142,10322,13,camera angles,noun,general
+572,tt0093142,10322,13,effects,noun,general
+573,tt0093142,10322,13,movie look,noun,general
+574,tt0093142,10322,13,joke,noun,general
+575,tt0093142,10322,13,times,noun,no
+576,tt0093142,10322,13,tension,noun,no
+577,tt0093142,10322,13,middle,noun,no
+578,tt0093142,10322,13,gun battles,noun,no
+579,tt0093142,10322,14,writing,noun,story
+580,tt0093142,10322,15,subplots,noun,general
+581,tt0093142,10322,15,sense,noun,no
+582,tt0093142,10322,15,characters,noun,general
+583,tt0093142,10322,15,explanation,noun,no
+584,tt0093142,10322,15,their motivations,noun,no
+585,tt0093142,10322,16,writer/director,noun,direction
+586,tt0093142,10322,16,relationships,noun,no
+587,tt0093142,10322,16,men,noun,no
+588,tt0093142,10322,16,Vietnam,noun,no
+589,tt0093142,10322,16,none,noun,no
+590,tt0093142,10322,16,sense,noun,no
+591,tt0093142,10322,17,assassins,noun,no
+592,tt0093142,10322,17,soldiers,noun,no
+593,tt0093142,10322,17,people,noun,no
+594,tt0093142,10322,17,shadows,noun,no
+595,tt0093142,10322,17,people,noun,no
+596,tt0093142,10322,18,actors,noun,cast
+597,tt0093142,10322,18,warning,noun,no
+598,tt0093142,10322,19,combination,noun,no
+599,tt0093142,10322,19,directing,noun,direction
+600,tt0093142,10322,19,writing,noun,story
+601,tt0093142,10322,20,production values,noun,general
+602,tt0093142,10322,20,someone,noun,no
+603,tt0093142,10322,20,student film,noun,general
+604,tt0093142,10322,20,Sandra Bullock,noun,cast
+605,tt0093142,10322,21,student films,noun,general
+606,tt0093142,10322,21,movie,noun,general
+607,tt0093142,10322,22,movie,noun,general
+608,tt0093142,10323,1,films,noun,general
+609,tt0093142,10323,1,year,noun,no
+610,tt0093142,10323,1,something,noun,no
+611,tt0093142,10323,1,production values it,noun,general
+612,tt0093142,10323,1,anybody,noun,no
+613,tt0093142,10323,1,imagination,noun,no
+614,tt0093142,10323,2,movie,noun,general
+615,tt0093142,10323,2,star production,noun,general
+616,tt0093142,10323,2,data,noun,no
+617,tt0093142,10323,3,Anything,noun,no
+618,tt0093142,10323,4,Nice,noun,no
+619,tt0093142,10323,4,Sandy Bullock,noun,cast
+620,tt0093142,10323,4,hair,noun,no
+621,tt0093142,10323,4,time,noun,no
+622,tt0093142,10323,4,New Yorker accent,noun,no
+623,tt0093142,10323,4,times,noun,no
+624,tt0093142,10323,4,Virginia,noun,no
+625,tt0093142,10323,4,NC accent,noun,no
+626,tt0093142,10323,5,history,noun,no
+627,tt0093142,10323,5,actress,noun,cast
+628,tt0093142,10323,5,film,noun,general
+629,tt0093142,10323,6,DVD,noun,no
+630,tt0093142,10323,6,bonus features,noun,no
+631,tt0093142,10323,6,mini bio section,noun,no
+632,tt0093142,10323,6,Sandra,noun,cast
+633,tt0093142,10323,6,bio,noun,no
+634,tt0093142,10323,6,IMDb,noun,no
+635,tt0093142,10323,7,Trivia Quiz,noun,no
+636,tt0093142,10323,7,bonus,noun,no
+637,tt0093142,10323,7,questions,noun,no
+638,tt0093142,10324,1,Blockbuster,noun,no
+639,tt0093142,10324,1,itchin',noun,no
+640,tt0093142,10324,1,fashion action movies,noun,general
+641,tt0093142,10324,2,action section,noun,general
+642,tt0093142,10324,2,movie,noun,general
+643,tt0093142,10324,2,my attention,noun,no
+644,tt0093142,10324,2,cover,noun,no
+645,tt0093142,10324,2,letter SANDRA BULLOCK.,noun,cast
+646,tt0093142,10324,3,action movie,noun,general
+647,tt0093142,10324,3,Sandra Bullock,noun,cast
+648,tt0093142,10324,3,R!,noun,no
+649,tt0093142,10324,4,YAY,noun,no
+650,tt0093142,10324,5,comedy,noun,general
+651,tt0093142,10324,5,anything,noun,no
+652,tt0093142,10324,5,Speed,noun,no
+653,tt0093142,10324,6,Sadly Sandra,noun,cast
+654,tt0093142,10324,6,movie,noun,general
+655,tt0093142,10324,6,her role,noun,no
+656,tt0093142,10324,6,Panicky,noun,no
+657,tt0093142,10324,6,girlfriend,noun,no
+658,tt0093142,10324,6,place,noun,no
+659,tt0093142,10324,6,actors,noun,cast
+660,tt0093142,10324,6,Jeebus shakes,noun,no
+661,tt0093142,10324,7,movie role,noun,general
+662,tt0093142,10324,7,movie,noun,general
+663,tt0093142,10324,7,Sandra,noun,cast
+664,tt0093142,10324,7,living human,noun,no
+665,tt0093142,10324,7,movie,noun,general
+666,tt0093142,10324,7,everyone,noun,no
+667,tt0093142,10324,7,Zombie,noun,no
+668,tt0093142,10324,7,B Horror Flick,noun,no
+669,tt0093142,10324,8,movie,noun,general
+670,tt0093142,10324,8,Sandra,noun,cast
+671,tt0093142,10324,8,lead,noun,no
+672,tt0093142,10324,8,i,noun,no
+673,tt0093142,10324,8,Biff,noun,no
+674,tt0093142,10324,8,Marty,noun,no
+675,tt0093142,10324,9,God,noun,no
+676,tt0093142,10324,9,wish,noun,no
+677,tt0093142,10324,10,Sandra,noun,cast
+678,tt0093142,10324,10,side,noun,no
+679,tt0093142,10324,10,movie,noun,general
+680,tt0093142,10324,10,time,noun,no
+681,tt0093142,10324,10,camera,noun,general
+682,tt0093142,10324,10,shock paddles,noun,no
+683,tt0093142,10324,10,"""CLEAR",noun,no
+684,tt0093142,10324,11,movies,noun,general
+685,tt0093142,10324,11,lines,noun,no
+686,tt0093142,10324,11,matter,noun,no
+687,tt0093142,10324,12,Sandra,noun,cast
+688,tt0093142,10324,13,Movie,noun,general
+689,tt0093142,10324,14,Dull,noun,no
+690,tt0093142,10324,15,Think,noun,no
+691,tt0093142,10324,15,Dullest moment,noun,no
+692,tt0093142,10324,15,your life,noun,no
+693,tt0093142,10324,15,moment,noun,no
+694,tt0093142,10324,15,minutes,noun,no
+695,tt0093142,10324,15,movie,noun,general
+696,tt0093142,10324,16,movie,noun,general
+697,tt0093142,10324,16,Gun Fights,noun,no
+698,tt0093142,10324,16,time effects,noun,no
+699,tt0093142,10324,16,Tranquilizers,noun,no
+700,tt0093142,10324,16,shame,noun,no
+701,tt0093142,10324,17,movie,noun,general
+702,tt0093142,10324,17,idea,noun,no
+703,tt0093142,10324,17,Bullet Time,noun,no
+704,tt0093142,10324,17,AK,noun,no
+705,tt0093142,10324,17,motion,noun,no
+706,tt0093142,10324,17,caps,noun,no
+707,tt0093142,10324,17,second,noun,no
+708,tt0093142,10324,17,your life,noun,no
+709,tt0093142,10324,18,movie,noun,general
+710,tt0093142,10324,18,ACTION,noun,general
+711,tt0093142,10324,19,plot,noun,story
+712,tt0093142,10324,19,plot,noun,story
+713,tt0093142,10324,20,Music,noun,music
+714,tt0093142,10324,20,muck standards,noun,no
+715,tt0093142,10324,20,muck standards,noun,no
+716,tt0093142,10324,20,muck standards,noun,no
+717,tt0093142,10324,20,thing,noun,no
+718,tt0093142,10324,21,Acting,noun,cast
+719,tt0093142,10324,22,Sandra Bullock,noun,cast
+720,tt0093142,10324,22,Sandra Bullock,noun,cast
+721,tt0093142,10324,22,Sandra Bullock,noun,cast
+722,tt0093142,10324,23,R.,noun,no
+723,tt0093142,10324,24,"No,",noun,no
+724,tt0093142,10324,24,R,noun,no
+725,tt0093142,10324,24,Ridicules snooze fest,noun,no
+726,tt0093142,10324,25,Cliché,noun,no
+727,tt0093142,10324,25,movie,noun,general
+728,tt0093142,10324,25,view,noun,no
+729,tt0093142,10324,25,city rocking guitar,noun,no
+730,tt0093142,10324,25,power ballet,noun,no
+731,tt0093142,10324,25,gun fight,noun,no
+732,tt0093142,10324,25,factory,noun,no
+733,tt0093142,10324,25,steel walkways,noun,no
+734,tt0093142,10324,25,pipes,noun,no
+735,tt0093142,10324,26,movie,noun,general
+736,tt0093142,10324,27,movie,noun,general
+737,tt0093142,10324,27,what era it,noun,no
+738,tt0093142,10324,27,Sandra,noun,cast
+739,tt0093142,10324,27,hair,noun,no
+740,tt0093142,10324,27,1980s,noun,no
+741,tt0093142,10324,28,movie,noun,general
+742,tt0093142,10324,28,ham,noun,no
+743,tt0093142,10324,28,assassin stripper,noun,no
+744,tt0093142,10324,28,nerd,noun,no
+745,tt0093142,10324,28,bathroom,noun,no
+746,tt0093142,10324,28,his body,noun,no
+747,tt0093142,10324,28,box,noun,no
+748,tt0093142,10324,28,action,noun,no
+749,tt0093142,10324,28,sap,noun,no
+750,tt0093142,10324,29,Hammy moment,noun,no
+751,tt0093142,10324,29,beginning,noun,no
+752,tt0093142,10324,29,Agent Dude caps,noun,no
+753,tt0093142,10324,29,crowd,noun,no
+754,tt0093142,10324,29,people,noun,no
+755,tt0093142,10324,29,movie,noun,general
+756,tt0093142,10324,29,people,noun,no
+757,tt0093142,10324,29,air,noun,no
+758,tt0093142,10324,29,fall,noun,no
+759,tt0093142,10324,29,ground,noun,no
+760,tt0093142,10324,30,scene,noun,general
+761,tt0093142,10324,30,Mario death ditty,noun,no
+762,tt0093142,10324,30,Contra sound effects,noun,music
+763,tt0093142,10324,30,Nintendo,noun,no
+764,tt0093142,10324,31,action hero,noun,cast
+765,tt0093142,10324,31,movie,noun,general
+766,tt0093142,10324,31,BETTER movie icons,noun,general
+767,tt0093142,10324,32,gun scene,noun,general
+768,tt0093142,10324,32,Da hero,noun,cast
+769,tt0093142,10324,32,ring,noun,no
+770,tt0093142,10324,32,Rocky,noun,no
+771,tt0093142,10324,32,anyone,noun,no
+772,tt0093142,10324,32,leather fedora,noun,no
+773,tt0093142,10324,32,Indiana Jones,noun,cast
+774,tt0093142,10324,32,spotlights,noun,no
+775,tt0093142,10324,32,2nd,noun,no
+776,tt0093142,10324,32,T,noun,no
+777,tt0093142,10324,32,people,noun,no
+778,tt0093142,10324,32,Youtube,noun,no
+779,tt0093142,10324,32,Dailymotion,noun,no
+780,tt0093142,10324,32,quality videos,noun,no
+781,tt0093142,10324,32,webcam,noun,no
+782,tt0093142,10324,32,movie,noun,general
+783,tt0093142,10324,33,videos,noun,general
+784,tt0093142,10324,33,audio,noun,general
+785,tt0093142,10324,33,picture,noun,general
+786,tt0093142,10324,33,movie,noun,general
+787,tt0093142,10324,34,movie,noun,general
+788,tt0093142,10324,34,name,noun,no
+789,tt0093142,10324,34,name,noun,no
+790,tt0093142,10324,34,memories,noun,no
+791,tt0093142,10324,34,punishment,noun,no
+792,tt0093142,10324,34,freaking violation,noun,no
+793,tt0093142,10324,34,rights,noun,no
+794,tt0093142,10324,35,speck,noun,no
+795,tt0093142,10324,35,abyss,noun,no
+796,tt0093142,10324,35,Sandra,noun,cast
+797,tt0093142,10324,35,career,noun,no
+798,tt0093142,10324,35,thanks,noun,no
+799,tt0093142,10324,35,movie,noun,general
+800,tt0093142,10324,36,Sandra,noun,cast
+801,tt0093142,10324,36,nightmare,noun,no
+802,tt0093142,10324,37,paycheck,noun,no
+803,tt0093142,10324,38,DVD,noun,no
+804,tt0093142,10324,38,back story,noun,no
+805,tt0093142,10324,38,Sandra,noun,no
+806,tt0093142,10324,38,movie,noun,no
+807,tt0093142,10324,38,house hold name,noun,no
+808,tt0093142,10324,39,movie,noun,general
+809,tt0093142,10324,39,her name,noun,no
+810,tt0093142,10324,39,bait,noun,no
+811,tt0093142,10324,39,movie buffs,noun,general
+812,tt0093142,10324,39,critter,noun,no
+813,tt0093142,10324,40,experience,noun,no
+814,tt0093142,10324,40,films,noun,general
+815,tt0093142,10324,40,i,noun,no
+816,tt0093142,10324,40,BAD,noun,no
+817,tt0093142,10324,41,Mazes,noun,no
+818,tt0093142,10324,41,Monsters,noun,no
+819,tt0093142,10324,41,campy Bruce Willis Comedy,noun,cast
+820,tt0093142,10324,42,Bruce,noun,cast
+821,tt0093142,10324,42,movie,noun,general
+822,tt0093142,10324,43,Ed Wood,noun,cast
+823,tt0093142,10324,43,Uwe Boll,noun,cast
+824,tt0093142,10324,44,i,noun,no
+825,tt0093142,10324,44,movie,noun,general
+826,tt0093142,10324,46,Hangmen',noun,no
+827,tt0093142,10325,1,rating,noun,no
+828,tt0093142,10325,1,Guy Ritchie,noun,cast
+829,tt0093142,10325,1,Woody Allen films,noun,cast
+830,tt0093142,10325,2,movie,noun,general
+831,tt0093142,10325,3,thing,noun,no
+832,tt0093142,10325,3,gunshot scene,noun,general
+833,tt0093142,10325,3,actors,noun,cast
+834,tt0093142,10325,3,ground,noun,no
+835,tt0093142,10325,3,roll,noun,no
+836,tt0093142,10325,3,side,noun,no
+837,tt0093142,10325,3,hallway,noun,no
+838,tt0093142,10325,3,something,noun,no
+839,tt0093142,10325,3,shooting,noun,general
+840,tt0093142,10325,4,year olds,noun,no
+841,tt0093142,10325,4,legs,noun,no
+842,tt0093142,10325,4,stunts,noun,general
+843,tt0093142,10325,5,characters,noun,general
+844,tt0093142,10325,5,truck,noun,no
+845,tt0093142,10325,5,engine noise,noun,no
+846,tt0093142,10325,5,radio,noun,no
+847,tt0093142,10325,5,actors,noun,cast
+848,tt0093142,10325,6,others,noun,no
+849,tt0093142,10325,6,Sandra Bullock front cover,noun,cast
+850,tt0093142,10326,1,Sandra Bullock She,noun,cast
+851,tt0093142,10326,1,time,noun,no
+852,tt0093142,10326,1,actresses,noun,cast
+853,tt0093142,10326,1,movie,noun,general
+854,tt0093142,10326,1,time,noun,no
+855,tt0093142,10326,1,trash canned,noun,no
+856,tt0093142,10326,2,years,noun,no
+857,tt0093142,10326,2,grandmother,noun,no
+858,tt0093142,10326,2,people,noun,no
+859,tt0093142,10326,3,WalMart rack,noun,no
+860,tt0093142,10326,4,acting,noun,cast
+861,tt0093142,10326,4,couple,noun,no
+862,tt0093142,10326,4,bucks,noun,no
+863,tt0093142,10326,4,quality,noun,no
+864,tt0093142,10326,4,captioning,noun,no
+865,tt0093142,10326,4,dialog,noun,general
+866,tt0093142,10326,4,budget,noun,no
+867,tt0093142,10326,5,Sandra,noun,cast
+868,tt0093142,10326,5,role,noun,no
+869,tt0093142,10326,5,actress,noun,cast
+870,tt0093142,10326,5,YIKES,noun,no
+871,tt0093142,10326,5,word,noun,no
+872,tt0093142,10327,1,movie,noun,general
+873,tt0093142,10327,1,way,noun,no
+874,tt0093142,10327,1,time,noun,no
+875,tt0093142,10327,2,Soo,noun,no
+876,tt0093142,10327,3,BAD...,noun,no
+877,tt0093142,10327,5,Sandra,noun,cast
+878,tt0093142,10327,5,minutes,noun,no
+879,tt0093142,10327,6,anything,noun,no
+880,tt0093142,10327,6,Oscar,noun,no
+881,tt0093142,10327,7,way,noun,no
+882,tt0093142,10327,7,way,noun,no
+883,tt0093142,10327,8,word,noun,no
+884,tt0093142,10327,8,st,noun,no
+885,tt0093142,10327,8,minutes,noun,no
+886,tt0093142,10327,8,minutes,noun,no
+887,tt0093142,10327,8,my life,noun,no
+888,tt0093142,10327,8,minutes,noun,no
+889,tt0093142,10327,8,something,noun,no
+890,tt0093142,10327,8,my butt,noun,no
+891,tt0093142,10327,8,space,noun,no
+892,tt0093142,10327,8,time,noun,no
+893,tt0093142,10327,8,head,noun,no
+894,tt0093142,10328,1,line summary,noun,no
+895,tt0093142,10328,2,Sandra,noun,cast
+896,tt0093142,10328,2,job,noun,no
+897,tt0093142,10328,2,direction,noun,direction
+898,tt0093142,10328,2,story line it,noun,story
+899,tt0093142,10328,3,Way,noun,no
+900,tt0093142,10328,3,pre occupation,noun,no
+901,tt0093142,10328,3,guns,noun,no
+902,tt0093142,10328,4,Hollywood types rant,noun,no
+903,tt0093142,10328,4,need,noun,no
+904,tt0093142,10328,4,gun control,noun,no
+905,tt0093142,10328,4,our society,noun,no
+906,tt0093142,10328,4,time,noun,no
+907,tt0093142,10328,4,film footage,noun,general
+908,tt0093142,10328,4,guns,noun,no
+909,tt0093142,10329,1,movie,noun,general
+910,tt0093142,10329,1,list,noun,no
+911,tt0093142,10329,1,movies,noun,general
+912,tt0093142,10329,1,Lessons,noun,no
+913,tt0093142,10329,1,Assassin,noun,no
+914,tt0093142,10329,1,spot,noun,no
+915,tt0093142,10329,2,acting,noun,cast
+916,tt0093142,10329,2,Sandra Bullock,noun,cast
+917,tt0093142,10329,2,your performance,noun,no
+918,tt0093142,10329,2,music score,noun,music
+919,tt0093142,10329,2,x,noun,no
+920,tt0093142,10329,2,movie,noun,general
+921,tt0093142,10329,2,story,noun,story
+922,tt0093142,10329,3,action movie,noun,general
+923,tt0093142,10329,3,dialogues,noun,general
+924,tt0093142,10329,3,words,noun,no
+925,tt0093142,10329,4,contrary,noun,no
+926,tt0093142,10329,4,action movie,noun,general
+927,tt0093142,10329,4,action,noun,general
+928,tt0093142,10329,5,Boring,noun,no
+929,tt0093142,10329,6,reason,noun,no
+930,tt0093142,10329,6,hopes,noun,no
+931,tt0093142,10329,6,point,noun,no
+932,tt0093142,10329,6,scene,noun,general
+933,tt0093142,10329,6,movie,noun,general
+934,tt0093142,10329,7,Thumbs,noun,no
+935,tt0093142,10330,1,Sandra Bullock,noun,cast
+936,tt0093142,10330,1,actress,noun,cast
+937,tt0093142,10330,2,movie,noun,general
+938,tt0093142,10330,2,movie,noun,general
+939,tt0093142,10330,2,disbelief,noun,no
+940,tt0093142,10330,2,something,noun,no
+941,tt0093142,10330,3,Ha ha,noun,no
+942,tt0093142,10330,4,editing,noun,general
+943,tt0093142,10330,4,camera angles,noun,general
+944,tt0093142,10330,6,script,noun,story
+945,tt0093142,10330,7,Acting,noun,cast
+946,tt0093142,10330,7,storyline,noun,story
+947,tt0093142,10330,8,movie,noun,general
+948,tt0093142,10330,9,year,noun,no
+949,tt0093142,10330,9,movie,noun,general
+950,tt0093142,10330,9,bonus point,noun,no
+951,tt0093142,10330,10,music,noun,music
+952,tt0093142,10330,12,things,noun,no
+953,tt0093142,10330,12,hassle,noun,no
+954,tt0093142,10330,12,line minimum,noun,no
+955,tt0093142,10330,13,movie,noun,general
+956,tt0093142,10330,13,movie store,noun,general
+957,tt0093142,10330,14,thing,noun,no
+958,tt0093142,10330,14,cents,noun,no
+959,tt0093142,10330,14,shipping,noun,no
+960,tt0093142,10330,16,anyone,noun,no
+961,tt0093142,10330,16,their time,noun,no
+962,tt0093142,10330,16,money,noun,no
+963,tt0093142,10330,16,film,noun,general
+964,tt0093142,10331,1,Notable,noun,no
+965,tt0093142,10331,1,debut,noun,no
+966,tt0093142,10331,1,time Hollywood starlet,noun,no
+967,tt0093142,10331,1,Sandra Bullock,noun,cast
+968,tt0093142,10331,1,action flick,noun,general
+969,tt0093142,10331,1,holes,noun,no
+970,tt0093142,10331,1,termite infestation,noun,no
+971,tt0093142,10331,2,storyline,noun,story
+972,tt0093142,10331,3,production values,noun,general
+973,tt0093142,10331,3,cheese,noun,no
+974,tt0093142,10331,4,fact,noun,no
+975,tt0093142,10331,4,LACK,noun,no
+976,tt0093142,10331,4,production values,noun,general
+977,tt0093142,10331,4,film,noun,general
+978,tt0093142,10331,4,grittier,noun,no
+979,tt0093142,10331,4,way,noun,no
+980,tt0093142,10331,5,ADR,noun,no
+981,tt0093142,10331,5,present,noun,no
+982,tt0093142,10331,5,film,noun,general
+983,tt0093142,10331,6,ANY,noun,no
+984,tt0093142,10331,6,dialogue tracks,noun,general
+985,tt0093142,10331,6,shoot,noun,general
+986,tt0093142,10331,7,performances,noun,general
+987,tt0093142,10331,7,part,noun,no
+988,tt0093142,10331,7,exceptions,noun,no
+989,tt0093142,10331,8,exceptions,noun,no
+990,tt0093142,10331,8,performances,noun,general
+991,tt0093142,10331,8,fact,noun,no
+992,tt0093142,10331,8,director,noun,direction
+993,tt0093142,10331,8,actors,noun,cast
+994,tt0093142,10331,8,direction,noun,direction
+995,tt0093142,10331,8,character,noun,no
+996,tt0093142,10331,8,times,noun,no
+997,tt0093142,10331,8,i .e,noun,no
+998,tt0093142,10331,8,characters,noun,no
+999,tt0093142,10331,8,blink,noun,no
+1000,tt0093142,10331,8,eye,noun,no
+1001,tt0093142,10331,9,Direction,noun,direction
+1002,tt0093142,10331,10,effects,noun,general
+1003,tt0093142,10331,10,magazines,noun,no
+1004,tt0093142,10331,10,slides,noun,no
+1005,tt0093142,10331,10,sync,noun,no
+1006,tt0093142,10331,10,screen actions,noun,general
+1007,tt0093142,10331,11,cheesy,noun,no
+1008,tt0093142,10331,11,Guy,noun,no
+1009,tt0093142,10331,11,distortion,noun,no
+1010,tt0093142,10331,11,lead villain,noun,cast
+1011,tt0093142,10331,11,villain,noun,cast
+1012,tt0093142,10331,11,mess,noun,no
+1013,tt0093142,10331,11,film,noun,general
+1014,tt0093142,10331,11,recipe,noun,no
+1015,tt0093142,10331,11,disaster,noun,no
+1016,tt0093142,10331,12,situations,noun,no
+1017,tt0093142,10331,12,film,noun,general
+1018,tt0093142,10331,12,standard,noun,no
+1019,tt0093142,10331,12,suspension,noun,no
+1020,tt0093142,10331,12,disbelief,noun,no
+1021,tt0093142,10331,12,laughable,noun,no
+1022,tt0093142,10331,13,character,noun,no
+1023,tt0093142,10331,13,portion,noun,no
+1024,tt0093142,10331,13,film,noun,general
+1025,tt0093142,10331,13,chair,noun,no
+1026,tt0093142,10331,13,butterfly knife,noun,no
+1027,tt0093142,10331,13,his sock,noun,no
+1028,tt0093142,10331,13,order,noun,no
+1029,tt0093142,10331,14,my questions,noun,no
+1030,tt0093142,10331,14,butterfly knife,noun,no
+1031,tt0093142,10331,17,examples,noun,no
+1032,tt0093142,10331,17,situations,noun,no
+1033,tt0093142,10331,17,minute package,noun,no
+1034,tt0093142,10331,18,Hangmen,noun,no
+1035,tt0093142,10331,18,R,noun,no
+1036,tt0093142,10331,18,TV movie,noun,general
+1037,tt0093142,10331,18,80s,noun,no
+1038,tt0093142,10331,19,success,noun,no
+1039,tt0093142,10331,19,Sandra Bullock,noun,cast
+1040,tt0093142,10331,19,NEVER,noun,no
+1041,tt0093142,10331,19,its way,noun,no
+1042,tt0093142,10331,19,DVD.,noun,no
+1043,tt0093142,10331,20,advice,noun,no
+1044,tt0093142,10331,21,film,noun,general
+1045,tt0093142,10331,21,your IQ,noun,no
+1046,tt0093142,10332,1,feeling,noun,no
+1047,tt0093142,10332,1,title work,noun,general
+1048,tt0093142,10332,2,couple,noun,no
+1049,tt0093142,10332,2,scenes,noun,general
+1050,tt0093142,10332,2,movie,noun,general
+1051,tt0093142,10332,2,stinker,noun,no
+1052,tt0093142,10332,3,enjoyment,noun,no
+1053,tt0093142,10332,3,flaws example,noun,no
+1054,tt0093142,10332,3,background,noun,no
+1055,tt0093142,10332,3,car,noun,no
+1056,tt0093142,10332,3,scene,noun,general
+1057,tt0093142,10332,3,Danny,noun,cast
+1058,tt0093142,10332,3,Dog,noun,no
+1059,tt0093142,10332,3,Dog,noun,no
+1060,tt0093142,10332,3,car,noun,no
+1061,tt0093142,10332,4,Production,noun,general
+1062,tt0093142,10332,4,lack,noun,no
+1063,tt0093142,10332,4,imagination example,noun,no
+1064,tt0093142,10332,4,motion machine gun fire,noun,no
+1065,tt0093142,10332,4,times,noun,no
+1066,tt0093142,10332,5,Sandra Bullock,noun,cast
+1067,tt0093142,10332,5,bit part,noun,no
+1068,tt0093142,10332,5,plot,noun,story
+1069,tt0093142,10332,6,movie,noun,general
+1070,tt0093142,10332,6,plot,noun,story
+1071,tt0093142,10332,6,justice,noun,no
+1072,tt0093142,10332,6,writing,noun,story
+1073,tt0093142,10332,7,computer hardware,noun,no
+1074,tt0093142,10332,7,kind,noun,no
+1075,tt0093142,10332,8,film,noun,general
+1076,tt0093142,10332,8,IMDb database,noun,no
+1077,tt0093142,10332,8,tech,noun,no
+1078,tt0093142,10332,8,amber screen,noun,no
+1079,tt0093142,10332,8,MHz IBM PC,noun,no
+1080,tt0093142,10332,8,drives,noun,no
+1081,tt0093142,10332,9,PC,noun,no
+1082,tt0093142,10332,9,star,noun,no
+1083,tt0093142,10332,9,movie,noun,general
+1084,tt0093142,10332,10,DVD,noun,no
+1085,tt0093142,10332,10,couple,noun,no
+1086,tt0093142,10332,10,bucks,noun,no
+1087,tt0093142,10332,10,bargain bin,noun,no
+1088,tt0093142,10332,10,WalMart,noun,no
+1089,tt0093142,10332,11,reviewer notes,noun,no
+1090,tt0093142,10333,1,movie,noun,general
+1091,tt0093142,10333,1,stone age,noun,no
+1092,tt0093142,10333,2,effects,noun,general
+1093,tt0093142,10333,3,My copy,noun,general
+1094,tt0093142,10333,3,Sandra Bullock,noun,cast
+1095,tt0093142,10333,3,cover,noun,no
+1096,tt0093142,10333,3,movie,noun,general
+1097,tt0093142,10333,4,movie,noun,general
+1098,tt0093142,10333,4,minutes,noun,no
+1099,tt0093142,10333,4,screentime,noun,general
+1100,tt0093142,10333,5,involvement,noun,no
+1101,tt0093142,10333,6,part,noun,no
+1102,tt0093142,10333,6,movie worth,noun,general
+1103,tt0093142,10333,7,Rent,noun,no
+1104,tt0093142,10333,7,film,noun,general
+1105,tt0093142,10333,7,bar none,noun,no
+1106,tt0093142,10334,1,contender,noun,no
+1107,tt0093142,10334,1,time,noun,no
+1108,tt0093142,10334,2,DVD,noun,no
+1109,tt0093142,10334,2,Sandra Bullock,noun,cast
+1110,tt0093142,10334,2,headliner,noun,no
+1111,tt0093142,10334,2,case,noun,no
+1112,tt0093142,10334,3,advertising,noun,no
+1113,tt0093142,10334,3,screen,noun,general
+1114,tt0093142,10334,3,minutes,noun,no
+1115,tt0093142,10334,3,movie,noun,general
+1116,tt0093142,10334,4,hand,noun,no
+1117,tt0093142,10334,4,selling point,noun,no
+1118,tt0093142,10334,4,movie,noun,general
+1119,tt0093142,10334,4,dialog,noun,general
+1120,tt0093142,10334,4,editing,noun,general
+1121,tt0093142,10334,4,someone,noun,no
+1122,tt0093142,10334,4,Quaaludes,noun,no
+1123,tt0093142,10334,4,directing,noun,direction
+1124,tt0093142,10334,4,yo daughter,noun,no
+1125,tt0093142,10334,4,praise,noun,no
+1126,tt0093142,10334,5,family cat,noun,no
+1127,tt0093142,10334,6,Sandra,noun,cast
+1128,tt0093142,10334,6,job,noun,no
+1129,tt0093142,10334,6,film,noun,general
+1130,tt0093142,10334,6,time,noun,no
+1131,tt0093142,10334,6,screen,noun,no
+1132,tt0093142,10334,6,quality,noun,no
+1133,tt0093142,10334,6,film,noun,general
+1134,tt0093142,10334,7,story,noun,story
+1135,tt0093142,10334,7,film,noun,general
+1136,tt0093142,10334,7,7th grade Media class,noun,no
+1137,tt0093142,10334,8,dreck,noun,no
+1138,tt0093142,10335,1,Wal Mart,noun,no
+1139,tt0093142,10335,1,DVD bin,noun,no
+1140,tt0093142,10335,1,electronics department,noun,no
+1141,tt0093142,10335,2,movie,noun,general
+1142,tt0093142,10335,4,cover,noun,no
+1143,tt0093142,10335,4,DVD,noun,no
+1144,tt0093142,10335,4,picture,noun,no
+1145,tt0093142,10335,4,Sandy Bullock,noun,cast
+1146,tt0093142,10335,4,her name,noun,no
+1147,tt0093142,10335,4,"""headliner",noun,no
+1148,tt0093142,10335,5,thinking,noun,no
+1149,tt0093142,10335,5,Sandra Bullock,noun,cast
+1150,tt0093142,10335,5,movie,noun,general
+1151,tt0093142,10335,6,home,noun,no
+1152,tt0093142,10335,6,Sandra Bullock movie,noun,general
+1153,tt0093142,10335,7,my surprise,noun,no
+1154,tt0093142,10335,7,Ms.,noun,no
+1155,tt0093142,10335,8,Bullock,noun,cast
+1156,tt0093142,10335,8,role,noun,no
+1157,tt0093142,10335,8,role,noun,no
+1158,tt0093142,10335,9,girlfriend,noun,no
+1159,tt0093142,10335,9,son,noun,no
+1160,tt0093142,10335,9,CIA agent,noun,no
+1161,tt0093142,10335,10,Talk,noun,no
+1162,tt0093142,10335,10,actress,noun,cast
+1163,tt0093142,10335,11,lines,noun,no
+1164,tt0093142,10335,11,movie,noun,general
+1165,tt0093142,10335,12,Bullock flick,noun,cast
+1166,tt0093142,10335,12,action,noun,general
+1167,tt0093142,10335,12,film,noun,general
+1168,tt0093142,10335,14,point,noun,no
+1169,tt0093142,10335,14,effects,noun,general
+1170,tt0093142,10335,14,gun,noun,no
+1171,tt0093142,10335,14,camera,noun,general
+1172,tt0093142,10336,1,detail,noun,no
+1173,tt0093142,10336,1,movie,noun,general
+1174,tt0093142,10336,1,rating,noun,no
+1175,tt0093142,10336,1,plenty,noun,no
+1176,tt0093142,10336,1,people,noun,no
+1177,tt0093142,10336,2,movies,noun,general
+1178,tt0093142,10336,2,DVD,noun,no
+1179,tt0093142,10336,2,ANY,noun,no
+1180,tt0093142,10336,3,comment,noun,no
+1181,tt0093142,10336,3,ridiculously,noun,no
+1182,tt0093142,10336,3,rating,noun,no
+1183,tt0093142,10336,4,pages,noun,no
+1184,tt0093142,10336,4,reviews,noun,no
+1185,tt0093142,10336,4,rating,noun,no
+1186,tt0093142,10336,4,stars,noun,no
+1187,tt0093142,10336,5,voting history,noun,no
+1188,tt0093142,10336,5,%,noun,no
+1189,tt0093142,10336,5,users,noun,no
+1190,tt0093142,10336,5,movie,noun,general
+1191,tt0093142,10336,5,stars,noun,no
+1192,tt0093142,10336,6,people,noun,no
+1193,tt0093142,10336,6,ballot box,noun,no
+1194,tt0093142,10336,6,movie,noun,general
+1195,tt0093142,10336,6,"IMDb ""bottom",noun,no
+1196,tt0093142,10336,6,list,noun,no
+1197,tt0093142,10336,7,users,noun,no
+1198,tt0093142,10336,7,movie,noun,general
+1199,tt0093142,10336,7,stars none,noun,no
+1200,tt0093142,10336,7,review,noun,no
+1201,tt0093142,10336,7,movie,noun,general
+1202,tt0093142,10336,7,users,noun,no
+1203,tt0093142,10336,8,movie,noun,general
+1204,tt0093142,10336,8,your time,noun,no
+1205,tt0093142,10337,1,watch crap,noun,no
+1206,tt0093142,10337,1,way,noun,no
+1207,tt0093142,10337,1,qualities,noun,no
+1208,tt0093142,10337,1,my clients,noun,no
+1209,tt0093142,10337,1,video libraries,noun,no
+1210,tt0093142,10337,2,minute,noun,no
+1211,tt0093142,10337,2,someone,noun,no
+1212,tt0093142,10337,2,gun,noun,no
+1213,tt0093142,10337,2,your head,noun,no
+1214,tt0093142,10337,3,times,noun,no
+1215,tt0093142,10337,3,pray,noun,no
+1216,tt0093142,10337,3,characters,noun,no
+1217,tt0093142,10337,3,actors,noun,cast
+1218,tt0093142,10337,4,Sandra Bullock fan,noun,cast
+1219,tt0093142,10337,4,world,noun,no
+1220,tt0093142,10337,4,scenes,noun,general
+1221,tt0093142,10337,5,asses,noun,no
+1222,tt0093142,10337,5,marketing people who,noun,no
+1223,tt0093142,10337,5,Sandra,noun,cast
+1224,tt0093142,10337,5,picture,noun,general
+1225,tt0093142,10337,5,face,noun,no
+1226,tt0093142,10337,5,DVD box,noun,no
+1227,tt0093142,10337,5,jail,noun,no
+1228,tt0093142,10337,5,something,noun,no
+1229,tt0093142,10337,6,chance,noun,no
+1230,tt0093142,10337,6,review,noun,no
+1231,tt0093142,10337,6,film,noun,general
+1232,tt0093142,10337,7,call,noun,no
+1233,tt0093142,10337,7,movie,noun,general
+1234,tt0093142,10337,7,my inventory,noun,no
+1235,tt0093142,10337,7,place,noun,no
+1236,tt0312700,6711,1,things,noun,no
+1237,tt0312700,6711,2,i,noun,no
+1238,tt0312700,6711,2,kid,noun,no
+1239,tt0312700,6711,2,Seagal movies,noun,general
+1240,tt0312700,6711,3,my opinion,noun,no
+1241,tt0312700,6711,3,movie,noun,general
+1242,tt0312700,6711,3,Jean Claude Van Damme,noun,cast
+1243,tt0312700,6711,4,plot,noun,story
+1244,tt0312700,6711,4,movie,noun,general
+1245,tt0312700,6711,4,plot,noun,story
+1246,tt0312700,6711,4,excuse,noun,no
+1247,tt0312700,6711,4,action scenes,noun,general
+1248,tt0312700,6711,5,action movies,noun,general
+1249,tt0312700,6711,6,movie,noun,general
+1250,tt0312700,6711,6,group,noun,no
+1251,tt0312700,6711,6,irritating scenes,noun,general
+1252,tt0312700,6711,6,way,noun,no
+1253,tt0312700,6711,6,viewers,noun,no
+1254,tt0312700,6711,6,action movies,noun,general
+1255,tt0312700,6711,7,respect,noun,no
+1256,tt0312700,6711,7,anyone,noun,no
+1257,tt0312700,6711,7,movie,noun,general
+1258,tt0312700,6711,8,intelligence problem,noun,no
+1259,tt0312700,6711,9,Seagal,noun,cast
+1260,tt0312700,6711,9,movies,noun,general
+1261,tt0312700,6711,9,future,noun,no
+1262,tt0312700,6711,10,luck,noun,no
+1263,tt0312700,6712,1,earth,noun,no
+1264,tt0312700,6712,1,title,noun,general
+1265,tt0312700,6712,1,plot,noun,story
+1266,tt0312700,6712,1,book,noun,no
+1267,tt0312700,6712,1,language,noun,no
+1268,tt0312700,6712,1,nothing,noun,no
+1269,tt0312700,6712,2,minutes,noun,no
+1270,tt0312700,6712,2,locations,noun,no
+1271,tt0312700,6712,2,movie,noun,general
+1272,tt0312700,6712,3,beginning,noun,no
+1273,tt0312700,6712,3,farm,noun,no
+1274,tt0312700,6712,3,Berry,noun,no
+1275,tt0312700,6712,3,movie,noun,general
+1276,tt0312700,6712,3,Paris,noun,no
+1277,tt0312700,6712,3,transport,noun,no
+1278,tt0312700,6712,3,Isle,noun,no
+1279,tt0312700,6712,3,France,noun,no
+1280,tt0312700,6712,3,minute,noun,no
+1281,tt0312700,6712,3,gangster,noun,no
+1282,tt0312700,6712,3,tongues,noun,no
+1283,tt0312700,6712,3,sense,noun,no
+1284,tt0312700,6712,3,world,noun,no
+1285,tt0312700,6712,3,SMS,noun,no
+1286,tt0312700,6712,3,internet,noun,no
+1287,tt0312700,6712,3,pencil,noun,no
+1288,tt0312700,6712,3,paper,noun,no
+1289,tt0312700,6712,4,nothing,noun,no
+1290,tt0312700,6712,4,sense,noun,no
+1291,tt0312700,6712,4,story,noun,story
+1292,tt0312700,6712,4,credit,noun,no
+1293,tt0312700,6712,4,cameraman,noun,general
+1294,tt0312700,6712,4,camera,noun,general
+1295,tt0312700,6713,1,Cockpuncher,noun,no
+1296,tt0312700,6713,1,piece,noun,no
+1297,tt0312700,6713,1,work,noun,no
+1298,tt0312700,6713,1,Steven Seagal factory,noun,cast
+1299,tt0312700,6713,1,time,noun,no
+1300,tt0312700,6713,2,movie,noun,general
+1301,tt0312700,6713,2,film preview,noun,general
+1302,tt0312700,6713,3,My point,noun,no
+1303,tt0312700,6713,5,movie,noun,general
+1304,tt0312700,6713,6,Machete,noun,no
+1305,tt0312700,6713,6,star,noun,no
+1306,tt0312700,6713,9,Thanks,noun,no
+1307,tt0312700,6713,9,UCSB,noun,no
+1308,tt0312700,6713,9,college,noun,no
+1309,tt0312700,6713,10,speech,noun,no
+1310,tt0312700,6713,11,people,noun,no
+1311,tt0312700,6713,12,lines,noun,no
+1312,tt0312700,6713,12,movie,noun,general
+1313,tt0312700,6713,14,smoker guy who,noun,no
+1314,tt0312700,6713,14,bunch,noun,no
+1315,tt0312700,6713,14,fools,noun,no
+1316,tt0312700,6713,15,anyone,noun,no
+1317,tt0312700,6713,15,menthol,noun,no
+1318,tt0312700,6713,15,LOOK,noun,no
+1319,tt0312700,6713,16,killer,noun,no
+1320,tt0312700,6713,16,glock,noun,no
+1321,tt0312700,6713,16,one,noun,no
+1322,tt0312700,6714,1,Foreigner,noun,no
+1323,tt0312700,6714,1,tale,noun,story
+1324,tt0312700,6714,1,intrigue,noun,no
+1325,tt0312700,6714,1,Seagal,noun,no
+1326,tt0312700,6714,1,center,noun,no
+1327,tt0312700,6714,1,cover operative who,noun,no
+1328,tt0312700,6714,1,package,noun,no
+1329,tt0312700,6714,1,everyone,noun,no
+1330,tt0312700,6714,2,flick,noun,no
+1331,tt0312700,6714,2,action stuff,noun,general
+1332,tt0312700,6714,2,Seagal,noun,cast
+1333,tt0312700,6714,2,movie map fire fights,noun,no
+1334,tt0312700,6714,2,hand,noun,no
+1335,tt0312700,6714,2,combat,noun,no
+1336,tt0312700,6714,2,pyrotechnics,noun,no
+1337,tt0312700,6714,2,stunts,noun,no
+1338,tt0312700,6714,2,story,noun,story
+1339,tt0312700,6714,2,filler,noun,no
+1340,tt0312700,6714,3,What action,noun,no
+1341,tt0312700,6714,3,Seagal,noun,cast
+1342,tt0312700,6714,3,pork chop,noun,no
+1343,tt0312700,6714,3,meanders,noun,no
+1344,tt0312700,6714,3,flick,noun,no
+1345,tt0312700,6714,3,improvement,noun,no
+1346,tt0312700,6714,3,ability,noun,no
+1347,tt0312700,6714,4,Glimmer Man,noun,no
+1348,tt0312700,6714,4,Fire Down,noun,no
+1349,tt0312700,6714,4,Seagal,noun,cast
+1350,tt0312700,6714,4,nose dive,noun,no
+1351,tt0312700,6714,4,Foreigner,noun,no
+1352,tt0312700,6714,4,continuation,noun,no
+1353,tt0312700,6714,4,trend,noun,no
+1354,tt0312700,6714,5,Nothing,noun,no
+1355,tt0312700,6714,5,fans,noun,no
+1356,tt0312700,6715,1,Sigh,noun,no
+1357,tt0312700,6715,2,script,noun,story
+1358,tt0312700,6715,2,place,noun,no
+1359,tt0312700,6715,3,plot,noun,story
+1360,tt0312700,6715,3,audience,noun,no
+1361,tt0312700,6715,4,wife,noun,no
+1362,tt0312700,6715,4,plot,noun,story
+1363,tt0312700,6715,4,flashbacks,noun,story
+1364,tt0312700,6715,5,editing,noun,general
+1365,tt0312700,6715,5,fight scenes,noun,general
+1366,tt0312700,6715,6,editing,noun,general
+1367,tt0312700,6715,6,trailers,noun,general
+1368,tt0312700,6715,7,look,noun,no
+1369,tt0312700,6715,8,guys,noun,no
+1370,tt0312700,6715,8,top,noun,no
+1371,tt0312700,6715,8,movie,noun,general
+1372,tt0312700,6715,9,guy,noun,no
+1373,tt0312700,6715,10,CIA,noun,no
+1374,tt0312700,6715,11,film,noun,general
+1375,tt0312700,6715,11,theatre,noun,no
+1376,tt0312700,6715,12,place,noun,no
+1377,tt0312700,6715,13,joke,noun,general
+1378,tt0312700,6715,13,Hollywood,noun,no
+1379,tt0312700,6716,1,Mr Seagal,noun,cast
+1380,tt0312700,6716,1,standards,noun,no
+1381,tt0312700,6716,1,movies,noun,general
+1382,tt0312700,6716,2,Foreigner,noun,no
+1383,tt0312700,6716,2,substance,noun,no
+1384,tt0312700,6716,2,script,noun,story
+1385,tt0312700,6716,3,director,noun,direction
+1386,tt0312700,6716,3,job,noun,no
+1387,tt0312700,6716,3,music,noun,music
+1388,tt0312700,6716,3,score,noun,music
+1389,tt0312700,6716,4,minutes,noun,no
+1390,tt0312700,6716,4,movie,noun,general
+1391,tt0312700,6716,5,Steven Seagal,noun,cast
+1392,tt0312700,6716,5,movies,noun,general
+1393,tt0312700,6716,5,action,noun,general
+1394,tt0312700,6716,5,Steven Seagal,noun,cast
+1395,tt0312700,6716,5,WRONG,noun,no
+1396,tt0312700,6716,6,movie progresses,noun,general
+1397,tt0312700,6716,7,Everyone,noun,no
+1398,tt0312700,6716,7,exceptions,noun,no
+1399,tt0312700,6716,7,person,noun,no
+1400,tt0312700,6716,8,thing,noun,no
+1401,tt0312700,6716,8,movie,noun,general
+1402,tt0312700,6716,8,end,noun,no
+1403,tt0312700,6716,8,time,noun,no
+1404,tt0312700,6716,9,movie,noun,general
+1405,tt0312700,6716,9,words,noun,no
+1406,tt0312700,6716,9,STAY AWAY,noun,no
+1407,tt0312700,6717,1,movie,noun,general
+1408,tt0312700,6717,1,backwards,noun,no
+1409,tt0312700,6717,1,lot,noun,no
+1410,tt0312700,6717,1,scenes,noun,general
+1411,tt0312700,6717,1,action,noun,general
+1412,tt0312700,6717,1,explosions,noun,no
+1413,tt0312700,6717,1,story writers,noun,story
+1414,tt0312700,6717,1,story,noun,story
+1415,tt0312700,6717,1,scenes,noun,general
+1416,tt0312700,6717,1,movie,noun,general
+1417,tt0312700,6717,1,doubt,noun,no
+1418,tt0312700,6717,1,movie,noun,general
+1419,tt0312700,6717,1,porn movie,noun,general
+1420,tt0312700,6717,1,script,noun,story
+1421,tt0312700,6717,2,movie,noun,general
+1422,tt0312700,6717,2,sense,noun,no
+1423,tt0312700,6717,3,fan,noun,no
+1424,tt0312700,6717,3,reason,noun,no
+1425,tt0312700,6717,3,EVER,noun,no
+1426,tt0312700,6717,3,movie,noun,general
+1427,tt0312700,6717,3,folks,noun,no
+1428,tt0312700,6717,3,accidents,noun,no
+1429,tt0312700,6717,3,accident,noun,no
+1430,tt0312700,6717,3,world,noun,no
+1431,tt0312700,6717,4,Boran,noun,no
+1432,tt0312700,6718,1,Lord,noun,no
+1433,tt0312700,6718,1,mercy,noun,no
+1434,tt0312700,6718,2,film,noun,general
+1435,tt0312700,6718,3,Seagal,noun,cast
+1436,tt0312700,6718,3,star Max Ryan,noun,cast
+1437,tt0312700,6718,4,Foreigner,noun,no
+1438,tt0312700,6718,4,way,noun,no
+1439,tt0312700,6718,4,mind,noun,no
+1440,tt0312700,6718,5,film,noun,general
+1441,tt0312700,6718,5,look,noun,no
+1442,tt0312700,6718,6,budget,noun,no
+1443,tt0312700,6718,6,couple,noun,no
+1444,tt0312700,6718,6,bucks,noun,no
+1445,tt0312700,6718,6,their reach,noun,no
+1446,tt0312700,6718,7,makers,noun,no
+1447,tt0312700,6718,8,result,noun,no
+1448,tt0312700,6718,8,film,noun,general
+1449,tt0312700,6718,9,fight scenes,noun,general
+1450,tt0312700,6718,9,fact,noun,no
+1451,tt0312700,6718,9,Steven Seagal,noun,cast
+1452,tt0312700,6718,9,shape,noun,no
+1453,tt0312700,6718,10,None,noun,no
+1454,tt0312700,6718,11,plot,noun,story
+1455,tt0312700,6718,11,interest,noun,no
+1456,tt0312700,6718,11,way,noun,no
+1457,tt0312700,6718,11,uniqueness,noun,no
+1458,tt0312700,6718,12,Eastern Europe locations,noun,no
+1459,tt0312700,6718,12,move,noun,no
+1460,tt0312700,6718,12,producers,noun,general
+1461,tt0312700,6718,12,budget,noun,no
+1462,tt0312700,6718,12,look,noun,no
+1463,tt0312700,6718,12,backdrop,noun,no
+1464,tt0312700,6718,12,film what action,noun,general
+1465,tt0312700,6718,13,deal,noun,no
+1466,tt0312700,6718,13,title,noun,general
+1467,tt0312700,6718,14,everyone,noun,no
+1468,tt0312700,6718,14,movie,noun,general
+1469,tt0312700,6718,15,title,noun,general
+1470,tt0312700,6718,16,DVD,noun,no
+1471,tt0312700,6718,16,Dolby,noun,no
+1472,tt0312700,6718,16,sound,noun,music
+1473,tt0312700,6718,17,rent,noun,no
+1474,tt0312700,6718,18,Foreigner,noun,no
+1475,tt0312700,6718,18,second,noun,no
+1476,tt0312700,6718,18,your time,noun,no
+1477,tt0312700,6718,19,Gotta love,noun,no
+1478,tt0312700,6718,19,tagline,noun,no
+1479,tt0312700,6718,21,Sheesh,noun,no
+1480,tt0312700,6719,1,movie,noun,general
+1481,tt0312700,6719,2,action scenes,noun,general
+1482,tt0312700,6719,2,stylish,noun,no
+1483,tt0312700,6719,2,fights,noun,general
+1484,tt0312700,6719,2,lot,noun,no
+1485,tt0312700,6719,2,his scenes,noun,general
+1486,tt0312700,6719,2,back,noun,no
+1487,tt0312700,6719,2,scenes,noun,general
+1488,tt0312700,6719,2,lb,noun,no
+1489,tt0312700,6719,2,stunt,noun,general
+1490,tt0312700,6719,2,movie,noun,general
+1491,tt0312700,6719,2,BAD,noun,no
+1492,tt0312700,6720,1,words,noun,no
+1493,tt0312700,6720,1,pile,noun,no
+1494,tt0312700,6720,2,words,noun,no
+1495,tt0312700,6720,3,word,noun,no
+1496,tt0312700,6720,4,reasons,noun,no
+1497,tt0312700,6720,4,movie,noun,general
+1498,tt0312700,6720,5,Seagal groupies,noun,cast
+1499,tt0312700,6720,5,movie,noun,general
+1500,tt0312700,6720,6,arts,noun,general
+1501,tt0312700,6720,6,Aikido,noun,no
+1502,tt0312700,6720,7,arts moves themselves,noun,general
+1503,tt0312700,6720,7,cinematography,noun,general
+1504,tt0312700,6720,8,movie,noun,general
+1505,tt0312700,6720,8,motion,noun,no
+1506,tt0312700,6720,8,Seagal,noun,cast
+1507,tt0312700,6720,8,move,noun,no
+1508,tt0312700,6720,8,his victims,noun,no
+1509,tt0312700,6720,9,move,noun,no
+1510,tt0312700,6720,9,times,noun,no
+1511,tt0312700,6720,9,succession,noun,no
+1512,tt0312700,6720,9,angles,noun,no
+1513,tt0312700,6720,11,Seagal,noun,cast
+1514,tt0312700,6720,11,movie,noun,general
+1515,tt0312700,6720,11,cast,noun,cast
+1516,tt0312700,6720,11,roles,noun,no
+1517,tt0312700,6720,12,plot,noun,story
+1518,tt0312700,6720,13,Seagal,noun,cast
+1519,tt0312700,6720,13,Federal Express agent,noun,no
+1520,tt0312700,6720,13,license,noun,no
+1521,tt0312700,6720,14,His character,noun,no
+1522,tt0312700,6720,14,work ethic,noun,no
+1523,tt0312700,6720,14,his packages,noun,no
+1524,tt0312700,6720,14,people,noun,no
+1525,tt0312700,6720,14,time,noun,no
+1526,tt0312700,6720,14,charge,noun,no
+1527,tt0312700,6720,14,nothing,noun,no
+1528,tt0312700,6720,14,his way,noun,no
+1529,tt0312700,6720,15,assassins,noun,no
+1530,tt0312700,6720,15,leaders,noun,no
+1531,tt0312700,6720,15,explosions,noun,no
+1532,tt0312700,6720,15,death,noun,no
+1533,tt0312700,6720,16,level,noun,no
+1534,tt0312700,6720,16,violence,noun,general
+1535,tt0312700,6720,16,arts film,noun,general
+1536,tt0312700,6720,16,scenes,noun,general
+1537,tt0312700,6720,16,movie,noun,general
+1538,tt0312700,6720,16,acts,noun,cast
+1539,tt0312700,6720,16,violence,noun,general
+1540,tt0312700,6720,16,way,noun,no
+1541,tt0312700,6720,16,advancement,noun,no
+1542,tt0312700,6720,16,movie,noun,general
+1543,tt0312700,6720,16,its story,noun,story
+1544,tt0312700,6720,17,reason,noun,no
+1545,tt0312700,6720,17,movie,noun,general
+1546,tt0312700,6720,17,video,noun,general
+1547,tt0312700,6720,17,tons,noun,no
+1548,tt0312700,6720,17,reasons,noun,no
+1549,tt0312700,6720,18,one,noun,no
+1550,tt0312700,6720,18,tripe,noun,no
+1551,tt0312700,6721,1,films,noun,general
+1552,tt0312700,6721,1,theaters,noun,no
+1553,tt0312700,6721,1,video,noun,no
+1554,tt0312700,6721,2,one,noun,no
+1555,tt0312700,6721,2,age,noun,no
+1556,tt0312700,6721,2,way,noun,no
+1557,tt0312700,6721,2,nitrate film stock,noun,general
+1558,tt0312700,6721,3,story,noun,story
+1559,tt0312700,6721,3,violence,noun,general
+1560,tt0312700,6721,3,thing,noun,no
+1561,tt0312700,6721,3,star,noun,no
+1562,tt0312700,6721,3,part,noun,no
+1563,tt0312700,6721,3,film,noun,general
+1564,tt0312700,6721,4,Siegel,noun,cast
+1565,tt0312700,6721,4,movies,noun,general
+1566,tt0312700,6722,1,Seagal,noun,cast
+1567,tt0312700,6722,1,basics,noun,no
+1568,tt0312700,6722,1,bones,noun,no
+1569,tt0312700,6722,1,butt,noun,no
+1570,tt0312700,6722,2,motion crap,noun,general
+1571,tt0312700,6722,2,foreigner,noun,no
+1572,tt0312700,6722,2,shadows,noun,no
+1573,tt0312700,6722,3,Exit wounds,noun,no
+1574,tt0312700,6722,3,his fighting skills,noun,general
+1575,tt0312700,6722,3,wires,noun,no
+1576,tt0312700,6722,3,ok,noun,no
+1577,tt0312700,6722,3,movie directors,noun,direction
+1578,tt0312700,6723,1,fan,noun,no
+1579,tt0312700,6723,2,movie,noun,general
+1580,tt0312700,6723,3,Ticker,noun,no
+1581,tt0312700,6723,4,movie,noun,general
+1582,tt0312700,6723,5,kind,noun,no
+1583,tt0312700,6723,5,week,noun,no
+1584,tt0312700,6723,6,budget,noun,no
+1585,tt0312700,6723,7,buildings,noun,no
+1586,tt0312700,6723,7,couple,noun,no
+1587,tt0312700,6723,7,locations MAYBE,noun,no
+1588,tt0312700,6723,7,hummh,noun,no
+1589,tt0312700,6723,8,Everything,noun,no
+1590,tt0312700,6724,1,Steven Seagal movies,noun,cast
+1591,tt0312700,6724,2,adept,noun,no
+1592,tt0312700,6724,2,Aikido,noun,no
+1593,tt0312700,6724,2,way Steven,noun,cast
+1594,tt0312700,6724,2,art techniques,noun,general
+1595,tt0312700,6724,2,fight sequences,noun,general
+1596,tt0312700,6724,3,film,noun,general
+1597,tt0312700,6724,3,movie,noun,general
+1598,tt0312700,6724,3,effort,noun,no
+1599,tt0312700,6724,3,blame,noun,no
+1600,tt0312700,6724,3,director,noun,direction
+1601,tt0312700,6724,3,producers,noun,general
+1602,tt0312700,6724,3,idea,noun,general
+1603,tt0312700,6724,3,action movie,noun,general
+1604,tt0312700,6724,3,someone,noun,no
+1605,tt0312700,6724,3,Steven Seagal,noun,cast
+1606,tt0312700,6724,3,advantage,noun,no
+1607,tt0312700,6724,3,his knowledge,noun,no
+1608,tt0312700,6724,3,competence,noun,no
+1609,tt0312700,6724,4,end,noun,no
+1610,tt0312700,6724,4,movie,noun,general
+1611,tt0312700,6724,5,end,noun,no
+1612,tt0312700,6724,5,movie,noun,general
+1613,tt0312700,6724,6,people,noun,no
+1614,tt0312700,6724,6,my feelings,noun,no
+1615,tt0312700,6725,1,acting,noun,cast
+1616,tt0312700,6725,2,surprise,noun,no
+1617,tt0312700,6725,3,story,noun,story
+1618,tt0312700,6725,5,Mr Director,noun,direction
+1619,tt0312700,6725,5,motion crap,noun,no
+1620,tt0312700,6725,6,Fight scenes,noun,general
+1621,tt0312700,6725,6,motion,noun,no
+1622,tt0312700,6725,6,cutting,noun,no
+1623,tt0312700,6725,7,Seagal,noun,cast
+1624,tt0312700,6725,8,seconds,noun,no
+1625,tt0312700,6725,8,seconds,noun,no
+1626,tt0312700,6725,9,coin,noun,no
+1627,tt0312700,6725,10,Mr,noun,no
+1628,tt0312700,6726,1,movies,noun,general
+1629,tt0312700,6726,2,Seagal,noun,cast
+1630,tt0312700,6726,2,action movies,noun,general
+1631,tt0312700,6726,2,time,noun,no
+1632,tt0312700,6726,2,movie,noun,general
+1633,tt0312700,6726,3,killing,noun,no
+1634,tt0312700,6726,3,storyline,noun,story
+1635,tt0312700,6726,4,addition,noun,no
+1636,tt0312700,6726,4,Seagul,noun,cast
+1637,tt0312700,6727,1,S Segal,noun,cast
+1638,tt0312700,6727,2,movie,noun,general
+1639,tt0312700,6727,2,rock bottom,noun,no
+1640,tt0312700,6727,3,PLOT What plot,noun,story
+1641,tt0312700,6727,4,plot,noun,story
+1642,tt0312700,6727,5,ACTIONS,noun,general
+1643,tt0312700,6727,5,Segals standards,noun,cast
+1644,tt0312700,6727,6,GOOD PARTS Mr Segal,noun,cast
+1645,tt0312700,6727,9,SUMMARY,noun,no
+1646,tt0312700,6727,9,script,noun,story
+1647,tt0312700,6727,9,Mr Segal,noun,cast
+1648,tt0312700,6727,10,case,noun,no
+1649,tt0312700,6727,10,Stephen,noun,cast
+1650,tt0312700,6727,10,script,noun,story
+1651,tt0312700,6727,10,movie,noun,general
+1652,tt0312700,6727,11,part,noun,no
+1653,tt0312700,6727,11,spoiler part,noun,no
+1654,tt0312700,6727,12,SPOILER PART stop,noun,no
+1655,tt0312700,6727,12,movie,noun,general
+1656,tt0312700,6727,13,Gas leak,noun,no
+1657,tt0312700,6727,15,Black box,noun,no
+1658,tt0312700,6727,15,recorder,noun,no
+1659,tt0312700,6727,15,hotel room,noun,no
+1660,tt0312700,6727,16,industry,noun,no
+1661,tt0312700,6727,16,laughable,noun,no
+1662,tt0312700,6727,17,guy,noun,no
+1663,tt0312700,6727,17,life,noun,no
+1664,tt0312700,6728,2,people,noun,no
+1665,tt0312700,6728,2,movie,noun,general
+1666,tt0312700,6728,3,plot,noun,story
+1667,tt0312700,6728,3,someone,noun,no
+1668,tt0312700,6728,3,action sequences,noun,general
+1669,tt0312700,6728,3,movie,noun,general
+1670,tt0312700,6729,1,Steven Seagal,noun,cast
+1671,tt0312700,6729,1,films,noun,general
+1672,tt0312700,6729,1,Patriot,noun,no
+1673,tt0312700,6729,2,plot,noun,story
+1674,tt0312700,6729,2,sense,noun,no
+1675,tt0312700,6729,2,relationships,noun,no
+1676,tt0312700,6729,2,characters,noun,no
+1677,tt0312700,6729,2,crossing,noun,no
+1678,tt0312700,6729,3,film,noun,general
+1679,tt0312700,6729,3,scene,noun,general
+1680,tt0312700,6729,3,story,noun,story
+1681,tt0312700,6729,4,action sequences,noun,general
+1682,tt0312700,6729,5,blame,noun,no
+1683,tt0312700,6729,5,director,noun,direction
+1684,tt0312700,6729,5,feet,noun,no
+1685,tt0312700,6729,5,basics,noun,no
+1686,tt0312700,6729,5,film making,noun,direction
+1687,tt0312700,6729,5,Seagal,noun,cast
+1688,tt0312700,6729,5,producers,noun,general
+1689,tt0312700,6729,5,film,noun,general
+1690,tt0312700,6729,5,blame,noun,no
+1691,tt0312700,6729,6,acting,noun,cast
+1692,tt0312700,6729,6,standards,noun,no
+1693,tt0312700,6729,7,video fodder,noun,no
+1694,tt0312700,6729,7,view,noun,no
+1695,tt0312700,6729,7,fans,noun,no
+1696,tt0312700,6729,8,berth,noun,no
+1697,tt0312700,6730,1,UNDER SIEGE,noun,no
+1698,tt0312700,6730,1,HARD,noun,no
+1699,tt0312700,6730,1,KILL.watching Seagal,noun,cast
+1700,tt0312700,6730,1,arts,noun,no
+1701,tt0312700,6730,1,people,noun,no
+1702,tt0312700,6730,2,Seagal Movies,noun,cast
+1703,tt0312700,6730,2,GLIMMER MAN,noun,no
+1704,tt0312700,6730,3,FOREIGNER,noun,no
+1705,tt0312700,6730,3,Seagal,noun,cast
+1706,tt0312700,6730,4,soundtrack,noun,music
+1707,tt0312700,6730,5,reader,noun,no
+1708,tt0312700,6730,5,favor,noun,no
+1709,tt0312700,6731,1,Steven Seagal,noun,cast
+1710,tt0312700,6731,1,CLUE,noun,no
+1711,tt0312700,6731,1,movie,noun,general
+1712,tt0312700,6731,2,movies,noun,general
+1713,tt0312700,6731,2,idea,noun,no
+1714,tt0312700,6731,2,side,noun,no
+1715,tt0312700,6731,3,movies,noun,general
+1716,tt0312700,6731,4,My wife,noun,no
+1717,tt0312700,6731,4,jeans,noun,no
+1718,tt0312700,6732,3,Steven Seagal,noun,cast
+1719,tt0312700,6732,4,kind,noun,no
+1720,tt0312700,6732,4,time,noun,no
+1721,tt0312700,6732,4,guys,noun,no
+1722,tt0312700,6732,4,wounds,noun,no
+1723,tt0312700,6732,5,reputation,noun,no
+1724,tt0312700,6732,5,ass agent Seagal,noun,cast
+1725,tt0312700,6732,5,package,noun,no
+1726,tt0312700,6732,5,France,noun,no
+1727,tt0312700,6732,5,America,noun,no
+1728,tt0312700,6732,6,task,noun,no
+1729,tt0312700,6732,6,people,noun,no
+1730,tt0312700,6732,6,mission,noun,no
+1731,tt0312700,6732,7,fights,noun,general
+1732,tt0312700,6732,7,bangs,noun,no
+1733,tt0312700,6732,8,Anna Louis Plowman,noun,no
+1734,tt0312700,6732,8,cast member,noun,cast
+1735,tt0312700,6732,9,cast,noun,cast
+1736,tt0312700,6732,9,Jeffery Pierce,noun,cast
+1737,tt0312700,6732,9,Max Ryan,noun,cast
+1738,tt0312700,6732,9,Harry Van Gorkum,noun,cast
+1739,tt0312700,6732,10,blame,noun,no
+1740,tt0312700,6732,10,Seagal,noun,cast
+1741,tt0312700,6732,10,clunker,noun,no
+1742,tt0312700,6733,1,deal,noun,no
+1743,tt0312700,6733,1,scene,noun,general
+1744,tt0312700,6733,1,Steven hurdles,noun,cast
+1745,tt0312700,6733,1,foot fence,noun,no
+1746,tt0312700,6733,2,plot,noun,story
+1747,tt0312700,6733,2,action,noun,general
+1748,tt0312700,6733,3,Seagal film,noun,cast
+1749,tt0312700,6733,3,something,noun,no
+1750,tt0312700,6734,1,Norway,noun,no
+1751,tt0312700,6734,1,top,noun,no
+1752,tt0312700,6734,1,countries,noun,no
+1753,tt0312700,6734,1,world,noun,no
+1754,tt0312700,6734,1,fun,noun,no
+1755,tt0312700,6734,1,trucks,noun,no
+1756,tt0312700,6734,1,50ies,noun,no
+1757,tt0312700,6734,1,cottages,noun,no
+1758,tt0312700,6734,1,times,noun,no
+1759,tt0312700,6734,2,laws,noun,no
+1760,tt0312700,6734,2,handguns,noun,no
+1761,tt0312700,6734,2,fun,noun,no
+1762,tt0312700,6734,2,guns,noun,no
+1763,tt0312700,6734,2,Norway,noun,no
+1764,tt0312700,6734,2,minutes,noun,no
+1765,tt0312700,6734,2,shooting,noun,no
+1766,tt0312700,6734,3,Mr.,noun,no
+1767,tt0312700,6734,4,video,noun,no
+1768,tt0312700,6734,4,his silencer,noun,no
+1769,tt0312700,6734,4,notice,noun,no
+1770,tt0312700,6734,4,friends,noun,no
+1771,tt0312700,6734,4,customs,noun,no
+1772,tt0312700,6734,5,research,noun,no
+1773,tt0312700,6734,5,country,noun,no
+1774,tt0312700,6734,5,dudes,noun,no
+1775,tt0312700,6734,5,feelings,noun,no
+1776,tt0312700,6734,5,fans,noun,no
+1777,tt0312700,6734,6,Sverre,noun,no
+1778,tt0312700,6734,6,fan,noun,no
+1779,tt0312700,6734,6,feelings,noun,no
+1780,tt0312700,6735,1,film,noun,general
+1781,tt0312700,6735,1,film,noun,general
+1782,tt0312700,6735,3,cinema,noun,general
+1783,tt0312700,6735,3,cinema,noun,general
+1784,tt0312700,6735,3,ME,noun,no
+1785,tt0312700,6735,3,wage,noun,no
+1786,tt0312700,6735,4,camera shots,noun,general
+1787,tt0312700,6735,4,lot,noun,no
+1788,tt0312700,6735,4,eg,noun,no
+1789,tt0312700,6735,4,villains reflection,noun,general
+1790,tt0312700,6735,4,mirror,noun,no
+1791,tt0312700,6735,4,his head,noun,no
+1792,tt0312700,6735,4,shoulders side ways,noun,no
+1793,tt0312700,6735,4,his body,noun,no
+1794,tt0312700,6735,5,killings,noun,no
+1795,tt0312700,6735,5,civilians,noun,no
+1796,tt0312700,6735,5,murders,noun,no
+1797,tt0312700,6735,5,victims,noun,no
+1798,tt0312700,6735,5,expressions,noun,no
+1799,tt0312700,6735,6,end,noun,no
+1800,tt0312700,6735,6,mins,noun,no
+1801,tt0312700,6735,6,dialogue,noun,general
+1802,tt0312700,6735,6,Seagal,noun,cast
+1803,tt0312700,6735,6,hand,noun,no
+1804,tt0312700,6735,6,combat,noun,no
+1805,tt0312700,6735,6,none,noun,no
+1806,tt0312700,6735,6,beginning,noun,no
+1807,tt0312700,6735,6,someone,noun,no
+1808,tt0312700,6735,6,elevator,noun,no
+1809,tt0312700,6735,6,motion,noun,no
+1810,tt0312700,6735,6,music end,noun,music
+1811,tt0312700,6735,6,action,noun,general
+1812,tt0312700,6735,6,scene,noun,general
+1813,tt0312700,6735,7,scene,noun,general
+1814,tt0312700,6735,7,Seagal hand chop someones neck,noun,cast
+1815,tt0312700,6735,7,motion,noun,no
+1816,tt0312700,6735,7,his hand,noun,no
+1817,tt0312700,6735,7,contact,noun,no
+1818,tt0312700,6735,8,chief villain,noun,general
+1819,tt0312700,6735,8,life,noun,no
+1820,tt0312700,6735,9,chest,noun,no
+1821,tt0312700,6735,9,occasions,noun,no
+1822,tt0312700,6735,10,time,noun,no
+1823,tt0312700,6735,10,shotgun,noun,no
+1824,tt0312700,6735,10,floor,noun,no
+1825,tt0312700,6735,10,street,noun,no
+1826,tt0312700,6735,11,film,noun,general
+1827,tt0312700,6735,11,waste,noun,no
+1828,tt0312700,6735,11,time,noun,no
+1829,tt0312700,6735,11,joke,noun,general
+1830,tt0312700,6735,12,budget,noun,no
+1831,tt0312700,6735,12,Seagal,noun,cast
+1832,tt0312700,6735,13,colour,noun,no
+1833,tt0312700,6735,14,....just,noun,no
+1834,tt0312700,6735,14,film,noun,general
+1835,tt0312700,6735,15,film,noun,general
+1836,tt0312700,6735,15,insomnia,noun,no
+1837,tt0312700,6736,1,Foreigner,noun,no
+1838,tt0312700,6736,1,Bottom,noun,no
+1839,tt0312700,6736,1,movie listings,noun,general
+1840,tt0312700,6736,1,IMDb,noun,no
+1841,tt0312700,6736,1,USA channel,noun,no
+1842,tt0312700,6736,1,week,noun,no
+1843,tt0312700,6736,1,hopes,noun,no
+1844,tt0312700,6736,2,Belly,noun,no
+1845,tt0312700,6736,2,Beast,noun,no
+1846,tt0312700,6736,2,month,noun,no
+1847,tt0312700,6736,2,mess,noun,no
+1848,tt0312700,6736,2,scenery,noun,general
+1849,tt0312700,6736,2,photography,noun,general
+1850,tt0312700,6736,2,moments,noun,no
+1851,tt0312700,6736,2,movie,noun,general
+1852,tt0312700,6736,3,movie,noun,general
+1853,tt0312700,6736,3,standards,noun,no
+1854,tt0312700,6736,3,watch ability,noun,no
+1855,tt0312700,6736,3,way,noun,no
+1856,tt0312700,6736,4,screenplay,noun,direction
+1857,tt0312700,6736,4,bastard offspring,noun,no
+1858,tt0312700,6736,4,John LeCarre novel,noun,cast
+1859,tt0312700,6736,4,Richard Ludlum movie,noun,cast
+1860,tt0312700,6736,4,people,noun,no
+1861,tt0312700,6736,4,none,noun,no
+1862,tt0312700,6736,4,writers,noun,story
+1863,tt0312700,6736,4,talent,noun,no
+1864,tt0312700,6736,4,plot,noun,story
+1865,tt0312700,6736,4,characterization,noun,no
+1866,tt0312700,6736,5,glum,noun,no
+1867,tt0312700,6736,5,mare,noun,no
+1868,tt0312700,6736,5,nest,noun,no
+1869,tt0312700,6736,5,motives,noun,general
+1870,tt0312700,6736,5,alliances,noun,no
+1871,tt0312700,6736,5,shootings,noun,no
+1872,tt0312700,6736,6,chest shootings,noun,no
+1873,tt0312700,6736,7,bombings,noun,no
+1874,tt0312700,6736,8,eviscerations,noun,no
+1875,tt0312700,6736,9,style,noun,no
+1876,tt0312700,6736,9,motion,noun,no
+1877,tt0312700,6736,9,shots,noun,no
+1878,tt0312700,6736,9,seconds,noun,no
+1879,tt0312700,6736,9,wire work,noun,no
+1880,tt0312700,6736,9,jump cuts,noun,no
+1881,tt0312700,6736,10,devices,noun,no
+1882,tt0312700,6736,10,years,noun,no
+1883,tt0312700,6736,10,MTV directors,noun,direction
+1884,tt0312700,6736,10,Whitesnake videos,noun,no
+1885,tt0312700,6736,10,director,noun,direction
+1886,tt0312700,6736,10,punch press,noun,no
+1887,tt0312700,6736,10,art house,noun,no
+1888,tt0312700,6736,10,thriller coolness,noun,no
+1889,tt0312700,6736,10,proceedings,noun,no
+1890,tt0312700,6736,11,Segal,noun,cast
+1891,tt0312700,6736,12,film,noun,general
+1892,tt0312700,6736,12,whisper,noun,no
+1893,tt0312700,6736,12,expressions,noun,no
+1894,tt0312700,6736,12,lemon,noun,no
+1895,tt0312700,6736,12,someone waves,noun,no
+1896,tt0312700,6736,12,turd,noun,no
+1897,tt0312700,6736,12,his nose,noun,no
+1898,tt0312700,6736,13,his knee length duster,noun,no
+1899,tt0312700,6736,13,camera,noun,general
+1900,tt0312700,6736,14,girth,noun,no
+1901,tt0312700,6736,14,control,noun,no
+1902,tt0312700,6736,14,actor ages,noun,cast
+1903,tt0312700,6736,14,Denzel Washington,noun,cast
+1904,tt0312700,6736,14,Paul Newman,noun,cast
+1905,tt0312700,6736,14,problem,noun,no
+1906,tt0312700,6736,15,actor,noun,cast
+1907,tt0312700,6736,15,camera angles,noun,general
+1908,tt0312700,6736,15,floor length,noun,no
+1909,tt0312700,6736,16,movie,noun,general
+1910,tt0312700,6736,16,reason,noun,no
+1911,tt0312700,6736,16,protagonist,noun,no
+1912,tt0312700,6736,17,recipe,noun,no
+1913,tt0312700,6736,17,movie experience,noun,general
+1914,tt0312700,6736,18,set designs,noun,no
+1915,tt0312700,6736,18,scenery,noun,general
+1916,tt0312700,6736,18,fact,noun,no
+1917,tt0312700,6736,18,film,noun,general
+1918,tt0312700,6736,18,scene,noun,general
+1919,tt0312700,6736,18,Seagal,noun,cast
+1920,tt0312700,6736,18,care,noun,no
+1921,tt0312700,6736,18,professionalism,noun,no
+1922,tt0312700,6736,18,"lighting ,colors",noun,no
+1923,tt0312700,6736,18,composition,noun,music
+1924,tt0312700,6736,18,settings,noun,no
+1925,tt0312700,6736,19,egg,noun,no
+1926,tt0312700,6736,19,Faberge egg,noun,no
+1927,tt0312700,6736,20,proceedings,noun,no
+1928,tt0312700,6736,20,heart,noun,no
+1929,tt0312700,6736,21,movies,noun,general
+1930,tt0312700,6736,21,"Versus""",noun,no
+1931,tt0312700,6736,21,movies,noun,general
+1932,tt0312700,6736,21,Underworld,noun,no
+1933,tt0312700,6736,21,paranoia conspiracy thrillers,noun,no
+1934,tt0312700,6736,21,Bourne Identity,noun,no
+1935,tt0312700,6736,21,Matt Damon,noun,cast
+1936,tt0312700,6736,22,thing,noun,no
+1937,tt0312700,6736,22,its mind what it,noun,no
+1938,tt0312700,6736,22,things,noun,no
+1939,tt0312700,6736,22,guts,noun,no
+1940,tt0312700,6736,22,soul,noun,no
+1941,tt0312700,6736,23,movie,noun,general
+1942,tt0312700,6736,23,professionals,noun,no
+1943,tt0312700,6736,23,budget,noun,no
+1944,tt0312700,6736,23,class,noun,no
+1945,tt0312700,6736,23,"Manos""",noun,cast
+1946,tt0312700,6736,23,Shrews,noun,cast
+1947,tt0312700,6736,23,Hobgoblins,noun,no
+1948,tt0312700,6736,24,movies,noun,general
+1949,tt0312700,6736,24,times,noun,no
+1950,tt0312700,6736,24,watch,noun,no
+1951,tt0312700,6736,24,Foreigner,noun,no
+1952,tt0312700,6737,1,Im,noun,no
+1953,tt0312700,6737,1,Half Past Dead,noun,no
+1954,tt0312700,6737,1,Exit Wounds,noun,no
+1955,tt0312700,6737,1,Seagal,noun,cast
+1956,tt0312700,6737,1,crap directing,noun,direction
+1957,tt0312700,6737,1,action scenes,noun,general
+1958,tt0312700,6737,1,place,noun,no
+1959,tt0312700,6737,2,plot,noun,story
+1960,tt0312700,6737,2,Seagals,noun,cast
+1961,tt0312700,6737,2,films,noun,general
+1962,tt0312700,6737,2,Siege,noun,no
+1963,tt0312700,6737,2,weight,noun,no
+1964,tt0312700,6738,1,Steven Segal movie I,noun,cast
+1965,tt0312700,6738,1,eco piffle,noun,no
+1966,tt0312700,6738,1,Deadly Ground,noun,no
+1967,tt0312700,6738,1,Fire Down,noun,no
+1968,tt0312700,6738,2,points,noun,no
+1969,tt0312700,6738,2,direction,noun,direction
+1970,tt0312700,6738,2,DTV movie,noun,general
+1971,tt0312700,6738,2,scenry,noun,general
+1972,tt0312700,6738,4,story dose,noun,story
+1973,tt0312700,6738,4,array,noun,no
+1974,tt0312700,6738,4,pieces,noun,no
+1975,tt0312700,6738,4,guys,noun,no
+1976,tt0312700,6738,4,body count,noun,no
+1977,tt0312700,6738,4,Tarantino,noun,no
+1978,tt0312700,6738,4,his bloodiest,noun,no
+1979,tt0312700,6738,5,plot,noun,story
+1980,tt0312700,6738,5,guys,noun,no
+1981,tt0312700,6738,6,acting,noun,cast
+1982,tt0312700,6738,6,term,noun,no
+1983,tt0312700,6738,6,seagal,noun,cast
+1984,tt0312700,6738,6,expression,noun,no
+1985,tt0312700,6738,6,acting,noun,cast
+1986,tt0312700,6738,6,others,noun,no
+1987,tt0312700,6738,6,Brits,noun,no
+1988,tt0312700,6738,7,package,noun,no
+1989,tt0312700,6738,8,guys,noun,no
+1990,tt0312700,6738,9,seagal,noun,cast
+1991,tt0312700,6738,10,WHO GIVES,noun,no
+1992,tt0312700,6738,10,S,noun,no
+1993,tt0312700,6738,11,movie,noun,general
+1994,tt0312700,6738,11,Blockbuster,noun,no
+1995,tt0312700,6738,11,d,noun,no
+1996,tt0312700,6738,11,assistant,noun,no
+1997,tt0312700,6738,11,movie,noun,general
+1998,tt0312700,6738,11,shop,noun,no
+1999,tt0312700,6738,12,my arm,noun,no
+2000,tt0312700,6738,12,numbAnyway,noun,no
+2001,tt0312700,6738,12,Half Past Dead,noun,no
+2002,tt0312700,6738,12,kill,noun,no
+2003,tt0312700,6738,12,humiliation,noun,no
+2004,tt0312700,6738,12,my store,noun,no
+2005,tt0312700,6738,12,turkeyThe soundtrack,noun,no
+2006,tt0312700,6738,12,hip,noun,no
+2007,tt0312700,6738,12,urge,noun,no
+2008,tt0312700,6738,12,dozen asprins,noun,no
+2009,tt0312700,6738,13,Seagal,noun,cast
+2010,tt0312700,6738,13,his WORST,noun,no
+2011,tt0312700,6738,14,guy,noun,no
+2012,tt0312700,6738,14,guy,noun,no
+2013,tt0312700,6738,15,go,noun,no
+2014,tt0312700,6738,15,camera,noun,general
+2015,tt0312700,6738,15,arts teacher,noun,no
+2016,tt0312700,6738,15,something,noun,no
+2017,tt0312700,6738,16,My rating,noun,no
+2018,tt0312700,6738,16,point,noun,no
+2019,tt0312700,6738,16,scenery,noun,general
+2020,tt0312700,6739,1,Seagal movie,noun,cast
+2021,tt0312700,6739,1,action,noun,general
+2022,tt0312700,6739,2,lot,noun,no
+2023,tt0312700,6739,2,shooting,noun,no
+2024,tt0312700,6739,2,flick,noun,no
+2025,tt0312700,6739,3,story,noun,story
+2026,tt0312700,6739,4,story,noun,story
+2027,tt0312700,6739,4,Seagal movie,noun,cast
+2028,tt0312700,6739,7,end,noun,no
+2029,tt0312700,6739,7,movie,noun,general
+2030,tt0312700,6739,7,problems,noun,no
+2031,tt0312700,6739,9,story,noun,story
+2032,tt0312700,6739,9,information,noun,no
+2033,tt0312700,6739,9,plot holes,noun,story
+2034,tt0312700,6739,9,track,noun,no
+2035,tt0312700,6739,9,movie,noun,general
+2036,tt0312700,6739,10,people,noun,no
+2037,tt0312700,6739,10,movie,noun,general
+2038,tt0312700,6739,10,people,noun,no
+2039,tt0312700,6739,10,sides,noun,no
+2040,tt0312700,6739,10,time,noun,no
+2041,tt0312700,6739,10,locations,noun,no
+2042,tt0312700,6739,11,Terrible,noun,no
+2043,tt0312700,6739,12,Seagal,noun,cast
+2044,tt0312700,6739,12,sort,noun,no
+2045,tt0312700,6739,12,sequel,noun,no
+2046,tt0312700,6740,1,Foreigner,noun,no
+2047,tt0312700,6740,1,video Steven Seagal film,noun,cast
+2048,tt0312700,6740,1,feature,noun,no
+2049,tt0312700,6740,1,March,noun,no
+2050,tt0312700,6740,1,intention,noun,no
+2051,tt0312700,6740,1,Seagal,noun,cast
+2052,tt0312700,6740,1,film Half Past Dead,noun,general
+2053,tt0312700,6740,1,box office,noun,no
+2054,tt0312700,6740,2,reports,noun,no
+2055,tt0312700,6740,2,film,noun,general
+2056,tt0312700,6740,2,budget,noun,no
+2057,tt0312700,6740,2,location shoots,noun,general
+2058,tt0312700,6740,2,Warsaw,noun,no
+2059,tt0312700,6740,2,Paris,noun,no
+2060,tt0312700,6740,2,part,noun,no
+2061,tt0312700,6740,2,studio,noun,no
+2062,tt0312700,6740,2,obligation,noun,no
+2063,tt0312700,6740,2,picture deal,noun,no
+2064,tt0312700,6740,2,success,noun,no
+2065,tt0312700,6740,2,Exit Wounds,noun,no
+2066,tt0312700,6740,2,Seagal,noun,cast
+2067,tt0312700,6740,2,following,noun,no
+2068,tt0312700,6740,3,size,noun,no
+2069,tt0312700,6740,3,their investment,noun,no
+2070,tt0312700,6740,3,Sony Screen Gems,noun,no
+2071,tt0312700,6740,3,move,noun,general
+2072,tt0312700,6740,3,movie,noun,general
+2073,tt0312700,6740,7,terms,noun,no
+2074,tt0312700,6740,8,Seagal,noun,cast
+2075,tt0312700,6740,8,guy,noun,no
+2076,tt0312700,6740,8,package,noun,no
+2077,tt0312700,6740,8,guy,noun,no
+2078,tt0312700,6740,9,guys,noun,no
+2079,tt0312700,6740,10,guys,noun,no
+2080,tt0312700,6740,10,guys,noun,no
+2081,tt0312700,6740,11,guys,noun,no
+2082,tt0312700,6740,11,stuff,noun,no
+2083,tt0312700,6740,11,fact,noun,no
+2084,tt0312700,6740,12,recipient,noun,no
+2085,tt0312700,6740,12,wife,noun,no
+2086,tt0312700,6740,12,package,noun,no
+2087,tt0312700,6740,12,her husband,noun,no
+2088,tt0312700,6740,13,self,noun,no
+2089,tt0312700,6740,13,package,noun,no
+2090,tt0312700,6740,13,hands,noun,no
+2091,tt0312700,6740,13,husband,noun,no
+2092,tt0312700,6740,13,Seagal,noun,cast
+2093,tt0312700,6740,13,wife,noun,no
+2094,tt0312700,6740,13,her daughter,noun,no
+2095,tt0312700,6740,13,guys,noun,no
+2096,tt0312700,6740,13,agendas,noun,no
+2097,tt0312700,6740,13,her husband,noun,no
+2098,tt0312700,6740,14,people,noun,no
+2099,tt0312700,6740,14,conversations,noun,no
+2100,tt0312700,6740,15,people,noun,no
+2101,tt0312700,6740,15,brains,noun,no
+2102,tt0312700,6740,16,guys,noun,no
+2103,tt0312700,6740,16,scenes gunfights end,noun,general
+2104,tt0312700,6740,16,view,noun,no
+2105,tt0312700,6740,16,result,noun,no
+2106,tt0312700,6740,16,audience,noun,no
+2107,tt0312700,6740,16,somebody,noun,no
+2108,tt0312700,6740,16,one,noun,no
+2109,tt0312700,6740,16,gunslingers,noun,no
+2110,tt0312700,6740,16,hill,noun,no
+2111,tt0312700,6740,17,shift,noun,no
+2112,tt0312700,6740,17,mystery,noun,no
+2113,tt0312700,6740,18,confusion,noun,no
+2114,tt0312700,6740,19,whose side,noun,no
+2115,tt0312700,6740,19,what anybody,noun,no
+2116,tt0312700,6740,19,resolution,noun,no
+2117,tt0312700,6740,19,exposition,noun,no
+2118,tt0312700,6740,20,end,noun,no
+2119,tt0312700,6740,20,movie,noun,general
+2120,tt0312700,6740,20,end,noun,no
+2121,tt0312700,6740,22,credits,noun,no
+2122,tt0312700,6740,23,IMDb,noun,no
+2123,tt0312700,6740,23,Aussie actress Kate Fischer,noun,cast
+2124,tt0312700,6740,23,Sirens,noun,no
+2125,tt0312700,6740,23,film,noun,general
+2126,tt0312700,6740,24,cutting room floor,noun,no
+2127,tt0312700,6740,24,project,noun,no
+2128,tt0312700,6740,25,activities,noun,no
+2129,tt0312700,6740,25,her career,noun,no
+2130,tt0312700,6740,25,surgery,noun,no
+2131,tt0312700,6740,25,insert cards,noun,no
+2132,tt0312700,6740,25,magazines,noun,no
+2133,tt0312700,6740,25,community college courses,noun,no
+2134,tt0312700,6740,25,animal husbandry,noun,no
+2135,tt0312700,6740,26,Seagal,noun,cast
+2136,tt0312700,6740,26,hand,noun,no
+2137,tt0312700,6740,26,action scenes,noun,general
+2138,tt0312700,6740,26,film,noun,general
+2139,tt0312700,6740,27,Seagal,noun,cast
+2140,tt0312700,6740,27,his inchoate Brandoesque girth,noun,no
+2141,tt0312700,6740,27,man,noun,no
+2142,tt0312700,6740,27,level,noun,no
+2143,tt0312700,6740,27,exertion,noun,no
+2144,tt0312700,6740,27,knee length coat,noun,no
+2145,tt0312700,6740,27,his inchoate Brandoesque girth,noun,no
+2146,tt0312700,6740,28,wrappers,noun,no
+2147,tt0312700,6740,28,candy bars,noun,no
+2148,tt0312700,6740,28,girth,noun,no
+2149,tt0312700,6740,29,Steven Seagal,noun,cast
+2150,tt0312700,6740,29,comeback,noun,no
+2151,tt0312700,6740,29,Exit Wounds,noun,no
+2152,tt0312700,6740,29,film,noun,general
+2153,tt0312700,6740,29,one,noun,no
+2154,tt0312700,6740,29,half,noun,no
+2155,tt0367623,1118,2,Matty Simmons,noun,cast
+2156,tt0367623,1118,2,something,noun,no
+2157,tt0367623,1118,3,Harlem Globetrotters,noun,cast
+2158,tt0367623,1118,3,Gilligan,noun,no
+2159,tt0367623,1118,3,Island,noun,no
+2160,tt0367623,1118,3,Citizen Kane,noun,no
+2161,tt0367623,1118,4,piece,noun,no
+2162,tt0367623,1118,6,premise,noun,no
+2163,tt0367623,1118,6,way,noun,no
+2164,tt0367623,1118,6,anvil,noun,no
+2165,tt0367623,1118,6,your scrotum,noun,no
+2166,tt0367623,1118,7,premise,noun,no
+2167,tt0367623,1118,7,title,noun,general
+2168,tt0367623,1118,7,thing,noun,no
+2169,tt0367623,1118,7,film,noun,general
+2170,tt0367623,1118,7,monkey bite,noun,no
+2171,tt0367623,1118,8,characters,noun,no
+2172,tt0367623,1118,8,Vacation,noun,no
+2173,tt0367623,1118,8,franchise,noun,no
+2174,tt0367623,1118,8,trash Eddie Randy Quaid,noun,no
+2175,tt0367623,1118,9,sympathy,noun,no
+2176,tt0367623,1118,9,actor,noun,cast
+2177,tt0367623,1118,9,my life,noun,no
+2178,tt0367623,1118,10,actors,noun,cast
+2179,tt0367623,1118,10,atrocity,noun,no
+2180,tt0367623,1118,10,Miriam Flynn Catherine,noun,cast
+2181,tt0367623,1118,10,Eddie,noun,cast
+2182,tt0367623,1118,10,suffering,noun,no
+2183,tt0367623,1118,10,wife,noun,no
+2184,tt0367623,1118,10,Dana Barron,noun,cast
+2185,tt0367623,1118,10,Audrey Griswold,noun,cast
+2186,tt0367623,1118,10,Fred Willard,noun,cast
+2187,tt0367623,1118,10,Sung Hi Lee,noun,cast
+2188,tt0367623,1118,10,reason,noun,no
+2189,tt0367623,1118,10,film,noun,general
+2190,tt0367623,1118,10,sound,noun,music
+2191,tt0367623,1118,10,Commie,noun,no
+2192,tt0367623,1118,10,Ed Asner Uncle Nick,noun,cast
+2193,tt0367623,1118,11,audience,noun,no
+2194,tt0367623,1118,12,heavens,noun,no
+2195,tt0367623,1118,12,Chevy Chase,noun,cast
+2196,tt0367623,1118,12,slump,noun,no
+2197,tt0367623,1118,12,years,noun,no
+2198,tt0367623,1118,12,diarrhea splatter,noun,no
+2199,tt0367623,1118,12,career move he,noun,no
+2200,tt0367623,1118,13,you folks,noun,no
+2201,tt0367623,1118,13,Lord tonight,noun,no
+2202,tt0367623,1118,13,hours,noun,no
+2203,tt0367623,1118,13,years,noun,no
+2204,tt0367623,1118,13,my life,noun,no
+2205,tt0367623,1118,13,time,noun,no
+2206,tt0367623,1118,13,front,noun,no
+2207,tt0367623,1118,13,television,noun,no
+2208,tt0367623,1118,14,Water Burn Baby,noun,no
+2209,tt0367623,1118,14,ZERO,noun,no
+2210,tt0367623,1118,14,Stars,noun,no
+2211,tt0367623,1118,14,hits,noun,no
+2212,tt0367623,1118,14,bong,noun,no
+2213,tt0367623,1118,14,water,noun,no
+2214,tt0367623,1118,14,star,noun,no
+2215,tt0367623,1119,1,reason,noun,no
+2216,tt0367623,1119,1,film,noun,general
+2217,tt0367623,1119,1,Sung Hi Lee,noun,cast
+2218,tt0367623,1119,1,model/actress,noun,cast
+2219,tt0367623,1119,1,Korea,noun,no
+2220,tt0367623,1119,1,Muka Laka Miki,noun,no
+2221,tt0367623,1119,1,break,noun,no
+2222,tt0367623,1119,1,movie,noun,general
+2223,tt0367623,1119,2,part,noun,no
+2224,tt0367623,1119,2,film,noun,general
+2225,tt0367623,1119,2,none,noun,no
+2226,tt0367623,1119,2,parts,noun,no
+2227,tt0367623,1119,3,National Lampoon,noun,no
+2228,tt0367623,1119,3,movie,noun,general
+2229,tt0367623,1119,4,humor,noun,general
+2230,tt0367623,1119,4,thing,noun,no
+2231,tt0367623,1119,6,Warning,noun,no
+2232,tt0367623,1119,6,movie,noun,general
+2233,tt0367623,1119,6,your health,noun,no
+2234,tt0367623,1119,6,counts,noun,no
+2235,tt0367623,1119,7,Sung Hi Lee,noun,cast
+2236,tt0367623,1119,7,your brains,noun,no
+2237,tt0367623,1119,7,back,noun,no
+2238,tt0367623,1119,7,your head,noun,no
+2239,tt0367623,1119,7,sight,noun,no
+2240,tt0367623,1120,1,Sorry Randy,noun,cast
+2241,tt0367623,1120,2,your comedy,noun,general
+2242,tt0367623,1120,2,case,noun,no
+2243,tt0367623,1120,2,Golden Turkey,noun,no
+2244,tt0367623,1120,2,egg,noun,no
+2245,tt0367623,1120,3,plot,noun,story
+2246,tt0367623,1120,3,layer,noun,no
+2247,tt0367623,1120,3,my skin,noun,no
+2248,tt0367623,1120,3,Giant Redwood,noun,no
+2249,tt0367623,1120,3,direction,noun,direction
+2250,tt0367623,1120,3,existent,noun,no
+2251,tt0367623,1120,4,attempts,noun,no
+2252,tt0367623,1120,4,offs,noun,no
+2253,tt0367623,1120,4,films,noun,general
+2254,tt0367623,1120,4,Jaws,noun,no
+2255,tt0367623,1120,4,Vacation,noun,no
+2256,tt0367623,1120,5,memory,noun,no
+2257,tt0367623,1120,5,Eric Idle,noun,no
+2258,tt0367623,1120,5,type,noun,no
+2259,tt0367623,1120,5,character,noun,no
+2260,tt0367623,1120,5,Nat Lamp European Vacation,noun,no
+2261,tt0367623,1120,6,Chevy Chase,noun,cast
+2262,tt0367623,1120,6,Beverley D'Angelo,noun,no
+2263,tt0367623,1120,6,sequel,noun,no
+2264,tt0367623,1120,7,their parts,noun,no
+2265,tt0367623,1120,8,my opinion,noun,no
+2266,tt0367623,1120,8,one,noun,no
+2267,tt0367623,1120,8,Chevy,noun,no
+2268,tt0367623,1120,8,Beverley,noun,no
+2269,tt0367623,1120,8,their roles,noun,no
+2270,tt0367623,1120,8,Griswolds,noun,no
+2271,tt0367623,1120,8,Randy Quaid,noun,cast
+2272,tt0367623,1120,8,movies,noun,general
+2273,tt0367623,1120,9,Randy Quaid,noun,cast
+2274,tt0367623,1120,9,National Lampoon,noun,no
+2275,tt0367623,1121,1,release,noun,no
+2276,tt0367623,1121,1,National Lampoon,noun,no
+2277,tt0367623,1121,1,its name OFF,noun,no
+2278,tt0367623,1121,1,look,noun,no
+2279,tt0367623,1121,1,comedy classic,noun,general
+2280,tt0367623,1121,2,mistake,noun,no
+2281,tt0367623,1121,2,attempt,noun,no
+2282,tt0367623,1121,2,franchise,noun,no
+2283,tt0367623,1121,3,TV movie,noun,general
+2284,tt0367623,1121,4,Cousin Eddie character,noun,no
+2285,tt0367623,1121,4,Vacation,noun,no
+2286,tt0367623,1121,4,Christmas Vacation,noun,no
+2287,tt0367623,1121,4,bit,noun,no
+2288,tt0367623,1121,4,Vegas Vacation,noun,no
+2289,tt0367623,1121,4,screen,noun,general
+2290,tt0367623,1121,4,fairness,noun,no
+2291,tt0367623,1121,4,LOT,noun,no
+2292,tt0367623,1121,4,things,noun,no
+2293,tt0367623,1121,4,screen,noun,general
+2294,tt0367623,1121,4,movie,noun,general
+2295,tt0367623,1121,5,attempt,noun,no
+2296,tt0367623,1121,5,character,noun,no
+2297,tt0367623,1121,5,status,noun,no
+2298,tt0367623,1121,6,Vacation movies themselves,noun,general
+2299,tt0367623,1121,6,death,noun,no
+2300,tt0367623,1121,6,Las Vegas,noun,no
+2301,tt0367623,1121,6,hope,noun,no
+2302,tt0367623,1121,6,thread,noun,no
+2303,tt0367623,1121,6,series,noun,no
+2304,tt0367623,1121,6,television,noun,no
+2305,tt0367623,1121,7,Chevy Chase,noun,cast
+2306,tt0367623,1121,7,company,noun,no
+2307,tt0367623,1121,7,trilogy,noun,no
+2308,tt0367623,1121,7,plug,noun,no
+2309,tt0367623,1121,7,title rest,noun,no
+2310,tt0367623,1121,7,peace,noun,no
+2311,tt0367623,1121,8,note,noun,no
+2312,tt0367623,1121,8,interest,noun,no
+2313,tt0367623,1121,8,Audrey Griswold Dana Barron,noun,cast
+2314,tt0367623,1121,8,actresses,noun,cast
+2315,tt0367623,1121,8,part,noun,no
+2316,tt0367623,1121,8,Juliette Lewis,noun,cast
+2317,tt0367623,1121,8,role,noun,no
+2318,tt0367623,1121,8,years,noun,no
+2319,tt0367623,1121,10,WHY,noun,no
+2320,tt0367623,1122,1,Christmas Vacation,noun,no
+2321,tt0367623,1122,1,DVD.,noun,no
+2322,tt0367623,1122,2,my money,noun,no
+2323,tt0367623,1122,2,letter box,noun,no
+2324,tt0367623,1122,3,lampoons films,noun,general
+2325,tt0367623,1122,3,Chevy chase,noun,cast
+2326,tt0367623,1122,3,one,noun,no
+2327,tt0367623,1122,4,lampoons film,noun,general
+2328,tt0367623,1122,5,film,noun,general
+2329,tt0367623,1122,5,idea,noun,no
+2330,tt0367623,1122,5,paper,noun,no
+2331,tt0367623,1122,5,cousin Eddie,noun,no
+2332,tt0367623,1122,5,character,noun,no
+2333,tt0367623,1122,5,my nerves,noun,no
+2334,tt0367623,1122,5,film,noun,general
+2335,tt0367623,1122,5,middle,noun,no
+2336,tt0367623,1122,5,film,noun,general
+2337,tt0367623,1122,5,end,noun,no
+2338,tt0367623,1122,5,film i,noun,general
+2339,tt0367623,1122,5,brain dead,noun,no
+2340,tt0367623,1123,1,National Lampoon,noun,no
+2341,tt0367623,1123,1,Christmas Vacation,noun,no
+2342,tt0367623,1123,1,Cousin Eddie,noun,no
+2343,tt0367623,1123,1,Island Adventure,noun,no
+2344,tt0367623,1123,1,Randy Quaid,noun,cast
+2345,tt0367623,1123,1,Miriam Flynn,noun,cast
+2346,tt0367623,1123,1,Dana Barron,noun,cast
+2347,tt0367623,1123,1,Jake Thomas,noun,cast
+2348,tt0367623,1123,1,Sung Hi Lee,noun,cast
+2349,tt0367623,1123,1,Eric Idle,noun,cast
+2350,tt0367623,1123,1,Fred Willard,noun,cast
+2351,tt0367623,1123,1,Ed Asner,noun,cast
+2352,tt0367623,1123,1,D,noun,no
+2353,tt0367623,1123,1,Nick Marck,noun,cast
+2354,tt0367623,1123,2,video flop,noun,general
+2355,tt0367623,1123,2,Cousin Eddie,noun,no
+2356,tt0367623,1123,2,family,noun,no
+2357,tt0367623,1123,2,expenses,noun,no
+2358,tt0367623,1123,2,vacation,noun,no
+2359,tt0367623,1123,2,South Pacific,noun,no
+2360,tt0367623,1123,2,his boss,noun,no
+2361,tt0367623,1123,2,dunce,noun,no
+2362,tt0367623,1123,2,his company,noun,no
+2363,tt0367623,1123,2,lab monkey,noun,no
+2364,tt0367623,1123,3,spin,noun,no
+2365,tt0367623,1123,3,Vacation films,noun,general
+2366,tt0367623,1123,3,Vacation,noun,no
+2367,tt0367623,1123,3,question,noun,no
+2368,tt0367623,1123,3,filmmakers,noun,direction
+2369,tt0367623,1123,3,script,noun,story
+2370,tt0367623,1123,4,Quaid,noun,cast
+2371,tt0367623,1123,4,Willard,noun,cast
+2372,tt0367623,1123,4,Asner,noun,cast
+2373,tt0367623,1123,4,min.,noun,no
+2374,tt0367623,1124,1,MISERABLE MOVIE,noun,no
+2375,tt0367623,1124,1,day,noun,no
+2376,tt0367623,1124,1,Christmas eve,noun,no
+2377,tt0367623,1124,1,nut case,noun,no
+2378,tt0367623,1124,1,movie,noun,general
+2379,tt0367623,1124,1,"""entertainement",noun,no
+2380,tt0367623,1124,1,TV,noun,no
+2381,tt0367623,1124,2,Gods name,noun,no
+2382,tt0367623,1124,3,movie,noun,general
+2383,tt0367623,1124,3,humor,noun,general
+2384,tt0367623,1124,3,jokes,noun,general
+2385,tt0367623,1124,3,disaster,noun,no
+2386,tt0367623,1124,3,plot line,noun,story
+2387,tt0367623,1124,4,Randy Quaid,noun,cast
+2388,tt0367623,1124,4,role,noun,general
+2389,tt0367623,1124,4,Cousin Eddie Johnson,noun,no
+2390,tt0367623,1124,5,Eddie,noun,cast
+2391,tt0367623,1124,5,brain,noun,no
+2392,tt0367623,1124,5,person,noun,no
+2393,tt0367623,1124,5,tasks,noun,no
+2394,tt0367623,1124,6,brick,noun,no
+2395,tt0367623,1124,6,company,noun,no
+2396,tt0367623,1124,6,his family,noun,no
+2397,tt0367623,1124,6,vacation,noun,no
+2398,tt0367623,1124,7,vacation,noun,no
+2399,tt0367623,1124,7,disaster,noun,no
+2400,tt0367623,1124,8,movie,noun,general
+2401,tt0367623,1124,8,nightmares,noun,no
+2402,tt0367623,1124,8,acting,noun,cast
+2403,tt0367623,1124,8,jokes,noun,general
+2404,tt0367623,1124,8,movie,noun,general
+2405,tt0367623,1124,9,you ALMOST,noun,no
+2406,tt0367623,1124,11,nightmares,noun,no
+2407,tt0367623,1124,11,nightmares,noun,no
+2408,tt0367623,1124,12,Trust,noun,no
+2409,tt0367623,1124,13,movie,noun,general
+2410,tt0367623,1124,13,humor,noun,general
+2411,tt0367623,1124,13,jokes,noun,general
+2412,tt0367623,1124,13,story,noun,story
+2413,tt0367623,1124,14,thing,noun,no
+2414,tt0367623,1124,14,scenery,noun,general
+2415,tt0367623,1124,15,my opinion,noun,no
+2416,tt0367623,1124,15,everyone,noun,no
+2417,tt0367623,1125,1,actors,noun,cast
+2418,tt0367623,1125,1,"""film""",noun,general
+2419,tt0367623,1125,2,fear,noun,no
+2420,tt0367623,1125,2,I.Q,noun,no
+2421,tt0367623,1125,2,points,noun,no
+2422,tt0367623,1125,2,second,noun,no
+2423,tt0367623,1125,3,nobody,noun,no
+2424,tt0367623,1125,3,network,noun,no
+2425,tt0367623,1125,3,dribble,noun,no
+2426,tt0367623,1125,4,IMDB ratings,noun,no
+2427,tt0367623,1125,4,time,noun,no
+2428,tt0367623,1125,4,numbers,noun,no
+2429,tt0367623,1125,4,cases,noun,no
+2430,tt0367623,1126,1,MAY,noun,no
+2431,tt0367623,1126,1,Spoilers,noun,no
+2432,tt0367623,1126,2,seconds,noun,no
+2433,tt0367623,1126,2,your life,noun,no
+2434,tt0367623,1126,2,your time,noun,no
+2435,tt0367623,1126,2,pile,noun,no
+2436,tt0367623,1126,2,garbage,noun,no
+2437,tt0367623,1126,3,quality,noun,no
+2438,tt0367623,1126,3,movie,noun,general
+2439,tt0367623,1126,3,fan,noun,no
+2440,tt0367623,1126,3,Vacation Series,noun,no
+2441,tt0367623,1126,3,movies,noun,general
+2442,tt0367623,1126,4,Cousin Eddie character,noun,no
+2443,tt0367623,1126,4,Vacation movies,noun,general
+2444,tt0367623,1126,4,character,noun,no
+2445,tt0367623,1126,5,Randy Quaid,noun,cast
+2446,tt0367623,1126,5,failure,noun,no
+2447,tt0367623,1126,5,movie,noun,general
+2448,tt0367623,1126,7,actor...but,noun,cast
+2449,tt0367623,1126,7,film,noun,general
+2450,tt0367623,1126,7,cohesion,noun,no
+2451,tt0367623,1126,7,pacing,noun,no
+2452,tt0367623,1126,7,off...it,noun,no
+2453,tt0367623,1126,8,actor,noun,cast
+2454,tt0367623,1126,9,Jake Thomas ...was,noun,cast
+2455,tt0367623,1126,9,lack,noun,no
+2456,tt0367623,1126,9,direction,noun,direction
+2457,tt0367623,1126,10,character,noun,no
+2458,tt0367623,1126,11,people,noun,no
+2459,tt0367623,1126,11,movie,noun,general
+2460,tt0367623,1126,11,Chevy Chase,noun,cast
+2461,tt0367623,1126,11,Beverly D'Angelo,noun,cast
+2462,tt0367623,1126,11,nothing,noun,no
+2463,tt0367623,1126,12,script,noun,story
+2464,tt0367623,1126,12,directing,noun,direction
+2465,tt0367623,1126,12,effects ...everything,noun,no
+2466,tt0367623,1126,12,train wreck,noun,no
+2467,tt0367623,1126,13,Orphans,noun,no
+2468,tt0367623,1126,14,kittens,noun,no
+2469,tt0367623,1126,15,Train,noun,no
+2470,tt0367623,1126,15,people,noun,no
+2471,tt0367623,1126,16,filth,noun,no
+2472,tt0367623,1126,17,it filth,noun,no
+2473,tt0367623,1126,17,name,noun,no
+2474,tt0367623,1126,17,Vacation Franchise,noun,no
+2475,tt0367623,1127,1,Clark Griswold,noun,cast
+2476,tt0367623,1127,1,Christmas Vacation,noun,no
+2477,tt0367623,1127,2,things,noun,no
+2478,tt0367623,1127,3,look,noun,no
+2479,tt0367623,1127,3,Ellen,noun,no
+2480,tt0367623,1127,4,threshold,noun,no
+2481,tt0367623,1127,4,hell,noun,no
+2482,tt0367623,1127,5,Chevy Chase,noun,cast
+2483,tt0367623,1127,5,sequel,noun,no
+2484,tt0367623,1127,5,films,noun,general
+2485,tt0367623,1127,6,Christmas Vacation II,noun,no
+2486,tt0367623,1127,6,movies,noun,general
+2487,tt0367623,1127,7,My wife,noun,no
+2488,tt0367623,1127,7,DVD,noun,no
+2489,tt0367623,1127,7,sequel,noun,no
+2490,tt0367623,1127,8,film,noun,general
+2491,tt0367623,1127,9,resemblance,noun,no
+2492,tt0367623,1127,9,waste,noun,no
+2493,tt0367623,1127,9,film,noun,general
+2494,tt0367623,1127,9,embarrassment,noun,no
+2495,tt0367623,1127,9,actors,noun,cast
+2496,tt0367623,1127,9,misfortune,noun,no
+2497,tt0367623,1127,9,part,noun,no
+2498,tt0367623,1127,10,record,noun,no
+2499,tt0367623,1127,10,IMDb,noun,no
+2500,tt0367623,1127,10,reviews,noun,no
+2501,tt0367623,1127,11,case,noun,no
+2502,tt0367623,1127,11,class action lawsuit,noun,no
+2503,tt0367623,1127,11,money we consumers,noun,no
+2504,tt0367623,1127,11,movie,noun,general
+2505,tt0367623,1128,1,piece,noun,no
+2506,tt0367623,1128,1,crap,noun,no
+2507,tt0367623,1128,2,Randy Quaid,noun,cast
+2508,tt0367623,1128,2,actor,noun,cast
+2509,tt0367623,1128,3,Eddie,noun,cast
+2510,tt0367623,1128,5,actor,noun,cast
+2511,tt0367623,1128,5,show,noun,no
+2512,tt0367623,1128,6,Ed Asner,noun,cast
+2513,tt0367623,1128,7,Eddie,noun,cast
+2514,tt0367623,1128,7,Christmas Vaction,noun,no
+2515,tt0367623,1128,8,Snots,noun,no
+2516,tt0367623,1128,8,years,noun,no
+2517,tt0367623,1128,8,everyone,noun,no
+2518,tt0367623,1128,8,looks,noun,no
+2519,tt0367623,1128,8,years,noun,no
+2520,tt0367623,1128,9,minutes,noun,no
+2521,tt0367623,1128,9,movie,noun,general
+2522,tt0367623,1128,10,island thing,noun,no
+2523,tt0367623,1128,10,work,noun,no
+2524,tt0367623,1128,11,South Pacific,noun,no
+2525,tt0367623,1128,11,guide,noun,no
+2526,tt0367623,1128,11,island,noun,no
+2527,tt0367623,1128,11,movie,noun,general
+2528,tt0367623,1128,11,loss,noun,no
+2529,tt0367623,1128,12,review,noun,no
+2530,tt0367623,1128,12,week,noun,no
+2531,tt0367623,1128,12,movie,noun,general
+2532,tt0367623,1128,13,Lets,noun,no
+2533,tt0367623,1128,13,THIRD,noun,no
+2534,tt0367623,1128,14,Shawn Gearin,noun,cast
+2535,tt0367623,1129,1,film,noun,general
+2536,tt0367623,1129,1,DVD,noun,no
+2537,tt0367623,1129,1,lot,noun,no
+2538,tt0367623,1129,1,film,noun,general
+2539,tt0367623,1129,2,part,noun,no
+2540,tt0367623,1129,2,film,noun,general
+2541,tt0367623,1129,2,island,noun,no
+2542,tt0367623,1129,2,Eddie,noun,cast
+2543,tt0367623,1129,2,son,noun,no
+2544,tt0367623,1129,2,bathroom,noun,no
+2545,tt0367623,1129,2,jet,noun,no
+2546,tt0367623,1129,2,water,noun,no
+2547,tt0367623,1129,4,Christmas Vacation,noun,no
+2548,tt0367623,1129,4,Chevy Chase,noun,cast
+2549,tt0367623,1129,6,jokes,noun,general
+2550,tt0367623,1129,6,dog,noun,no
+2551,tt0367623,1129,6,flatulence,noun,no
+2552,tt0367623,1129,6,character,noun,no
+2553,tt0367623,1129,6,Uncle Nick who,noun,no
+2554,tt0367623,1129,6,his way,noun,no
+2555,tt0367623,1129,6,women,noun,no
+2556,tt0367623,1129,7,island,noun,no
+2557,tt0367623,1129,7,boat,noun,no
+2558,tt0367623,1129,7,island,noun,no
+2559,tt0367623,1129,7,background,noun,no
+2560,tt0367623,1129,7,Randy Quaid,noun,cast
+2561,tt0367623,1129,7,film,noun,general
+2562,tt0367623,1129,7,overacts,noun,no
+2563,tt0367623,1130,1,movie,noun,general
+2564,tt0367623,1130,1,night,noun,no
+2565,tt0367623,1130,1,thing,noun,no
+2566,tt0367623,1130,2,film,noun,general
+2567,tt0367623,1130,2,train wreck,noun,no
+2568,tt0367623,1130,2,actors,noun,cast
+2569,tt0367623,1130,3,script,noun,story
+2570,tt0367623,1130,4,Spoilers,noun,no
+2571,tt0367623,1130,4,Eddie,noun,cast
+2572,tt0367623,1130,4,his job,noun,no
+2573,tt0367623,1130,4,monkey,noun,no
+2574,tt0367623,1130,5,son,noun,no
+2575,tt0367623,1130,6,bathroom,noun,no
+2576,tt0367623,1130,7,vacation,noun,no
+2577,tt0367623,1130,8,Uncle Nick,noun,no
+2578,tt0367623,1130,8,Audry,noun,no
+2579,tt0367623,1130,9,Their boats crashes,noun,no
+2580,tt0367623,1130,10,island,noun,no
+2581,tt0367623,1130,11,hotel,noun,no
+2582,tt0367623,1130,13,movie pathetic,noun,general
+2583,tt0367623,1130,13,humor,noun,general
+2584,tt0367623,1130,15,humor,noun,general
+2585,tt0367623,1130,16,thing,noun,no
+2586,tt0367623,1131,1,Christmas,noun,no
+2587,tt0367623,1131,1,you subject you,noun,no
+2588,tt0367623,1131,1,family,noun,no
+2589,tt0367623,1131,2,movie,noun,general
+2590,tt0367623,1131,2,one,noun,no
+2591,tt0367623,1131,2,its sequel,noun,no
+2592,tt0367623,1131,3,intents,noun,no
+2593,tt0367623,1131,3,purposes,noun,no
+2594,tt0367623,1131,3,its sequel,noun,no
+2595,tt0367623,1131,4,character,noun,no
+2596,tt0367623,1131,4,cast returns,noun,cast
+2597,tt0367623,1131,5,character,noun,no
+2598,tt0367623,1131,5,cousin Eddie,noun,cast
+2599,tt0367623,1131,5,protagonist,noun,no
+2600,tt0367623,1131,5,movie,noun,general
+2601,tt0367623,1131,6,His niche,noun,no
+2602,tt0367623,1131,6,relative,noun,no
+2603,tt0367623,1131,6,antics,noun,no
+2604,tt0367623,1131,6,Chevy Chase,noun,cast
+2605,tt0367623,1131,7,Chevy Chase,noun,cast
+2606,tt0367623,1131,7,film,noun,general
+2607,tt0367623,1131,7,success,noun,no
+2608,tt0367623,1131,8,movie,noun,general
+2609,tt0367623,1131,8,movie,noun,general
+2610,tt0367623,1131,8,ole,noun,no
+2611,tt0367623,1131,8,Clark Griswold,noun,cast
+2612,tt0367623,1131,8,helm,noun,no
+2613,tt0367623,1132,1,people money,noun,no
+2614,tt0367623,1132,1,movie,noun,general
+2615,tt0367623,1132,2,nothing,noun,no
+2616,tt0367623,1132,3,fact,noun,no
+2617,tt0367623,1132,3,dog,noun,no
+2618,tt0367623,1132,3,thing,noun,no
+2619,tt0367623,1132,3,piece,noun,no
+2620,tt0367623,1132,3,sickness,noun,no
+2621,tt0367623,1132,4,nothing,noun,no
+2622,tt0367623,1132,4,Christmas,noun,no
+2623,tt0367623,1132,4,name,noun,no
+2624,tt0367623,1132,4,people,noun,no
+2625,tt0367623,1132,4,Chevy Chase,noun,cast
+2626,tt0367623,1132,5,Randy,noun,cast
+2627,tt0367623,1132,5,talent,noun,no
+2628,tt0367623,1132,5,pig,noun,no
+2629,tt0367623,1132,5,thing,noun,no
+2630,tt0367623,1132,5,part,noun,no
+2631,tt0367623,1132,6,morons,noun,no
+2632,tt0367623,1132,6,his family,noun,no
+2633,tt0367623,1132,6,kinda,noun,no
+2634,tt0367623,1132,6,t,noun,no
+2635,tt0367623,1132,7,pile,noun,no
+2636,tt0367623,1132,7,dirt,noun,no
+2637,tt0367623,1132,7,everyone,noun,no
+2638,tt0367623,1132,7,part,noun,no
+2639,tt0367623,1132,8,effects,noun,general
+2640,tt0367623,1132,8,order,noun,no
+2641,tt0367623,1132,8,boat,noun,no
+2642,tt0367623,1132,8,thing,noun,no
+2643,tt0367623,1132,8,background,noun,no
+2644,tt0367623,1132,8,pigface Quaid,noun,no
+2645,tt0367623,1132,8,water,noun,no
+2646,tt0367623,1132,8,lighting,noun,no
+2647,tt0367623,1132,8,studio,noun,no
+2648,tt0367623,1132,9,movie,noun,general
+2649,tt0367623,1132,9,uncle Nick,noun,no
+2650,tt0367623,1132,9,uncle Nick,noun,no
+2651,tt0367623,1132,9,money,noun,no
+2652,tt0367623,1132,9,volcano,noun,no
+2653,tt0367623,1132,9,use,noun,no
+2654,tt0367623,1132,11,Nobody,noun,no
+2655,tt0367623,1132,11,life Merry Fcking Christmas,noun,no
+2656,tt0367623,1133,1,town,noun,no
+2657,tt0367623,1133,1,friend,noun,no
+2658,tt0367623,1133,2,dinner,noun,no
+2659,tt0367623,1133,2,reservations,noun,no
+2660,tt0367623,1133,2,his daughter,noun,no
+2661,tt0367623,1133,2,boy friend,noun,no
+2662,tt0367623,1133,3,man,noun,no
+2663,tt0367623,1133,3,family,noun,no
+2664,tt0367623,1133,4,concerns,noun,no
+2665,tt0367623,1133,4,minutes,noun,no
+2666,tt0367623,1133,4,man,noun,no
+2667,tt0367623,1133,4,his DVD,noun,no
+2668,tt0367623,1133,4,flick,noun,no
+2669,tt0367623,1133,4,time,noun,no
+2670,tt0367623,1133,4,others,noun,no
+2671,tt0367623,1133,5,folks,noun,no
+2672,tt0367623,1133,5,bona fide home theater,noun,no
+2673,tt0367623,1133,5,screen something,noun,no
+2674,tt0367623,1133,5,excess,noun,no
+2675,tt0367623,1133,5,feet,noun,no
+2676,tt0367623,1133,5,folks,noun,no
+2677,tt0367623,1133,5,swain,noun,no
+2678,tt0367623,1133,5,its virtues,noun,no
+2679,tt0367623,1133,5,frame,noun,no
+2680,tt0367623,1133,5,frame,noun,no
+2681,tt0367623,1133,6,moments,noun,no
+2682,tt0367623,1133,6,fascination,noun,no
+2683,tt0367623,1133,6,its awfulness,noun,no
+2684,tt0367623,1133,6,comments,noun,no
+2685,tt0367623,1133,7,my friend I,noun,no
+2686,tt0367623,1133,7,suitor,noun,no
+2687,tt0367623,1133,7,basis,noun,no
+2688,tt0367623,1133,7,his liking,noun,no
+2689,tt0367623,1133,7,opus,noun,no
+2690,tt0367623,1133,7,his bearing,noun,no
+2691,tt0367623,1133,8,flicks,noun,no
+2692,tt0367623,1133,8,Plan,noun,no
+2693,tt0367623,1133,8,Outer Space,noun,no
+2694,tt0367623,1133,8,my opinion,noun,no
+2695,tt0367623,1133,8,Bruce Jenner/Village People,noun,cast
+2696,tt0367623,1133,8,Can't,noun,no
+2697,tt0367623,1133,8,Music,noun,music
+2698,tt0367623,1133,9,category,noun,no
+2699,tt0367623,1133,10,"""bananas",noun,no
+2700,tt0367623,1133,10,e.g,noun,no
+2701,tt0367623,1133,11,Tim Conway,noun,cast
+2702,tt0367623,1133,11,Don Knotts,noun,cast
+2703,tt0367623,1133,11,everybody,noun,no
+2704,tt0367623,1133,11,Seinfeld,noun,no
+2705,tt0367623,1133,11,difficulty,noun,no
+2706,tt0367623,1133,11,series,noun,no
+2707,tt0367623,1133,11,film,noun,general
+2708,tt0367623,1133,12,characters,noun,no
+2709,tt0367623,1133,12,situations,noun,no
+2710,tt0367623,1133,13,"""Eddie",noun,cast
+2711,tt0367623,1133,13,character,noun,no
+2712,tt0367623,1133,13,banana level,noun,no
+2713,tt0367623,1133,13,Griswald movies,noun,general
+2714,tt0367623,1133,13,lot,noun,no
+2715,tt0367623,1133,13,my opinion,noun,no
+2716,tt0367623,1133,14,Randy Quaid,noun,cast
+2717,tt0367623,1133,14,actor,noun,cast
+2718,tt0367623,1133,14,performances,noun,general
+2719,tt0367623,1133,15,His contribution,noun,no
+2720,tt0367623,1133,15,Vacation,noun,no
+2721,tt0367623,1133,15,pic,noun,no
+2722,tt0367623,1133,16,cast members,noun,cast
+2723,tt0367623,1133,16,work,noun,no
+2724,tt0367623,1133,16,past,noun,no
+2725,tt0367623,1133,16,nothing,noun,no
+2726,tt0367623,1133,16,their efforts,noun,no
+2727,tt0367623,1133,16,years,noun,no
+2728,tt0367623,1133,16,house payments,noun,no
+2729,tt0367623,1133,16,IRA contributions,noun,no
+2730,tt0367623,1133,17,presentation story,noun,story
+2731,tt0367623,1133,17,performances,noun,general
+2732,tt0367623,1133,17,lead,noun,no
+2733,tt0367623,1133,17,support,noun,no
+2734,tt0367623,1134,1,half,noun,no
+2735,tt0367623,1134,1,movie,noun,general
+2736,tt0367623,1134,1,my review,noun,no
+2737,tt0367623,1134,1,grain,noun,no
+2738,tt0367623,1134,1,salt,noun,no
+2739,tt0367623,1134,1,star rating,noun,no
+2740,tt0367623,1134,2,plot slaughter,noun,story
+2741,tt0367623,1134,2,precursor NL Christmas Vacation,noun,no
+2742,tt0367623,1134,2,Chevy Chase,noun,cast
+2743,tt0367623,1134,2,Chevy Chase,noun,cast
+2744,tt0367623,1134,2,place,noun,no
+2745,tt0367623,1134,2,island,noun,no
+2746,tt0367623,1134,2,connection,noun,no
+2747,tt0367623,1134,2,Christmas,noun,no
+2748,tt0367623,1134,3,Ol,noun,no
+2749,tt0367623,1134,3,Chevy,noun,cast
+2750,tt0367623,1134,3,plot,noun,story
+2751,tt0367623,1134,3,fun,noun,no
+2752,tt0367623,1134,3,screwy Cousin Eddie,noun,no
+2753,tt0367623,1134,3,top,noun,no
+2754,tt0367623,1134,3,basis,noun,no
+2755,tt0367623,1134,3,movie,noun,general
+2756,tt0367623,1134,3,plot,noun,story
+2757,tt0367623,1134,4,attempts,noun,no
+2758,tt0367623,1134,4,humor,noun,general
+2759,tt0367623,1134,4,degree,noun,no
+2760,tt0367623,1134,4,television comedy,noun,general
+2761,tt0367623,1134,4,comedy,noun,general
+2762,tt0367623,1134,5,its qualities,noun,no
+2763,tt0367623,1134,5,none,noun,no
+2764,tt0367623,1134,5,failings,noun,no
+2765,tt0367623,1134,5,Hollywood,noun,no
+2766,tt0367623,1134,5,life,noun,no
+2767,tt0367623,1134,5,blood,noun,no
+2768,tt0367623,1134,5,past,noun,no
+2769,tt0367623,1134,5,pursuit,noun,no
+2770,tt0367623,1134,5,buck,noun,no
+2771,tt0367623,1134,6,Christmas season,noun,no
+2772,tt0367623,1134,6,my childhood innocence,noun,no
+2773,tt0367623,1134,6,time,noun,no
+2774,tt0367623,1134,6,motion pictures,noun,no
+2775,tt0367623,1134,6,budget,noun,no
+2776,tt0367623,1134,6,garbage,noun,no
+2777,tt0367623,1135,1,movie,noun,general
+2778,tt0367623,1135,2,Eddie,noun,cast
+2779,tt0367623,1135,2,Clark Griswald,noun,cast
+2780,tt0367623,1135,2,brother,noun,no
+2781,tt0367623,1135,2,law,noun,no
+2782,tt0367623,1135,3,Eddie,noun,cast
+2783,tt0367623,1135,3,quips,noun,no
+2784,tt0367623,1135,3,Christmas Vacation,noun,no
+2785,tt0367623,1135,3,Vacation,noun,no
+2786,tt0367623,1135,4,movie,noun,general
+2787,tt0367623,1135,4,thumbs,noun,no
+2788,tt0367623,1135,5,Randy Quaid,noun,cast
+2789,tt0367623,1135,5,movie,noun,general
+2790,tt0367623,1135,5,character,noun,no
+2791,tt0367623,1135,6,movie,noun,general
+2792,tt0367623,1135,6,name actors,noun,cast
+2793,tt0367623,1136,1,God,noun,no
+2794,tt0367623,1136,1,Randy Quaid,noun,cast
+2795,tt0367623,1136,1,Cousin Eddie,noun,no
+2796,tt0367623,1136,1,Vacation,noun,no
+2797,tt0367623,1136,1,Christmas Vacation,noun,no
+2798,tt0367623,1136,1,show,noun,no
+2799,tt0367623,1136,2,Vegas Vacation,noun,no
+2800,tt0367623,1136,2,look,noun,no
+2801,tt0367623,1136,3,TV sequel,noun,no
+2802,tt0367623,1136,3,script,noun,story
+2803,tt0367623,1136,3,movie,noun,general
+2804,tt0367623,1136,4,Quaid,noun,cast
+2805,tt0367623,1136,4,rest,noun,no
+2806,tt0367623,1136,4,Vacation vets,noun,no
+2807,tt0367623,1136,4,Audrey,noun,cast
+2808,tt0367623,1136,4,Dana Barron,noun,cast
+2809,tt0367623,1136,5,Vacation,noun,no
+2810,tt0367623,1136,5,Eric Idle,noun,no
+2811,tt0367623,1136,5,show,noun,no
+2812,tt0367623,1136,6,Pathetic,noun,no
+2813,tt0367623,1136,7,Christmas Vacation,noun,no
+2814,tt0367623,1136,7,Vacation franchise,noun,no
+2815,tt0367623,1137,1,disaster,noun,no
+2816,tt0367623,1137,2,Major League II,noun,no
+2817,tt0367623,1137,2,Blues Brothers,noun,no
+2818,tt0367623,1137,2,Oscar,noun,no
+2819,tt0367623,1137,2,comparison,noun,no
+2820,tt0367623,1137,3,anything,noun,no
+2821,tt0367623,1137,3,my life,noun,no
+2822,tt0367623,1137,3,anything,noun,no
+2823,tt0367623,1138,1,movie,noun,general
+2824,tt0367623,1138,1,DVD.,noun,no
+2825,tt0367623,1138,2,TV,noun,no
+2826,tt0367623,1138,2,year,noun,no
+2827,tt0367623,1138,3,world,noun,no
+2828,tt0367623,1138,3,sequel,noun,no
+2829,tt0367623,1138,3,Christmas movies,noun,general
+2830,tt0367623,1138,4,Randy Quaid,noun,cast
+2831,tt0367623,1138,4,drugs,noun,no
+2832,tt0367623,1138,4,Jerry Lewis,noun,cast
+2833,tt0367623,1138,5,movie,noun,general
+2834,tt0367623,1138,5,IMDb,noun,no
+2835,tt0367623,1138,6,mistake,noun,no
+2836,tt0367623,1138,7,your reading,noun,no
+2837,tt0367623,1138,7,review,noun,no
+2838,tt0367623,1138,7,Christmas Vacation,noun,no
+2839,tt0367623,1138,8,bucks,noun,no
+2840,tt0367623,1138,9,half,noun,no
+2841,tt0367623,1138,9,back,noun,no
+2842,tt0367623,1138,9,Tower Records,noun,no
+2843,tt0367623,1138,11,PS,noun,no
+2844,tt0367623,1138,11,my DVD player,noun,no
+2845,tt0367623,1138,11,fritz,noun,no
+2846,tt0367623,1138,11,movie,noun,general
+2847,tt0367623,1138,11,Chronicles,noun,no
+2848,tt0367623,1138,11,Riddick Unrated Director,noun,no
+2849,tt0367623,1138,11,Cut,noun,no
+2850,tt0367623,1138,11,hoo,noun,no
+2851,tt0367623,1139,1,experience,noun,no
+2852,tt0367623,1139,2,my eyes,noun,no
+2853,tt0367623,1139,3,night,noun,no
+2854,tt0367623,1139,4,movie,noun,general
+2855,tt0367623,1139,5,Movies,noun,general
+2856,tt0367623,1139,7,film,noun,general
+2857,tt0367623,1139,7,ending,noun,no
+2858,tt0367623,1139,7,phenomenon,noun,no
+2859,tt0367623,1139,7,motion picture history,noun,general
+2860,tt0367623,1139,7,chance,noun,no
+2861,tt0367623,1139,9,National Lampoon,noun,no
+2862,tt0367623,1139,9,organization,noun,no
+2863,tt0367623,1139,9,atrocity,noun,no
+2864,tt0367623,1139,10,DVD,noun,no
+2865,tt0367623,1139,10,mistakes,noun,no
+2866,tt0367623,1139,10,my life,noun,no
+2867,tt0367623,1139,11,movie,noun,general
+2868,tt0367623,1139,12,question,noun,no
+2869,tt0367623,1139,12,movie,noun,general
+2870,tt0367623,1140,1,minutes,noun,no
+2871,tt0367623,1140,1,movie,noun,general
+2872,tt0367623,1140,1,television,noun,no
+2873,tt0367623,1140,1,night,noun,no
+2874,tt0367623,1140,1,series,noun,no
+2875,tt0367623,1140,2,Randy Quaid,noun,cast
+2876,tt0367623,1140,2,mess,noun,no
+2877,tt0367623,1140,3,Eric Idle,noun,cast
+2878,tt0367623,1140,3,N.L.,noun,no
+2879,tt0367623,1140,4,Euro,noun,no
+2880,tt0367623,1140,5,Vacation,noun,no
+2881,tt0367623,1140,6,scene,noun,general
+2882,tt0367623,1140,6,airport,noun,no
+2883,tt0367623,1140,6,guy,noun,no
+2884,tt0367623,1140,6,Santa,noun,no
+2885,tt0367623,1140,6,camera,noun,no
+2886,tt0367623,1140,6,anybody,noun,no
+2887,tt0367623,1140,6,leg...1/2,noun,no
+2888,tt0367623,1140,6,star,noun,no
+2889,tt0367623,1141,1,fan,noun,no
+2890,tt0367623,1141,1,Vacation,noun,no
+2891,tt0367623,1141,1,franchise,noun,no
+2892,tt0367623,1141,1,Randy Quaid,noun,cast
+2893,tt0367623,1141,1,Cousin Eddie,noun,cast
+2894,tt0367623,1141,1,couple,noun,no
+2895,tt0367623,1141,1,behind,noun,no
+2896,tt0367623,1141,1,scenes names,noun,no
+2897,tt0367623,1141,1,project,noun,no
+2898,tt0367623,1141,1,Matty Simmons,noun,cast
+2899,tt0367623,1141,1,executive,noun,no
+2900,tt0367623,1141,1,releases,noun,no
+2901,tt0367623,1141,1,Animal House,noun,no
+2902,tt0367623,1141,2,reasons,noun,no
+2903,tt0367623,1141,2,TV spin,noun,no
+2904,tt0367623,1141,2,cast,noun,cast
+2905,tt0367623,1141,3,record,noun,no
+2906,tt0367623,1141,3,diversion,noun,no
+2907,tt0367623,1141,4,level,noun,no
+2908,tt0367623,1141,4,disappointment,noun,no
+2909,tt0367623,1141,4,turd,noun,no
+2910,tt0367623,1141,4,movie,noun,general
+2911,tt0367623,1141,5,mind,noun,no
+2912,tt0367623,1141,5,jaw,noun,no
+2913,tt0367623,1141,5,heart,noun,no
+2914,tt0367623,1141,7,sickness,noun,no
+2915,tt0367623,1141,7,film,noun,general
+2916,tt0367623,1141,7,TV show,noun,no
+2917,tt0367623,1141,8,Nothing,noun,no
+2918,tt0367623,1141,8,hours,noun,no
+2919,tt0367623,1141,8,my life,noun,no
+2920,tt0367623,1141,8,movie,noun,general
+2921,tt0367623,1142,1,movies,noun,general
+2922,tt0367623,1142,1,minutes,noun,no
+2923,tt0367623,1142,1,expections,noun,no
+2924,tt0367623,1142,1,movie,noun,general
+2925,tt0367623,1142,2,time,noun,no
+2926,tt0367623,1143,1,year,noun,no
+2927,tt0367623,1143,1,second,noun,no
+2928,tt0367623,1143,1,piece,noun,no
+2929,tt0367623,1143,1,garbage,noun,no
+2930,tt0367623,1143,2,second,noun,no
+2931,tt0367623,1143,2,location,noun,no
+2932,tt0367623,1143,3,son,noun,no
+2933,tt0367623,1143,3,Eddie,noun,cast
+2934,tt0367623,1143,3,kids,noun,no
+2935,tt0367623,1143,4,Third,noun,no
+2936,tt0367623,1143,4,Eddie,noun,cast
+2937,tt0367623,1143,4,his father role,noun,no
+2938,tt0367623,1143,5,None,noun,no
+2939,tt0367623,1143,5,kids,noun,no
+2940,tt0367623,1143,6,lot,noun,no
+2941,tt0367623,1143,7,movie,noun,general
+2942,tt0367623,1143,8,continuncy,noun,no
+2943,tt0367623,1143,8,movie,noun,general
+2944,tt0367623,1143,9,one,noun,no
+2945,tt0367623,1143,10,actors,noun,cast
+2946,tt0367623,1143,10,fools,noun,no
+2947,tt0367623,1143,11,movie,noun,general
+2948,tt0367623,1143,12,hour,noun,no
+2949,tt0367623,1143,12,movie,noun,general
+2950,tt0367623,1143,12,i,noun,no
+2951,tt0367623,1143,12,lampoon films,noun,general
+2952,tt0367623,1144,1,hours,noun,no
+2953,tt0367623,1144,2,plot,noun,story
+2954,tt0367623,1144,2,characters,noun,no
+2955,tt0367623,1144,2,hottie,noun,no
+2956,tt0367623,1144,2,Eddie,noun,cast
+2957,tt0367623,1144,2,kid,noun,no
+2958,tt0367623,1144,2,year,noun,no
+2959,tt0367623,1144,2,grandpa,noun,no
+2960,tt0367623,1144,2,advances,noun,no
+2961,tt0367623,1144,3,money,noun,no
+2962,tt0367623,1144,3,throne,noun,no
+2963,tt0367623,1144,4,Matty Simmons,noun,cast
+2964,tt0367623,1144,5,idea,noun,no
+2965,tt0367623,1144,5,movie,noun,general
+2966,tt0367623,1144,5,Family Griswold,noun,cast
+2967,tt0367623,1144,5,mess,noun,no
+2968,tt0367623,1144,6,spot,noun,no
+2969,tt0367623,1144,6,ratings,noun,no
+2970,tt0367623,1144,6,TV,noun,no
+2971,tt0367623,1144,7,AVOID,noun,no
+2972,tt0367623,1144,7,ALL,noun,no
+2973,tt0367623,1144,8,RENT ERNEST SAVES XMAS,noun,no
+2974,tt0367623,1144,8,something,noun,no
+2975,tt0367623,1145,1,fan,noun,no
+2976,tt0367623,1145,1,Vacation films,noun,general
+2977,tt0367623,1145,1,movie franchise,noun,general
+2978,tt0367623,1145,1,screen,noun,no
+2979,tt0367623,1145,1,TV screen,noun,no
+2980,tt0367623,1145,1,steam,noun,no
+2981,tt0367623,1145,2,TV National Lampoon films,noun,no
+2982,tt0367623,1145,2,TV National Lampoon films,noun,no
+2983,tt0367623,1145,3,movie,noun,general
+2984,tt0367623,1145,3,reason,noun,no
+2985,tt0367623,1145,4,lot,noun,no
+2986,tt0367623,1145,4,reality ...it,noun,no
+2987,tt0367623,1145,4,TV movie,noun,no
+2988,tt0367623,1145,5,Randy Quaid,noun,cast
+2989,tt0367623,1145,5,Cousin Eddie,noun,cast
+2990,tt0367623,1145,5,role,noun,no
+2991,tt0367623,1145,5,lead,noun,no
+2992,tt0367623,1145,6,Dana Barron,noun,cast
+2993,tt0367623,1145,6,history,noun,no
+2994,tt0367623,1145,6,actor,noun,cast
+2995,tt0367623,1145,6,her role,noun,no
+2996,tt0367623,1145,6,Griswold kids,noun,no
+2997,tt0367623,1145,7,script,noun,story
+2998,tt0367623,1145,8,movie,noun,general
+2999,tt0367623,1145,9,NBC,noun,no
+3000,tt0367623,1145,9,years,noun,no
+3001,tt0367623,1145,9,X mas Vacation,noun,no
+3002,tt0367623,1145,10,nothing,noun,no
+3003,tt0367623,1145,10,acting,noun,cast
+3004,tt0367623,1145,11,script,noun,story
+3005,tt0367623,1145,13,People,noun,no
+3006,tt0367623,1145,13,stuff,noun,no
+3007,tt0367623,1145,14,Christmas movie I,noun,general
+3008,tt0367623,1146,1,National Lampoon,noun,no
+3009,tt0367623,1146,1,Christmas Vacation,noun,no
+3010,tt0367623,1146,1,DVD,noun,no
+3011,tt0367623,1146,1,something,noun,no
+3012,tt0367623,1146,1,holiday comedy,noun,general
+3013,tt0367623,1146,1,Christmas Vacation,noun,no
+3014,tt0367623,1146,2,nothing,noun,no
+3015,tt0367623,1146,2,kind,noun,no
+3016,tt0367623,1146,3,right,noun,no
+3017,tt0367623,1146,3,start,noun,no
+3018,tt0367623,1146,3,movie,noun,general
+3019,tt0367623,1146,4,title,noun,general
+3020,tt0367623,1146,4,Christmas Vacation,noun,no
+3021,tt0367623,1146,5,kind,noun,no
+3022,tt0367623,1146,6,film,noun,general
+3023,tt0367623,1146,6,merits,noun,no
+3024,tt0367623,1146,7,people,noun,no
+3025,tt0367623,1146,7,film,noun,general
+3026,tt0367623,1146,7,strength,noun,no
+3027,tt0367623,1146,7,title,noun,general
+3028,tt0367623,1146,7,level,noun,no
+3029,tt0367623,1146,7,comedy,noun,general
+3030,tt0367623,1146,8,title,noun,general
+3031,tt0367623,1146,8,movie,noun,general
+3032,tt0367623,1146,8,Christmas Vacation,noun,no
+3033,tt0367623,1146,8,connection,noun,no
+3034,tt0367623,1146,8,Christmas,noun,no
+3035,tt0367623,1146,9,comedy,noun,general
+3036,tt0367623,1146,9,plot,noun,story
+3037,tt0367623,1146,10,Children,noun,no
+3038,tt0367623,1146,10,humor,noun,general
+3039,tt0367623,1146,10,adults,noun,no
+3040,tt0367623,1146,10,chuckle,noun,no
+3041,tt0367623,1146,11,movie,noun,general
+3042,tt0367623,1146,11,flop,noun,general
+3043,tt0367623,1146,12,your time,noun,no
+3044,tt0367623,1147,1,sequel,noun,no
+3045,tt0367623,1147,1,Christmas movies,noun,general
+3046,tt0367623,1147,1,time,noun,no
+3047,tt0367623,1147,2,movie,noun,general
+3048,tt0367623,1147,2,train wreck,noun,no
+3049,tt0367623,1147,2,level,noun,no
+3050,tt0367623,1147,3,Randy Quaid,noun,cast
+3051,tt0367623,1147,3,portrayal,noun,no
+3052,tt0367623,1147,3,cousin Eddie,noun,cast
+3053,tt0367623,1147,3,caricature,noun,no
+3054,tt0367623,1147,3,outings,noun,no
+3055,tt0367623,1147,3,cousin Eddie,noun,cast
+3056,tt0367623,1147,4,Eddie character,noun,cast
+3057,tt0367623,1147,4,movie,noun,general
+3058,tt0367623,1147,5,candy,noun,no
+3059,tt0367623,1147,5,Sung Hi Lee,noun,cast
+3060,tt0367623,1147,5,hunk,noun,no
+3061,tt0367623,1147,5,holiday crap,noun,no
+3062,tt0367623,1147,6,your time,noun,no
+3063,tt0367623,1147,6,move,noun,no
+3064,tt0168355,9671,1,Disney,noun,no
+3065,tt0168355,9671,1,entertainment,noun,general
+3066,tt0168355,9671,1,un Disney,noun,no
+3067,tt0168355,9671,1,moments,noun,no
+3068,tt0168355,9671,1,violence,noun,general
+3069,tt0168355,9671,1,references,noun,no
+3070,tt0168355,9671,2,comedy,noun,general
+3071,tt0168355,9671,2,cliché,noun,no
+3072,tt0168355,9671,2,moralizing,noun,no
+3073,tt0168355,9671,3,cast,noun,no
+3074,tt0168355,9671,3,Abraham,noun,cast
+3075,tt0168355,9671,3,Lot,noun,no
+3076,tt0168355,9671,3,buddy,noun,no
+3077,tt0168355,9671,4,effects,noun,no
+3078,tt0168355,9671,5,timing,noun,no
+3079,tt0168355,9671,6,Sodom,noun,cast
+3080,tt0168355,9671,6,Gommorah,noun,cast
+3081,tt0168355,9671,6,Flood,noun,no
+3082,tt0168355,9671,7,twists,noun,story
+3083,tt0168355,9671,7,sub plots,noun,story
+3084,tt0168355,9671,7,Bible,noun,no
+3085,tt0168355,9671,8,God,noun,no
+3086,tt0168355,9671,8,doubting father who,noun,no
+3087,tt0168355,9671,8,world,noun,no
+3088,tt0168355,9671,8,disaster,noun,no
+3089,tt0168355,9671,9,B movie wannabee director John Irvin,noun,general
+3090,tt0168355,9671,9,failure,noun,no
+3091,tt0168355,9671,9,list,noun,no
+3092,tt0168355,9671,9,movies,noun,general
+3093,tt0168355,9671,9,lack plot,noun,story
+3094,tt0168355,9671,9,direction,noun,direction
+3095,tt0168355,9672,1,nothing,noun,no
+3096,tt0168355,9672,1,Billy Mays infomercial,noun,no
+3097,tt0168355,9672,1,intellectually,noun,no
+3098,tt0168355,9672,1,experience,noun,no
+3099,tt0168355,9672,1,piece,noun,no
+3100,tt0168355,9672,1,garbage,noun,no
+3101,tt0168355,9672,2,Peter Barnes,noun,cast
+3102,tt0168355,9672,2,John Irvin,noun,cast
+3103,tt0168355,9672,2,charges,noun,no
+3104,tt0168355,9672,2,script,noun,story
+3105,tt0168355,9672,2,venue,noun,no
+3106,tt0168355,9672,3,actors,noun,cast
+3107,tt0168355,9672,3,accomplices,noun,no
+3108,tt0168355,9672,3,lifetime,noun,no
+3109,tt0168355,9672,3,eye,noun,no
+3110,tt0168355,9672,4,production,noun,general
+3111,tt0168355,9672,4,disclaimer,noun,no
+3112,tt0168355,9672,4,effect,noun,general
+3113,tt0168355,9672,4,license,noun,no
+3114,tt0168355,9672,4,facts,noun,no
+3115,tt0168355,9672,4,statement,noun,no
+3116,tt0168355,9672,4,repugnant rewrite,noun,no
+3117,tt0168355,9672,4,Bible story,noun,story
+3118,tt0168355,9672,4,drama,noun,no
+3119,tt0168355,9672,5,your I.Q,noun,no
+3120,tt0168355,9672,5,points,noun,no
+3121,tt0168355,9672,5,minutes,noun,no
+3122,tt0168355,9672,5,time,noun,no
+3123,tt0168355,9672,6,license,noun,no
+3124,tt0168355,9672,6,invents characters,noun,cast
+3125,tt0168355,9672,6,nothing,noun,no
+3126,tt0168355,9672,6,names,noun,no
+3127,tt0168355,9672,6,course,noun,no
+3128,tt0168355,9672,6,ark,noun,no
+3129,tt0168355,9672,7,reason,noun,no
+3130,tt0168355,9672,7,Noah,noun,cast
+3131,tt0168355,9672,7,Lot,noun,cast
+3132,tt0168355,9672,7,Sodom,noun,no
+3133,tt0168355,9672,7,Abram,noun,cast
+3134,tt0168355,9672,7,Switzerland,noun,no
+3135,tt0168355,9672,7,skiing trip,noun,no
+3136,tt0168355,9672,8,Lot,noun,cast
+3137,tt0168355,9672,8,wife,noun,no
+3138,tt0168355,9672,8,Carol Kane,noun,cast
+3139,tt0168355,9672,8,harpy,noun,no
+3140,tt0168355,9672,8,pillar,noun,no
+3141,tt0168355,9672,8,salt,noun,no
+3142,tt0168355,9672,8,Lot breaks,noun,cast
+3143,tt0168355,9672,8,her finger,noun,no
+3144,tt0168355,9672,8,baby food jar,noun,no
+3145,tt0168355,9672,9,kumquat,noun,no
+3146,tt0168355,9672,10,Noah,noun,cast
+3147,tt0168355,9672,10,wine,noun,no
+3148,tt0168355,9672,10,quantities,noun,no
+3149,tt0168355,9672,10,ark whines,noun,no
+3150,tt0168355,9672,10,job,noun,no
+3151,tt0168355,9672,10,building project,noun,no
+3152,tt0168355,9672,10,morning,noun,no
+3153,tt0168355,9672,10,God,noun,no
+3154,tt0168355,9672,10,lumber,noun,no
+3155,tt0168355,9672,10,his burden,noun,no
+3156,tt0168355,9672,11,God,noun,no
+3157,tt0168355,9672,12,delivery,noun,no
+3158,tt0168355,9672,12,Lumber,noun,no
+3159,tt0168355,9672,13,Lumber,noun,no
+3160,tt0168355,9672,13,agent,noun,no
+3161,tt0168355,9672,13,God,noun,no
+3162,tt0168355,9672,14,cargo,noun,no
+3163,tt0168355,9672,14,account,noun,no
+3164,tt0168355,9672,14,attack,noun,no
+3165,tt0168355,9672,14,ark,noun,no
+3166,tt0168355,9672,16,movie,noun,general
+3167,tt0168355,9672,16,nonsense,noun,no
+3168,tt0168355,9672,17,time,noun,no
+3169,tt0168355,9672,17,waters,noun,no
+3170,tt0168355,9672,17,Noah,noun,cast
+3171,tt0168355,9672,17,ship,noun,no
+3172,tt0168355,9672,18,salty sea captain,noun,no
+3173,tt0168355,9672,19,Lot,noun,cast
+3174,tt0168355,9672,19,course,noun,no
+3175,tt0168355,9672,20,surprise,noun,no
+3176,tt0168355,9672,20,his uncle Abram,noun,cast
+3177,tt0168355,9672,21,slaughter,noun,no
+3178,tt0168355,9672,21,plot line,noun,story
+3179,tt0168355,9672,21,slaughter,noun,no
+3180,tt0168355,9672,22,piracy attempt,noun,no
+3181,tt0168355,9672,22,swashbuckling,noun,no
+3182,tt0168355,9672,23,mark,noun,no
+3183,tt0168355,9672,23,my nausea,noun,no
+3184,tt0168355,9672,24,distortion,noun,no
+3185,tt0168355,9672,24,anything,noun,no
+3186,tt0168355,9672,24,Bible account,noun,no
+3187,tt0168355,9672,25,scale,noun,no
+3188,tt0168355,9672,25,movie,noun,general
+3189,tt0168355,9672,25,mind abuse,noun,no
+3190,tt0168355,9672,26,Pages,noun,no
+3191,tt0168355,9673,1,movie,noun,general
+3192,tt0168355,9673,1,my children,noun,no
+3193,tt0168355,9673,1,grandchildren,noun,no
+3194,tt0168355,9673,2,fiction,noun,general
+3195,tt0168355,9673,3,thing,noun,no
+3196,tt0168355,9673,3,animals,noun,no
+3197,tt0168355,9673,3,Ark,noun,no
+3198,tt0168355,9673,3,everything,noun,no
+3199,tt0168355,9673,4,Lot,noun,no
+3200,tt0168355,9673,4,Noah,noun,cast
+3201,tt0168355,9673,4,ocean,noun,no
+3202,tt0168355,9673,4,movie,noun,general
+3203,tt0168355,9673,5,your kids,noun,no
+3204,tt0168355,9673,5,story,noun,story
+3205,tt0168355,9673,5,vision,noun,no
+3206,tt0168355,9673,5,Bible,noun,no
+3207,tt0168355,9673,6,Bible movie I,noun,story
+3208,tt0168355,9673,7,Bruce,noun,cast
+3209,tt0168355,9673,7,Evan Almighty,noun,cast
+3210,tt0168355,9673,8,your children,noun,no
+3211,tt0168355,9674,1,CRAP,noun,no
+3212,tt0168355,9674,1,Biblical theme film,noun,general
+3213,tt0168355,9674,2,Sodom,noun,cast
+3214,tt0168355,9674,2,Gomora,noun,cast
+3215,tt0168355,9674,2,flood,noun,no
+3216,tt0168355,9674,3,Lot,noun,cast
+3217,tt0168355,9674,3,friend,noun,no
+3218,tt0168355,9674,3,Noah,noun,cast
+3219,tt0168355,9674,3,Noah,noun,cast
+3220,tt0168355,9674,4,things,noun,no
+3221,tt0168355,9674,4,Lot,noun,cast
+3222,tt0168355,9674,4,pirate,noun,no
+3223,tt0168355,9674,4,attacks Noah,noun,cast
+3224,tt0168355,9674,4,Ark,noun,no
+3225,tt0168355,9674,4,flood,noun,no
+3226,tt0168355,9674,5,merchant,noun,no
+3227,tt0168355,9674,5,boat,noun,no
+3228,tt0168355,9674,5,water,noun,no
+3229,tt0168355,9674,5,bicycle mechanism,noun,no
+3230,tt0168355,9674,6,exchanges alcohol,noun,no
+3231,tt0168355,9674,6,food,noun,no
+3232,tt0168355,9674,6,water,noun,no
+3233,tt0168355,9674,6,Noah,noun,cast
+3234,tt0168355,9674,7,Mockery,noun,no
+3235,tt0168355,9674,7,blasphemies,noun,no
+3236,tt0168355,9674,8,Film maker,noun,direction
+3237,tt0168355,9674,8,participants,noun,no
+3238,tt0168355,9674,8,row,noun,no
+3239,tt0168355,9674,8,hell,noun,no
+3240,tt0168355,9674,8,garbage,noun,no
+3241,tt0168355,9674,9,crap,noun,no
+3242,tt0168355,9674,9,hours,noun,no
+3243,tt0168355,9674,9,your life,noun,no
+3244,tt0168355,9675,1,cast,noun,cast
+3245,tt0168355,9675,1,movie,noun,general
+3246,tt0168355,9675,1,movie,noun,general
+3247,tt0168355,9675,2,John Voight,noun,cast
+3248,tt0168355,9675,2,idea,noun,no
+3249,tt0168355,9675,2,part,noun,no
+3250,tt0168355,9675,2,travesty,noun,no
+3251,tt0168355,9675,3,Biblical accuracy,noun,no
+3252,tt0168355,9675,3,movie,noun,general
+3253,tt0168355,9675,3,my children,noun,no
+3254,tt0168355,9675,4,My kids,noun,no
+3255,tt0168355,9675,4,Lot,noun,cast
+3256,tt0168355,9675,4,Noah,noun,cast
+3257,tt0168355,9675,4,ark,noun,no
+3258,tt0168355,9675,5,NBC,noun,no
+3259,tt0168355,9675,5,producers,noun,general
+3260,tt0168355,9675,5,mockery,noun,no
+3261,tt0168355,9675,5,Word,noun,no
+3262,tt0168355,9675,5,confusion,noun,no
+3263,tt0168355,9675,5,world,noun,no
+3264,tt0168355,9675,5,truth,noun,no
+3265,tt0168355,9675,6,PLEASE,noun,no
+3266,tt0168355,9675,6,NOT BUY THIS MOVIE,noun,general
+3267,tt0168355,9675,7,my copy,noun,no
+3268,tt0168355,9675,7,intentions,noun,no
+3269,tt0168355,9675,7,producers,noun,general
+3270,tt0168355,9675,7,scripture references,noun,no
+3271,tt0168355,9675,7,movie,noun,general
+3272,tt0168355,9676,1,NBC,noun,no
+3273,tt0168355,9676,2,my children,noun,no
+3274,tt0168355,9676,3,my church,noun,no
+3275,tt0168355,9676,4,movie,noun,general
+3276,tt0168355,9676,4,proof,noun,no
+3277,tt0168355,9676,4,NBC,noun,no
+3278,tt0168355,9676,4,rate network,noun,no
+3279,tt0168355,9676,4,producers,noun,general
+3280,tt0168355,9676,4,actors,noun,cast
+3281,tt0168355,9676,4,writers,noun,story
+3282,tt0168355,9676,4,their knees,noun,no
+3283,tt0168355,9676,4,God,noun,no
+3284,tt0168355,9676,4,forgiveness,noun,no
+3285,tt0168355,9676,4,work,noun,no
+3286,tt0168355,9676,4,fiction,noun,general
+3287,tt0168355,9676,5,pirates,noun,no
+3288,tt0168355,9676,6,Noah,noun,cast
+3289,tt0168355,9676,6,wife,noun,no
+3290,tt0168355,9676,6,parade,noun,no
+3291,tt0168355,9676,6,deck,noun,no
+3292,tt0168355,9676,6,ark,noun,no
+3293,tt0168355,9676,7,ark,noun,no
+3294,tt0168355,9676,7,deck,noun,no
+3295,tt0168355,9676,8,Lot,noun,cast
+3296,tt0168355,9676,8,event,noun,no
+3297,tt0168355,9676,8,place,noun,no
+3298,tt0168355,9676,9,anyone,noun,no
+3299,tt0168355,9676,9,project,noun,no
+3300,tt0168355,9676,9,Bible,noun,no
+3301,tt0168355,9676,10,animals,noun,no
+3302,tt0168355,9676,10,type,noun,no
+3303,tt0168355,9676,11,story,noun,story
+3304,tt0168355,9676,11,Genesis,noun,no
+3305,tt0168355,9676,12,anyone,noun,no
+3306,tt0168355,9676,12,screen,noun,no
+3307,tt0168355,9677,1,film,noun,general
+3308,tt0168355,9677,1,Drama,noun,general
+3309,tt0168355,9677,1,idea,noun,no
+3310,tt0168355,9677,2,John Voight,noun,cast
+3311,tt0168355,9677,2,Mary Steenburgen,noun,cast
+3312,tt0168355,9677,2,my CV.,noun,no
+3313,tt0168355,9677,3,Xena,noun,cast
+3314,tt0168355,9677,3,Hercules,noun,cast
+3315,tt0168355,9677,4,Abraham,noun,cast
+3316,tt0168355,9677,4,Moses,noun,cast
+3317,tt0168355,9677,4,Noah,noun,cast
+3318,tt0168355,9677,5,Lot,noun,cast
+3319,tt0168355,9677,5,Abraham,noun,cast
+3320,tt0168355,9677,5,nephew,noun,no
+3321,tt0168355,9677,5,Lot,noun,cast
+3322,tt0168355,9677,5,thousands,noun,no
+3323,tt0168355,9677,5,years,noun,no
+3324,tt0168355,9677,6,Canaanites,noun,no
+3325,tt0168355,9677,6,earth,noun,no
+3326,tt0168355,9677,7,scriptwriters,noun,story
+3327,tt0168355,9677,8,ignorance,noun,no
+3328,tt0168355,9677,8,something,noun,no
+3329,tt0168355,9677,8,Noah,noun,cast
+3330,tt0168355,9677,8,animals,noun,no
+3331,tt0168355,9677,8,Lot,noun,cast
+3332,tt0168355,9677,8,Canaanites,noun,no
+3333,tt0168355,9677,8,stuff,noun,no
+3334,tt0168355,9677,8,Sunday School,noun,no
+3335,tt0168355,9677,8,number,noun,no
+3336,tt0168355,9677,8,people,noun,no
+3337,tt0168355,9677,8,planet,noun,no
+3338,tt0168355,9677,8,Christians,noun,no
+3339,tt0168355,9677,8,Jews,noun,no
+3340,tt0168355,9677,8,Muslims,noun,no
+3341,tt0168355,9677,8,historians,noun,no
+3342,tt0168355,9677,8,archaeologists,noun,no
+3343,tt0168355,9677,8,geologists,noun,no
+3344,tt0168355,9677,8,psychologists,noun,no
+3345,tt0168355,9677,8,matter,noun,no
+3346,tt0168355,9677,8,fact,noun,no
+3347,tt0168355,9677,8,anyone,noun,no
+3348,tt0168355,9677,9,Anyone,noun,no
+3349,tt0168355,9677,9,modicum,noun,no
+3350,tt0168355,9677,9,taste,noun,no
+3351,tt0168355,9677,9,one,noun,no
+3352,tt0168355,9678,1,copy,noun,no
+3353,tt0168355,9678,1,mess,noun,no
+3354,tt0168355,9678,1,movie,noun,general
+3355,tt0168355,9678,1,sessions,noun,no
+3356,tt0168355,9678,1,days,noun,no
+3357,tt0168355,9678,2,comment,noun,no
+3358,tt0168355,9678,2,making,noun,no
+3359,tt0168355,9678,3,carelessness,noun,no
+3360,tt0168355,9678,3,features,noun,no
+3361,tt0168355,9678,3,DVD.,noun,no
+3362,tt0168355,9678,4,game,noun,no
+3363,tt0168355,9678,4,memory,noun,no
+3364,tt0168355,9678,4,player/viewer,noun,no
+3365,tt0168355,9678,4,pairs,noun,no
+3366,tt0168355,9678,4,animals,noun,no
+3367,tt0168355,9678,4,order,noun,no
+3368,tt0168355,9678,4,ark,noun,no
+3369,tt0168355,9678,5,time,noun,no
+3370,tt0168355,9678,5,animal,noun,no
+3371,tt0168355,9678,5,screen,noun,no
+3372,tt0168355,9678,5,player,noun,no
+3373,tt0168355,9678,5,player,noun,no
+3374,tt0168355,9678,5,"finding""it",noun,no
+3375,tt0168355,9678,5,mate,noun,no
+3376,tt0168355,9678,6,spelling error,noun,no
+3377,tt0168355,9678,6,"""its mate",noun,no
+3378,tt0168355,9678,6,pronoun,noun,no
+3379,tt0168355,9678,6,contraction,noun,no
+3380,tt0168355,9678,6,"""it",noun,no
+3381,tt0168355,9678,7,error,noun,no
+3382,tt0168355,9678,7,times,noun,no
+3383,tt0168355,9678,7,game,noun,no
+3384,tt0168355,9678,8,course,noun,no
+3385,tt0168355,9678,8,kid,noun,no
+3386,tt0168355,9678,8,activity,noun,no
+3387,tt0168355,9678,8,kids,noun,no
+3388,tt0168355,9678,8,spelling,noun,no
+3389,tt0168355,9678,9,game,noun,no
+3390,tt0168355,9678,10,game,noun,no
+3391,tt0168355,9678,10,locations,noun,no
+3392,tt0168355,9678,10,animals,noun,no
+3393,tt0168355,9678,10,time,noun,no
+3394,tt0168355,9678,11,score,noun,no
+3395,tt0168355,9678,11,number,noun,no
+3396,tt0168355,9678,11,moves,noun,no
+3397,tt0168355,9678,11,game,noun,no
+3398,tt0168355,9678,12,value,noun,no
+3399,tt0168355,9678,12,challenge,noun,no
+3400,tt0168355,9678,13,feature,noun,no
+3401,tt0168355,9678,13,packaging,noun,no
+3402,tt0168355,9678,14,thought,noun,no
+3403,tt0168355,9678,14,care,noun,no
+3404,tt0168355,9678,14,feature,noun,no
+3405,tt0168355,9678,14,thought,noun,no
+3406,tt0168355,9678,14,care,noun,no
+3407,tt0168355,9678,14,film,noun,general
+3408,tt0168355,9679,1,Bible,noun,no
+3409,tt0168355,9679,1,trash,noun,no
+3410,tt0168355,9679,2,one,noun,no
+3411,tt0168355,9679,3,matters,noun,no
+3412,tt0168355,9679,3,hours,noun,no
+3413,tt0168355,9679,4,waste,noun,no
+3414,tt0168355,9679,4,time,noun,no
+3415,tt0168355,9679,4,your kid,noun,no
+3416,tt0168355,9679,4,knowledge,noun,no
+3417,tt0168355,9679,4,aberrations,noun,no
+3418,tt0168355,9679,5,favor,noun,no
+3419,tt0168355,9679,5,walk,noun,no
+3420,tt0168355,9679,5,Sahara,noun,no
+3421,tt0168355,9679,6,line statement,noun,no
+3422,tt0168355,9679,6,movie,noun,general
+3423,tt0168355,9679,6,quality,noun,general
+3424,tt0168355,9679,7,God,noun,no
+3425,tt0168355,9679,7,conversations,noun,no
+3426,tt0168355,9679,7,Noah,noun,cast
+3427,tt0168355,9679,8,thing,noun,no
+3428,tt0168355,9679,8,stench,noun,no
+3429,tt0168355,9679,8,"""let",noun,no
+3430,tt0168355,9679,8,Biblical account look,noun,no
+3431,tt0168355,9679,9,logic,noun,no
+3432,tt0168355,9679,9,money,noun,no
+3433,tt0168355,9679,9,film,noun,general
+3434,tt0168355,9679,10,logic,noun,no
+3435,tt0168355,9679,10,something,noun,no
+3436,tt0168355,9679,11,movie,noun,general
+3437,tt0168355,9679,11,disclaimer,noun,no
+3438,tt0168355,9679,11,Poetic Licenses,noun,no
+3439,tt0168355,9679,11,understatement,noun,no
+3440,tt0168355,9679,11,century,noun,no
+3441,tt0168355,9679,12,Poetic rape,noun,no
+3442,tt0168355,9679,13,poetic,noun,no
+3443,tt0168355,9679,13,favor,noun,no
+3444,tt0168355,9680,1,Hollywood,noun,no
+3445,tt0168355,9680,1,NEVER,noun,no
+3446,tt0168355,9680,1,Biblical,noun,no
+3447,tt0168355,9680,1,film,noun,general
+3448,tt0168355,9680,1,Noah,noun,cast
+3449,tt0168355,9680,1,Ark,noun,no
+3450,tt0168355,9680,1,norm,noun,no
+3451,tt0168355,9680,2,cast Voight,noun,cast
+3452,tt0168355,9680,2,Steenburgen,noun,cast
+3453,tt0168355,9680,2,day,noun,no
+3454,tt0168355,9680,2,film,noun,general
+3455,tt0168355,9680,2,time line,noun,no
+3456,tt0168355,9680,3,part,noun,no
+3457,tt0168355,9680,3,Genesis,noun,no
+3458,tt0168355,9680,3,pirate fight,noun,no
+3459,tt0168355,9680,3,deck,noun,no
+3460,tt0168355,9680,3,ark,noun,no
+3461,tt0168355,9680,3,salesman,noun,no
+3462,tt0168355,9680,3,his paddle boat,noun,no
+3463,tt0168355,9680,5,EVERYONE,noun,no
+3464,tt0168355,9680,5,Noah,noun,cast
+3465,tt0168355,9680,5,his family,noun,no
+3466,tt0168355,9680,5,scripture,noun,no
+3467,tt0168355,9680,6,God,noun,no
+3468,tt0168355,9680,6,lumber,noun,no
+3469,tt0168355,9680,6,plans,noun,no
+3470,tt0168355,9680,6,ark,noun,no
+3471,tt0168355,9680,6,Noah,noun,cast
+3472,tt0168355,9680,7,anything,noun,no
+3473,tt0168355,9680,7,Noah,noun,cast
+3474,tt0168355,9680,7,wife,noun,no
+3475,tt0168355,9680,7,days,noun,no
+3476,tt0168355,9680,7,Noah,noun,cast
+3477,tt0168355,9680,7,glassy,noun,no
+3478,tt0168355,9680,7,time,noun,no
+3479,tt0168355,9680,8,script writer,noun,story
+3480,tt0168355,9680,8,knowledge,noun,no
+3481,tt0168355,9680,8,book,noun,no
+3482,tt0168355,9680,8,Genesis,noun,no
+3483,tt0168355,9680,8,his abomination,noun,no
+3484,tt0168355,9680,8,story,noun,story
+3485,tt0168355,9681,1,film,noun,general
+3486,tt0168355,9681,1,depiction,noun,no
+3487,tt0168355,9681,1,story,noun,story
+3488,tt0168355,9681,1,Noah,noun,cast
+3489,tt0168355,9681,1,Ark,noun,no
+3490,tt0168355,9681,2,producers,noun,general
+3491,tt0168355,9681,2,Bible,noun,no
+3492,tt0168355,9681,3,movie,noun,general
+3493,tt0168355,9681,3,EVER,noun,no
+3494,tt0168355,9681,4,Noah,noun,cast
+3495,tt0168355,9681,4,wife,noun,no
+3496,tt0168355,9681,4,name,noun,no
+3497,tt0168355,9681,4,Bible,noun,no
+3498,tt0168355,9681,4,writers,noun,story
+3499,tt0168355,9681,4,film,noun,general
+3500,tt0168355,9681,4,name Naamah,noun,no
+3501,tt0168355,9681,5,movie,noun,general
+3502,tt0168355,9681,5,destruction,noun,no
+3503,tt0168355,9681,5,Sodom,noun,no
+3504,tt0168355,9681,5,years,noun,no
+3505,tt0168355,9681,5,Gamorrah,noun,no
+3506,tt0168355,9681,6,time Sodom,noun,no
+3507,tt0168355,9681,7,producers,noun,general
+3508,tt0168355,9681,7,Gamorrah,noun,no
+3509,tt0168355,9681,7,story,noun,story
+3510,tt0168355,9681,7,city,noun,no
+3511,tt0168355,9681,7,Sodom,noun,no
+3512,tt0168355,9681,7,eyebrows,noun,no
+3513,tt0168355,9681,8,film,noun,general
+3514,tt0168355,9681,8,filth,noun,no
+3515,tt0168355,9681,8,mocks God,noun,no
+3516,tt0168355,9681,8,Bible,noun,no
+3517,tt0168355,9681,9,wonder,noun,no
+3518,tt0168355,9681,9,Christian,noun,no
+3519,tt0168355,9681,9,production,noun,no
+3520,tt0168355,9681,9,mockery,noun,no
+3521,tt0168355,9681,9,Bible,noun,no
