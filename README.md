@@ -11,9 +11,9 @@ NLP Project of Team Beta for the Information Retrieval (IN4325) course
 	* Marking cast, director, writer with appropriate aspect category
 7. Clustering nouns 
 	* Convert nouns to vectors -> `word2vec/word2vec_wrapper.py`
-	* Clustering -> 
-8. Analyse the clusters for appropriate aspect labelling
-9. Evaluation on Test Dataset
+	* Clustering -> `Aspect-Clustering/kmeans.py`
+8. Analyse the clusters for appropriate aspect labelling -> (see the paper)
+9. Evaluation on Test Dataset -> labeled test set consists of `pos.csv` and `neg.csv`
 
 ## Output Files
 * `metadata-aspects/potential-aspects.csv`: contains a list of noun tokens from processed from `pos-tagging/token.csv`  on Step 6 (see [Methodology](#methodology)). Additionally it adds the `aspect_category` with this labels:
